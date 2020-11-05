@@ -1,0 +1,824 @@
+fund_name,fund_extended_name,fund_family,net_assets,net_assets_millions,investment,size,net_annual_expense_ratio_fund,portfolio_stocks,price_earnings,price_book,price_cashflow,basic_materials,consumer_cyclical,financial_services,healthcare,energy,industrials,technology,fund_return_5years,fund_beta_5years,fund_r_squared_5years,fund_sharpe_ratio_5years,fund_treynor_ratio_5years
+JPNL,Direxion Daily Japan Bull 3X Shares,Direxion Funds,10340000,10.34,Blend,Large,1.29,41.45,12.82,1.11,4.92,6.76,16.53,10.86,8.29,1.78,19.14,15.21,4.4,2.46,56.78,0.28,1.49
+FKU,First Trust United Kingdom AlphaDEX Fund,First Trust,10990000,10.99,Blend,Large,0.8,99.11,12.22,1.47,6.77,14.44,23.96,8.98,6.04,5.56,14.16,4.44,-0.38,0.94,59.65,0.01,-1.05
+SOIL,Global X Fertilizers/Potash ETF,Global X Funds,11100000,11.1,Blend,Medium,0.69,99.98,14.98,1.47,6.99,87.17,0,0,0,3,4.59,0,-2.42,1.04,56.85,-0.14,-3.1
+ADRU,Invesco BLDRS Europe Select ADR Index Fund,Invesco,11580000,11.58,Blend,Large,0.3,100,13.14,1.41,7.57,4.85,2.72,21.33,20.82,19.5,1.41,9.08,0.36,0.91,82.66,0.03,-0.35
+WREI,Invesco Wilshire US REIT ETF,Invesco,12100000,12.1,Blend,Medium,0.32,99.95,41.57,2.31,16.24,0,0,0,0,0,0,0,9.15,0.64,23.9,0.61,12.93
+FWDI,AdvisorShares Madrona International ETF,AdvisorShares,12310000,12.31,Blend,Large,1.25,98.12,12.1,1.45,4.49,15.1,18.36,7.26,7.86,15.63,2.52,24.14,0.53,1.14,87.88,0.06,-0.17
+FLM,First Trust Global Engineering and Construction ETF,First Trust,12510000,12.51,Value,Medium,0.7,99.79,10.43,1.24,8.67,2.61,0.8,0,0,2.05,93.7,0,0.83,1.06,69.7,0.06,-0.13
+PLND,VanEck Vectors Poland ETF,VanEck,12530000,12.53,Blend,Medium,0.66,92.91,12.69,1.38,4.91,8.61,8.17,39.1,0,16.75,0,8.09,-3.35,1.18,48.18,-0.11,-3.53
+EWEM,Invesco MSCI Emerging Markets Equal Country Weight ETF,Invesco,12670000,12.67,Blend,Large,0.7,98.22,11.24,1.47,4.46,8.74,6.77,38.19,1.69,10.68,4.92,8.2,0.94,1.02,74.1,0.09,0.34
+ENY,Invesco Canadian Energy Income ETF,Invesco,12770000,12.77,Blend,Medium,0.66,98.79,17.29,1.23,5.09,0,0,0,0,99.15,0,0.85,-10.92,1.26,36.81,-0.41,-9.28
+SCIN,Columbia India Small Cap ETF,Columbia,14450000,14.45,Blend,Small,0.77,99.36,10.02,0.97,3.71,11.26,10.7,23.94,5.91,0.75,16.68,15.59,4.27,0.88,14,0.26,3.84
+PUW,Invesco WilderHill Progressive Engy ETF,Invesco,14630000,14.63,Blend,Medium,0.7,99.46,12.36,1.45,6.4,19.26,8.39,0,0,13.43,31.4,12.22,-3.52,1.45,64.12,-0.11,-2.89
+FONE,First Trust NASDAQ Smartphone Index Fund,First Trust,14660000,14.66,Blend,Large,0.7,99.7,6.36,1.34,5.88,0,0,0,0,0,1.55,81.95,7.83,0.99,72.55,0.6,7.3
+DZK,Direxion Daily MSCI Developed Markets Bull 3X Shares,Direxion Funds,15000000,15,Blend,Large,1.19,33.49,13.5,1.41,6.74,7.88,11.54,18.99,11.28,5.96,13.27,7.8,-3.41,2.52,65.85,0.05,-1.65
+VEGA,AdvisorShares STAR Global Buy-Write ETF,AdvisorShares,15040000,15.04,Blend,Large,2.06,67.08,16.46,2.72,8.88,2.71,14.35,13.36,16.03,4.3,8.87,20.52,4.71,0.67,96.44,0.54,5.93
+PXR,Invesco Emerging Markets Infras ETF,Invesco,15490000,15.49,Blend,Large,0.75,99.85,9.05,1.14,3.8,52.42,1.88,0,0,1.58,38.84,0,1.26,1.21,64.68,0.1,0.23
+QMN,IQ Hedge Market Neutral Tracker ETF,IndexIQ,15620000,15.62,Growth,Large,1.01,16.6,15.47,1.8,7.91,6.21,14.55,14.45,9.54,3,14.57,19.68,0.82,0.36,21.07,0.02,0.08
+NFSWIX,NewFunds SWIX 40 ETF,ABSA Capital ETF,15680000,15.68,Growth,Large,0.27,100,13.69,2.29,7.68,8.76,8.5,26.19,3.53,6.3,1.35,28.31,5.54,1.03,88.16,-0.08,-1.62
+UPW,ProShares Ultra Utilities,ProShares,15780000,15.78,Value,Large,0.95,42.49,19.07,2.06,8.56,0.57,0,0,0,0.6,0,0,18.19,0.55,5.88,0.75,31.38
+EMFM,Global X Next Emerging & Frontier ETF,Global X Funds,16340000,16.34,Blend,Large,0.55,99.5,13.68,1.76,5.03,3.72,8.23,30.38,1.92,6.07,6.72,0.96,-2,0.99,67.68,-0.12,-2.82
+TUSA,First Trust Total US Market AlphaDEX ETF,First Trust,16700000,16.7,Blend,Medium,0.7,99.46,14.48,1.78,5.63,6.02,18.06,13.25,10.81,6.71,13.27,13.8,6.16,1.09,86.66,0.46,4.89
+PZI,Invesco Zacks Micro Cap ETF,Invesco,16860000,16.86,Value,Small,1.13,99.14,11.5,1.01,3.88,5.01,10.37,32.2,7.69,6.27,12.89,8.4,3.38,1,54.46,0.26,2.9
+ICOL,iShares MSCI Colombia ETF,iShares,17030000,17.03,Value,Large,0.61,82.73,11.41,1.34,3.79,10.87,5.31,22.96,0,30.83,7.79,0,-10.48,1.33,40.8,-0.36,-8.59
+YAO,Invesco China All-Cap ETF,Invesco,18460000,18.46,Value,Large,0.7,99.97,8.52,1.11,3.23,3.67,14.34,27.49,3.78,5.38,7.35,16.38,7.08,1.3,62.58,0.39,4.69
+PEX,ProShares Global Listed Private Equity ETF,ProShares,18570000,18.57,Value,Small,2.78,78.34,11.13,1.06,5.73,0.77,1.71,83.69,1.64,0.18,2.57,8.09,4.15,0.97,75.71,0.33,3.46
+ADRA,Invesco BLDRS Asia 50 ADR Index Fund,Invesco,18850000,18.85,Value,Large,0.3,100,12.22,1,3.41,6.6,30.44,22.56,4.11,3.97,2.43,21.39,4.46,1.06,82.66,0.33,3.57
+PXJ,Invesco Dynamic Oil & Gas Services ETF,Invesco,18890000,18.89,Blend,Medium,0.63,99.48,18.53,0.72,4.58,0,0,0,0,96.56,3.44,0,-22.22,1.74,34.93,-0.63,-13.25
+PSCM,Invesco S&P SmallCap Materials ETF,Invesco,18980000,18.98,Blend,Small,0.29,99.78,14.41,1.72,8.52,95.46,1.92,0,0,0,2.62,0,2.02,1.52,52.54,0.17,0.85
+YMLI,VanEck Vectors High Income Infrastructure MLP ETF,VanEck,19090000,19.09,Value,Medium,0.83,100,12.9,1.44,5.15,0,0,0,0,100,0,0,-3.48,1.41,52.18,-0.09,-3.03
+LBJ,Direxion Daily Latin America Bull 3X Shares,Direxion Funds,19530000,19.53,Value,Large,1.33,41.36,11.16,1.78,3.04,17.01,2.77,39.42,0,14.95,4.06,0.63,-22.16,2.62,14.06,0.04,-8.75
+CARZ,First Trust NASDAQ Global Auto Index Fund,First Trust,19710000,19.71,Value,Large,0.7,99.92,7.13,0.79,4.2,0,99.39,0,0,0,0.61,0,-2.4,1.14,64.98,-0.08,-2.2
+UXI,ProShares Ultra Industrials,ProShares,20080000,20.08,Blend,Large,0.95,44.46,17.56,3.84,6.74,2.98,3.51,4.43,0.31,0.04,77.23,11.5,16.64,2.39,89.07,0.66,6.65
+AUSE,WisdomTree Australia Dividend Fund,WisdomTree,20150000,20.15,Value,Large,0.58,100,15.07,1.86,7.23,16.44,14.96,22.45,6.46,4.02,11.23,7.89,1.8,1.12,68.59,0.15,1.02
+ALFA,AlphaClone Alternative Alpha ETF,AlphaClone,20180000,20.18,Growth,Large,0.69,99.94,18.85,3.22,12.33,0,19.48,15.42,12.72,2.65,7.9,25.69,5.98,0.89,51.52,0.43,5.82
+VLU,SPDR S&P 1500 Value Tilt ETF,SPDR State Street Global Advisors,20310000,20.31,Value,Large,0.13,99.73,13.75,2,6.73,2.55,11.13,18.82,12.05,8.64,9.81,13.76,8.56,1,94.13,0.71,7.85
+GULF,WisdomTree Middle East Dividend Fund,WisdomTree,20340000,20.34,Value,Large,0.88,100,11.69,1.42,2.65,10.29,1.05,58.53,0.23,1.82,4.5,0,1.38,0.51,20.98,0.14,1.82
+EQWS,Invesco Russell 2000 Equal Weight ETF,Invesco,20350000,20.35,Blend,Small,0.25,99.42,13.35,1.46,5.34,9.73,11.12,8.14,10.53,8.58,12.93,14.25,6.02,1.15,63.52,0.41,4.75
+PAGG,Invesco Global Agriculture ETF,Invesco,20620000,20.62,Value,Medium,0.77,99.98,14.15,1.57,8.8,51.53,0,0,0,0.97,2.83,0,0.23,0.9,65.81,0.03,-0.48
+ASEA,Global X FTSE Southeast Asia ETF,Global X Funds,20690000,20.69,Value,Large,0.65,99.98,13.54,1.63,6.89,5.91,3.22,49.93,2.8,6.85,3.22,0,2.48,0.84,60.56,0.2,2.16
+RETL,Direxion Daily Retail Bull 3X Shares,Direxion Funds,20820000,20.82,Blend,Medium,0.99,59.38,13.42,1.83,5.29,0,75.49,0,0,0,1.18,5.3,13.06,2.88,51.92,0.48,4.27
+PAF,Invesco FTSE RAFI Asia Pac ex-Jpn ETF,Invesco,21100000,21.1,Value,Large,0.49,99.6,9.63,1,4.44,11.89,7.28,27.76,1.22,4.81,9.57,13.87,4.11,1.1,79.25,0.28,2.89
+EQLT,Workplace Equality Portfolio,ALPS,21740000,21.74,Value,Large,0.75,97.69,13.67,2.09,7.14,3.44,19.59,22.88,10.24,1.49,11.99,14.08,8.85,1.01,91.42,0.72,8.02
+WMCR,Invesco Wilshire Micro-Cap ETF,Invesco,21940000,21.94,Blend,Small,0.85,99.63,11.42,1.49,5.45,2.07,10.79,23.97,25.63,3.11,7.86,13.04,4.91,1.03,52.23,0.34,4.14
+UCC,ProShares Ultra Consumer Services,ProShares,22220000,22.22,Growth,Large,0.95,45.36,21.02,4.23,10.28,0.06,72.59,0,0.76,0,4.2,0.29,21.49,2.12,83.71,0.85,9.74
+GXF,Global X FTSE Nordic Region ETF,Global X Funds,22380000,22.38,Blend,Large,0.58,100,15,2.2,13.28,0,2.54,24.36,19.67,6.32,21.27,12.57,-0.32,0.82,73.9,-0.04,-1.33
+ECNS,iShares MSCI China Small-Cap ETF,iShares,22590000,22.59,Value,Medium,0.59,99.75,6.84,0.95,3.41,8.05,20.18,2.58,6.65,2.49,12.14,18.7,3.53,1.17,38.35,0.22,2.2
+PGAL,Global X MSCI Portugal ETF,Global X Funds,22770000,22.77,Value,Medium,0.57,100,13.4,1.56,4.18,16.55,1.53,4.4,0,22.17,6.18,0,-6.48,1.2,59.26,-0.3,-5.95
+DBGR,Xtrackers MSCI Germany Hedged Equity ETF,Deutsche Asset Management,22910000,22.91,Blend,Large,0.45,48.46,11.9,1.36,7.1,10.32,17.95,16.06,11.83,0,13.05,13.57,4.26,0.85,46.67,0.3,4.17
+EQWM,Invesco Russell MidCap Equal Weight ETF,Invesco,24650000,24.65,Blend,Medium,0.25,99.45,16.76,1.88,6.93,7.08,12.63,5.46,11.09,11.19,12.4,14.38,8.01,1.06,85.68,0.59,6.61
+IETA,iShares FTSEurofirst 100 ETF EUR Dist,BlackRock Asset Management Ireland - ETF,24960000,24.96,Blend,Large,0.4,97.58,12.26,1.45,3.46,7.38,9.93,20.08,10.76,13.24,8.13,5.19,5.52,1.07,97.24,0.37,3.63
+BBRC,Columbia Beyond BRICs ETF,Columbia,25050000,25.05,Blend,Large,0.6,99.39,12.25,1.95,5.36,8.15,4.4,42.57,3.49,5.48,2.12,3.62,-1.45,0.86,64.86,-0.1,-2.38
+FYLD,Cambria Foreign Shareholder Yield ETF,CAMBRIA ETF TRUST,25540000,25.54,Value,Large,0.59,98.92,9.86,1.07,4.56,21.08,12.61,29.15,1.99,8.57,5.73,1.15,1.66,0.94,88.97,0.14,0.98
+EMIF,iShares Emerging Markets Infrastructure ETF,iShares,25780000,25.78,Blend,Large,0.75,93.91,14.07,1.28,7.77,0.55,0,0,0,16.18,44.53,0,-0.53,1,63.01,-0.01,-1.29
+FMK,First Trust Mega Cap AlphaDEX Fund,First Trust,26040000,26.04,Blend,Large,0.7,99.97,13.78,2.25,8.45,0,7.43,13.9,24.75,10.34,5.96,8.21,8.57,1.01,92.76,0.68,7.49
+GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,First Trust,26220000,26.22,Value,Medium,0.7,99.9,14.83,2.2,6.79,0,11.77,0,0,0,30.69,46.7,3.47,1.08,66.26,0.26,2.62
+FINU,ProShares UltraPro Financial Select Sector,ProShares,26430000,26.43,Value,Large,0.95,91.85,11.51,1.31,5.21,0,0,100,0,0,0,0,16.9,3.31,65.52,0.55,4.87
+FRAK,VanEck Vectors Unconventional Oil & Gas ETF,VanEck,26780000,26.78,Blend,Medium,0.54,99.77,18.93,1.24,3.21,0,0,0,0,100,0,0,-14.56,1.55,34.03,-0.41,-9.88
+NLR,VanEck Vectors Uranium+Nuclear Energy ETF,VanEck,26780000,26.78,Value,Large,0.61,100,13.42,1.07,4.43,5.77,0,0,0,0,3.13,0,4.16,0.37,18.16,0.39,9.02
+EFNL,iShares MSCI Finland ETF,iShares,27030000,27.03,Blend,Medium,0.53,92.74,15.39,2.16,12.28,16.25,6.48,11.14,2.62,5.15,25.29,19.44,4.89,0.85,61.58,0.37,4.82
+ENOR,iShares MSCI Norway ETF,iShares,27520000,27.52,Blend,Medium,0.53,99.82,14.47,1.6,5.6,9,3.25,22.74,0.16,28.93,5.4,1.8,-1.62,1.08,55.86,-0.07,-2.44
+BJK,VanEck Vectors Gaming ETF,VanEck,27530000,27.53,Blend,Large,0.66,100,17.31,1.89,2.85,0,84.51,0,0,0,0,8.09,-3.18,1.27,52.79,-0.11,-3.12
+FLN,First Trust Latin America AlphaDEX Fund,First Trust,27680000,27.68,Value,Large,0.8,98.3,11.32,1.53,5.15,16.19,11.91,21.24,0,3.45,12.52,0,0.98,1.3,39.36,0.13,0.18
+PSAU,Invesco Global Gold and Prec Mtls ETF,Invesco,28590000,28.59,Growth,Medium,0.75,99.97,24.87,1.49,8.41,99.48,0,0,0,0,0.52,0,-0.05,0.52,2.66,0.15,-1.43
+EVX,VanEck Vectors Environmental Services ETF,VanEck,29040000,29.04,Growth,Medium,0.56,99.87,19.81,2.66,4.26,1.89,3.44,0,13.84,2.01,78.82,0,9.08,0.87,55.66,0.68,9.5
+VEGI,iShares MSCI Global Agriculture Producers ETF,iShares,29510000,29.51,Value,Medium,0.39,99.46,14.83,1.73,11.61,31.91,0,0,0,0.28,29.04,0,2.46,0.92,71.42,0.22,2.07
+LVL,Invesco S&P Global Dividend Opportunities Index ETF,Invesco,30000000,30,Value,Large,0.64,99.14,14.76,1.96,6.93,3.24,13.65,21.25,6.86,2.18,7.72,1.46,1.29,1.02,76.84,0.11,0.52
+FWDD,AdvisorShares Madrona Domestic ETF,AdvisorShares,30060000,30.06,Value,Large,1.25,97.07,11.35,1.87,5.19,3.06,19.53,26.75,8.41,10.47,15.65,12.88,6.45,1.16,91.51,0.48,4.98
+PEZ,Invesco DWA Consumer Cyclicals Momentum ETF,Invesco,30110000,30.11,Growth,Medium,0.6,99.45,24.33,4.54,13.39,0,78.65,0,0,0,1.93,8.82,6.56,1.01,54.61,0.44,5.65
+PFI,Invesco DWA Financial Momentum ETF,Invesco,30130000,30.13,Growth,Medium,0.6,99.44,22.1,3,11.78,0,0,63.64,0,0,0,1.66,4.41,0.9,53.69,0.33,4.07
+IFEU,iShares Europe Developed Real Estate ETF,iShares,30420000,30.42,Blend,Medium,0.48,94.15,15.5,0.92,14.26,0,0.53,0,0,0,0.28,0,4.48,0.93,49.82,0.32,4.01
+PSCE,Invesco S&P SmallCap Energy ETF,Invesco,30640000,30.64,Value,Small,0.29,100,10.28,0.79,2.17,10.28,0,0,0,88.98,0.73,0,-26.64,2.03,33.37,-0.62,-13.54
+INXX,Columbia India Infrastructure ETF,Columbia,31400000,31.4,Blend,Large,0.76,99.51,14.99,1.48,6.32,32.66,6.97,0,0,3.26,24.16,0,2.23,0.94,23.12,0.18,1.84
+DVYA,iShares Asia/Pacific Dividend ETF,iShares,32260000,32.26,Value,Large,0.49,98.96,12,1.44,5.34,11.93,26.45,26.93,0,2.91,6.06,4,0.46,1.04,70.84,0.05,-0.35
+EDOG,ALPS Emerging Sector Dividend Dogs ETF,ALPS,32280000,32.28,Value,Large,0.6,97.21,11.62,1.7,5.22,12.77,10.17,10.18,10.59,5.9,8.56,10.43,0.44,0.99,57.81,0.07,-0.14
+SYG,SPDR MFS Systematic Growth Equity ETF,SPDR State Street Global Advisors,32460000,32.46,Growth,Large,0.61,99.08,15.27,4.29,8.93,1.67,19.89,6.53,19.28,0,9.48,33.17,12.47,1.06,89.08,0.92,10.71
+SYV,SPDR MFS Systematic Value Equity ETF,SPDR State Street Global Advisors,33020000,33.02,Value,Large,0.6,98.99,12.37,1.87,6.27,2.11,4.01,17.65,17.51,9.63,9.16,10.37,10.2,0.97,88,0.8,9.23
+AXJL,WisdomTree Asia Pacific ex-Japan Fund,WisdomTree,33700000,33.7,Value,Large,0.48,99.65,12.24,1.42,5.31,13.36,5.92,21.61,1.43,7.13,5.88,20.57,4.1,0.97,79.85,0.31,3.41
+GASL,Direxion Daily Natural Gas Related Bull 3X Shares,Direxion Funds,34200000,34.2,Blend,Medium,1.04,51.31,15.37,0.84,2.53,0,0,0,0,100,0,0,-79.09,4.48,25.01,-0.9,-17.81
+GOEX,Global X Gold Explorers ETF,Global X Funds,34270000,34.27,Growth,Small,0.65,99.93,15.19,1.16,3.57,100,0,0,0,0,0,0,4.03,0.5,1.44,0.27,6.86
+EMCG,WisdomTree Emerging Markets Consumer Growth Fund,WisdomTree,34410000,34.41,Growth,Large,0.32,97.03,12.62,2.04,5.66,0.9,24.68,8.31,3.2,0.69,0.67,24.98,0.52,1.1,68.55,0.05,-0.35
+NEWFSA,NewFunds NewSA ETF,ABSA Capital ETF,34640000,34.64,Growth,Large,0.54,100,15.04,2.27,6.85,6.09,4.08,30.03,3,5.51,1.39,34.19,3.36,0.96,76.27,-0.26,-4.11
+RSXJ,VanEck Vectors Russia Small-Cap ETF,VanEck,34790000,34.79,Value,Small,0.76,98.54,5.42,0.74,1.9,15.66,13.45,11.31,0,0,24.97,0,2.07,1.62,46.68,0.19,0.86
+EWSC,Invesco S&P SmallCap 600 Equal Weight ETF,Invesco,35220000,35.22,Blend,Small,0.4,100,15.46,1.5,5.93,7.63,15.49,14.27,10.3,6.03,15.05,16.51,4.15,1.23,60.33,0.28,2.78
+IDHQ,Invesco S&P International Developed Quality ETF,Invesco,35340000,35.34,Growth,Large,0.29,99.66,15.93,2.57,8.97,7.98,13.35,7.26,22.04,1.6,13.01,19.2,4.68,0.85,88.25,0.41,4.69
+MAPPSG,NewFunds MAPPS Growth ETF,ABSA Capital ETF,36090000,36.09,Growth,Large,0.22,77.21,13.68,2.29,7.67,8.77,8.49,26.21,3.53,6.3,1.35,28.34,5.27,1.02,89.62,-0.11,-1.48
+ADRD,Invesco BLDRS Developed Markets 100 ADR Index Fund,Invesco,36380000,36.38,Blend,Large,0.3,100,12.75,1.24,5.48,6.24,7.75,23.5,18.82,16.1,1.98,8.98,0.52,0.92,86.89,0.05,-0.12
+KCE,SPDR S&P Capital Markets ETF,SPDR State Street Global Advisors,37250000,37.25,Blend,Medium,0.35,99.72,12.7,1.92,4.93,0,0,98.05,0,0,1.95,0,3.94,1.25,53.7,0.26,2.49
+RWW,Oppenheimer S&P Financials Revenue ETF,OppenheimerFunds,37680000,37.68,Value,Large,0.45,99.85,10.65,1.14,4.78,0,0,100,0,0,0,0,8,1.05,56.48,0.53,6.9
+QSY,WisdomTree U.S. Quality Shareholder Yield Fund,WisdomTree,38110000,38.11,Value,Large,0.38,100,13.02,2.32,7.34,2.68,24.25,18.72,6.86,4.49,15.09,19.56,9.32,1.03,91.2,0.73,8.26
+FPA,First Trust Asia Pacific Ex-Japan AlphaDEX Fund,First Trust,38270000,38.27,Value,Large,0.8,99.63,9.3,0.87,5.96,15.52,3.88,3.58,2.66,5.74,17.96,8.54,4.08,0.98,68.88,0.31,3.52
+PHDG,Invesco S&P 500 Downside Hedged ETF,Invesco,38990000,38.99,Blend,Large,0.39,84.31,17.05,2.97,8.79,2.46,11.91,15.38,14.47,5.42,10.25,22.94,2.37,0.6,62.78,0.23,2.66
+MAPPSP,NewFunds MAPPS Protect ETF,ABSA Capital ETF,39270000,39.27,Growth,Large,0.22,41.3,13.68,2.29,7.66,8.78,8.5,26.23,3.53,6.3,1.36,28.36,5.33,0.43,66.2,-0.23,-3.67
+PSR,Invesco Active U.S. Real Estate Fund,Invesco,40070000,40.07,Blend,Medium,0.35,99.83,43.01,2.75,17.52,2.43,0,0,0,0,0.68,0,10.01,0.65,26.72,0.7,14.23
+NGE,Global X MSCI Nigeria ETF,Global X Funds,40100000,40.1,Blend,Small,0.88,99.62,5.33,0.78,0.9,6.55,0,55,0,2.72,0,0,-18.73,0.44,3.38,-0.58,-43.38
+SYE,SPDR MFS Systematic Core Equity ETF,SPDR State Street Global Advisors,40100000,40.1,Blend,Large,0.6,99.06,14.07,2.4,7.33,0.47,10.49,13.47,15.24,4.15,7.55,22.52,12.53,0.97,94.64,0.99,11.34
+EWGS,iShares MSCI Germany Small-Cap ETF,iShares,40740000,40.74,Growth,Small,0.59,99.39,15.94,1.45,6.86,6.15,6.76,7.7,10.31,0,22.57,22.44,7.09,1.1,67.1,0.46,5.77
+FVL,First Trust Value Line 100 Exchange-Traded Fund,First Trust,41260000,41.26,Growth,Large,0.7,99.97,21.07,3.27,8.8,8.8,7.61,5.53,12.35,10.37,9.6,13.59,2.62,1.06,73.26,0.2,1.7
+YMLP,VanEck Vectors High Income MLP ETF,VanEck,42410000,42.41,Value,Small,0.84,98.85,12.89,1.19,7.03,21.48,0,0,0,42.88,19.1,0,-17.92,1.57,44.06,-0.64,-11.9
+PXE,Invesco Dynamic Energy Exploration & Production ETF,Invesco,42430000,42.43,Blend,Medium,0.65,99.58,11.45,0.98,2.44,0,0,0,0,100,0,0,-8.78,1.56,36.02,-0.2,-6.16
+MMTM,SPDR S&P 1500 Momentum Tilt ETF,SPDR State Street Global Advisors,43100000,43.1,Growth,Large,0.12,99.76,19.42,3.6,10.82,2.02,13.53,12.32,17.88,3.14,8.36,22.99,10.93,1.01,95.82,0.89,10.04
+DWPP,First Trust Dorsey Wright People's Portfolio ETF,First Trust,43200000,43.2,Blend,Large,0.6,99.98,16.55,2.53,7.54,4,12.36,13.8,12.68,5.89,13.96,15.02,6.77,0.89,77.67,0.57,6.74
+UYM,ProShares Ultra Basic Materials,ProShares,43280000,43.28,Blend,Large,0.95,48.24,15.56,2.06,9.42,98.21,0.32,0,0,0.58,0.89,0,2.5,2.33,66.04,0.21,0.74
+NFSH40,NewFunds Shari'ah Top 40 ETF,ABSA Capital ETF,43630000,43.63,Value,Large,0.17,100,11.72,1.79,5.62,62.3,2.84,0,3.25,14.45,0,0,-2.32,0,0,-0.31,0
+CSKR,iShares MSCI Korea ETF USD Acc,BlackRock Asset Management Ireland - ETF,43910000,43.91,Value,Large,0.65,91.87,6.24,0.9,4.78,7.43,8.83,12.46,5.79,2.32,7.8,47.26,0.72,1,99.93,0.07,-0.23
+IQDY,FlexShares International Quality Dividend Dynamic Index Fund,Flexshares Trust,44290000,44.29,Value,Large,0.47,98.68,9.98,1.48,4.67,12.41,9.45,22.66,8.57,6.21,10.2,11.2,1.84,1.09,95.96,0.13,0.82
+IDX,VanEck Vectors Indonesia Index ETF,VanEck,44330000,44.33,Blend,Large,0.57,99.73,14,2,8.99,17.75,10.57,31.89,3.39,0,5.69,0.58,-0.19,0.74,23.94,0.05,-0.92
+DRN,Direxion Daily MSCI Real Estate Bull 3X Shares,Direxion Funds,46930000,46.93,Blend,Medium,1.04,57.54,36.29,2.28,7.53,0,0,0,0,0,1.06,0,16.42,2.17,28.65,0.53,7.15
+IEMI,iShares EM Infrastructure ETF USD Dist,BlackRock Asset Management Ireland - ETF,47120000,47.12,Value,Large,0.74,99.03,13.9,1.16,6.67,0,0,0,0,21.09,40.6,0,1.46,1.11,53.92,-0.08,-2.06
+EDEN,iShares MSCI Denmark ETF,iShares,47240000,47.24,Growth,Large,0.53,98.54,16.54,2.9,15.77,4.92,2.4,10.3,44.89,0,22.23,3.42,6.48,0.78,52.32,0.47,7.02
+PBD,Invesco Global Clean Energy ETF,Invesco,48320000,48.32,Blend,Medium,0.75,91.45,16.98,1.52,4.41,6.37,7.09,0,1.14,1.49,15.16,34.77,-0.82,1.24,70.89,-0.01,-1.24
+FFR,First Trust FTSE EPRA/NAREIT Developed Markets Real Estate Index Fund,First Trust,50180000,50.18,Blend,Medium,0.6,99.02,23.92,1.39,9.05,0,0.29,0,0,0,0.05,0,6.55,0.71,44.14,0.53,8.19
+FILL,iShares MSCI Global Energy Producers ETF,iShares,50360000,50.36,Blend,Large,0.39,99.61,13.44,1.36,4.52,1.46,0,0,0,98.08,0.24,0,-1.12,1.17,47.36,-0.03,-1.95
+PXMV,Invesco Russell MidCap Pure Value ETF,Invesco,50470000,50.47,Value,Medium,0.39,99.59,16.53,1.52,7.96,5.3,8.3,11.03,2.14,3.41,9.24,7.45,6.59,0.94,72.34,0.52,6.2
+ZMLP,Direxion Zacks MLP High Income Index Shares,Direxion Funds,50920000,50.92,Value,Medium,0.65,99.69,12.73,1.36,6.29,4.12,0,0,0,79.75,8.38,0,-11.19,1.5,53.69,-0.45,-8.02
+MIDU,Direxion Daily Mid Cap Bull 3X Shares,Direxion Funds,51050000,51.05,Blend,Medium,1.06,65.6,16.36,1.92,8.47,6.03,14.25,16.16,8.88,4.46,15.7,16.76,15.04,3.23,80.86,0.53,4.39
+SILJ,ETFMG Prime Junior Silver ETF,Pure Funds,51070000,51.07,Growth,Small,0.69,99.27,24.05,1.18,6.83,98.36,0,0,0,0,1.64,0,-3.52,1.28,8.13,0.14,-3.12
+IDJV,iShares Euro Total Mkt Val Lg ETF € Dist,BlackRock Asset Management Ireland - ETF,51260000,51.26,Value,Large,0.4,99.37,10.86,1.16,2.22,6.69,8.39,25.99,12.23,10.85,11.39,1.78,3.64,1.02,90.61,0.34,3.78
+PXI,Invesco DWA Energy Momentum ETF,Invesco,51500000,51.5,Blend,Medium,0.6,99.31,16.42,1.43,2.94,5.19,0,0,0,94.81,0,0,-10.12,1.43,32.83,-0.28,-7.63
+DXGE,WisdomTree Germany Hedged Equity Fund,WisdomTree,51540000,51.54,Value,Large,0.48,100,11.21,1.43,5.89,11.73,22.52,19.45,7.04,0,17.72,6.83,5.35,0.82,46.72,0.38,5.57
+BTAL,AGFiQ U.S. Market Neutral Anti-Beta Fund,AGFiQ,51630000,51.63,Blend,Medium,0.76,47.5,17.64,2.44,11.06,4.48,15.71,11.89,10.69,5.1,14.44,12.92,2.45,1.72,20.99,0.2,0.94
+ISRA,VanEck Vectors Israel ETF,VanEck,52060000,52.06,Blend,Medium,0.59,99.99,13.31,1.55,5.59,2.78,2.06,18.99,12.67,2.67,4.32,43.64,1.08,0.77,48.21,0.1,0.52
+KORU,Direxion Daily South Korea Bull 3X Shares,Direxion Funds,52420000,52.42,Value,Large,1.28,41.05,8.32,0.86,3.57,8.49,11.1,13.33,5.86,2.15,9.29,40.65,-10.22,2.67,30,0.06,-4.11
+FRN,Invesco Frontier Markets ETF,Invesco,53310000,53.31,Blend,Medium,0.7,99.67,10.72,1.68,4.46,8.71,10.63,42.44,0,3.25,7.51,0,-0.6,0.89,57.11,-0.02,-1.42
+CMEX,iShares MSCI Mexico Capped ETF USD Acc,BlackRock Asset Management Ireland - ETF,53380000,53.38,Blend,Large,0.65,99.57,14.15,1.89,6.48,14.5,9.19,13.34,0,0,7.99,0,-7.75,0,0,-0.35,0
+FNK,First Trust Mid Cap Value AlphaDEX Fund,First Trust,53450000,53.45,Value,Medium,0.7,100,11.48,1.23,5.69,7.12,17.59,22.25,1.84,5.73,21.11,4.95,3.92,1.13,68.85,0.28,2.76
+KOL,VanEck Vectors Coal ETF,VanEck,53590000,53.59,Value,Medium,0.6,99.54,7.61,1.03,2.93,80.89,0,0,0,0,19.11,0,-2.6,1.26,26.64,0.01,-2.58
+RTWO,L&G Russell 2000 US Small Cap ETF,LGIM ETF Managers Limited,53640000,53.64,Blend,Small,0.45,100,15.94,1.96,8.01,4.99,13.09,17.28,14.25,3.32,14.31,15.79,6.82,1,100,0.5,6.38
+EWK,iShares MSCI Belgium Capped ETF,iShares,54510000,54.51,Blend,Large,0.47,97.85,14.87,1.54,9.74,5.37,2.42,24.65,13.09,0,10.05,2.68,3.41,0.94,72.46,0.26,2.83
+DWAQ,Invesco DWA NASDAQ Momentum ETF,Invesco,54980000,54.98,Growth,Medium,0.6,99.79,30.79,4.89,16.86,0.57,12.66,6.59,36.55,0,8.49,28.16,9.64,1.29,70.34,0.58,6.97
+USD,ProShares Ultra Semiconductors,ProShares,55250000,55.25,Growth,Large,0.95,37.18,14.77,3.79,7.9,0.55,0,0,0,0,0,99.23,33.36,2.4,49.6,0.93,13.56
+TAO,Invesco China Real Estate ETF,Invesco,55450000,55.45,Value,Large,0.7,99.74,7.43,0.72,2.71,0,0.47,0,0,0,0.24,0,14.28,1.3,57.43,0.7,10.17
+CPI,IQ Real Return ETF,IndexIQ,56540000,56.54,Blend,Large,0.44,17.24,16.7,2.39,8.04,3.58,12.29,15.7,14.43,4.48,11.73,20.49,1.48,0.36,84.86,0.28,1.96
+QDYN,FlexShares Quality Dividend Dynamic Index Fund,Flexshares Trust,56610000,56.61,Value,Large,0.37,98.45,13.95,2.62,7.77,3.41,11.04,15.98,10.92,8.25,11.69,23.42,8.1,1.04,92.6,0.64,7.06
+GRI,Cohen & Steers Global Realty Majors ETF,ALPS,57020000,57.02,Blend,Large,0.55,99.56,26.92,1.64,15.46,0,0.44,0,0,0,0,0,6.92,0.72,43.61,0.55,8.46
+GURU,Global X Guru Index ETF,Global X Funds,57670000,57.67,Growth,Large,0.75,99.86,15.76,2.38,8.68,6.63,15.6,11.37,12.99,5.13,8.09,20.28,5.93,1.09,82.96,0.44,4.72
+EGPT,VanEck Vectors Egypt Index ETF,VanEck,58050000,58.05,Blend,Small,0.94,99.79,4.15,0.79,1.58,24.23,1.99,16.4,3.9,1.59,7.52,0,-11.57,0.9,18.19,-0.38,-13.84
+EIRL,iShares MSCI Ireland ETF,iShares,58100000,58.1,Blend,Medium,0.47,96.98,14.61,1.4,10.31,31.11,15.72,10.32,6.17,0,5.12,0.06,2.8,0.77,42.42,0.22,2.86
+AFK,VanEck Vectors Africa Index ETF,VanEck,58470000,58.47,Blend,Medium,0.84,99.96,12.89,1.74,5.16,20.66,3.82,35.41,0.92,7.2,0.65,8.39,-4.94,1,54.25,-0.28,-5.7
+FYT,First Trust Small Cap Value AlphaDEX Fund,First Trust,59670000,59.67,Value,Small,0.76,100,12,1.06,4.52,12.06,24.13,7.52,2.06,8.81,21.23,6.28,2.67,1.17,56.08,0.19,1.63
+SLVP,iShares MSCI Global Silver Miners ETF,iShares,60050000,60.05,Growth,Medium,0.39,99.79,24.1,1.22,9.52,97.41,0,0,0,0,2.59,0,-3.64,0.8,4.59,0.08,-5.79
+EQWL,Invesco Russell Top 200 Equal Weight ETF,Invesco,60380000,60.38,Blend,Large,0.25,99.44,15.25,2.63,6.52,11.22,8.3,9.18,11.8,11.17,10.61,11.77,10.42,0.98,97,0.88,9.9
+ISUS,iShares MSCI USA Islamic ETF USD Dist,BlackRock Asset Management Ireland - ETF,60470000,60.47,Blend,Large,0.5,99.63,15.61,2.7,12.98,4.99,7.79,0,32.31,19.58,8.08,14.53,6.6,0,0,0.65,0
+GYLD,Arrow Dow Jones Global Yield ETF,ArrowShares,60590000,60.59,Value,Small,0.75,62.05,9.6,1.06,4.64,11.73,3.66,2.02,0,23.03,7.98,0,-2.25,1.55,66.96,-0.16,-1.75
+HECO,Strategy Shares EcoLogical Strategy ETF,Strategy shares,61150000,61.15,Growth,Large,0.98,95.28,20.17,6.64,15.4,0,12.81,13.55,13.56,0,10.25,36.25,7.33,0.75,71.06,0.69,8.77
+FTHI,First Trust BuyWrite Income ETF,First Trust,61230000,61.23,Value,Large,0.85,98.74,14.87,2.46,10.12,6.58,14.32,19.36,7.77,3.35,15.95,14,6.33,0.74,85.98,0.64,7.45
+KBWP,Invesco KBW Property & Casualty Insurance ETF,Invesco,61920000,61.92,Value,Medium,0.35,99.46,12.45,1.36,7.92,0,0,100,0,0,0,0,12.84,0.64,38.46,1.05,18.9
+PSCU,Invesco S&P SmallCap Utilities & Communication Services ETF,Invesco,61960000,61.96,Blend,Small,0.29,99.72,28.03,1.74,7.69,0,19.7,0,0,0,0,6.62,12.12,0.52,14.65,0.79,21.98
+PYZ,Invesco DWA Basic Materials Momentum ETF,Invesco,62200000,62.2,Value,Medium,0.6,99.54,13.47,1.99,4.97,93.9,0,0,0,0,6.1,0,3.35,1.34,67.84,0.23,1.89
+SLX,VanEck Vectors Steel ETF,VanEck,63990000,63.99,Value,Large,0.56,100,8.86,1.14,4.31,87.34,0,0,0,5.66,6.99,0,0.63,1.69,35.38,0.14,-0.1
+PEJ,Invesco Dynamic Leisure and Entertainment ETF,Invesco,64410000,64.41,Blend,Medium,0.63,99.81,16,3.29,6.51,0,77.85,0,0,0,16.8,2.5,5.34,0.87,52.02,0.4,5.2
+ENFR,Alerian Energy Infrastructure ETF,ALPS,64660000,64.66,Value,Large,0.65,99.71,17.9,1.85,5.52,0,0,0,0,98.04,1.96,0,-0.75,1.23,51.37,0.02,-1.21
+PBS,Invesco Dynamic Media ETF,Invesco,64920000,64.92,Growth,Medium,0.63,99.93,16.99,2.18,10.32,0,68.92,0,0,0,0,31.08,6.1,1.02,59.71,0.42,5.23
+EWO,iShares MSCI Austria Capped ETF,iShares,65730000,65.73,Value,Medium,0.47,98.3,11.2,1.04,6.06,11.82,0.65,36.16,0,17.69,10.83,2.38,2.42,1.32,76.42,0.18,1.21
+PSCI,Invesco S&P SmallCap Industrials ETF,Invesco,66070000,66.07,Growth,Small,0.29,99.84,14.48,2.11,6.21,9.62,5.85,0,0,0,79.77,4.76,7.38,1.17,47.54,0.43,5.67
+COPX,Global X Copper Miners ETF,Global X Funds,67890000,67.89,Blend,Medium,0.65,99.85,12.84,1.02,3.54,100,0,0,0,0,0,0,-2.81,1.91,31.46,0.09,-1.84
+EWUS,iShares MSCI United Kingdom Small-Cap ETF,iShares,67940000,67.94,Growth,Small,0.59,97.96,14,1.78,8.05,6.23,20.44,14.6,5.44,2.9,22.65,8.24,0.85,0.98,54.78,0.08,0.09
+PSCC,Invesco S&P SmallCap Consumer Staples ETF,Invesco,68280000,68.28,Blend,Small,0.29,99.91,18.36,1.78,7.62,9.17,5.93,0,0,0,13.95,0,10,0.65,23.49,0.66,14.12
+NFO,Invesco Insider Sentiment ETF,Invesco,68390000,68.39,Blend,Medium,0.6,99.91,18.99,2.44,7.38,4.9,7.79,7.36,9.13,4.59,21.38,12.66,7.94,1.01,83.5,0.62,7.09
+HAO,Invesco China Small Cap ETF,Invesco,68890000,68.89,Value,Medium,0.75,99.72,8.15,0.97,3.23,10.39,12.39,8.04,7.07,1.75,18.7,12.95,4.57,1.25,45.73,0.28,3.09
+DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,WisdomTree,69190000,69.19,Growth,Large,0.32,99.67,11.73,1.89,5.44,9.99,12.56,13.78,3.93,6.15,8.79,22.92,2.44,0.98,70.73,0.18,1.64
+ROOF,IQ U.S. Real Estate Small Cap ETF,IndexIQ,71470000,71.47,Value,Small,0.7,99.49,25.35,1.48,7.8,0,0,0,0,0,0,0,5.67,0.87,39.15,0.38,5.65
+PBJ,Invesco Dynamic Food & Beverage ETF,Invesco,71620000,71.62,Blend,Medium,0.63,99.76,21.67,2.26,11.77,0,16.25,0,0,0,2.65,0,5.18,0.59,33.76,0.44,7.55
+DNL,WisdomTree Global ex-U.S. Quality Dividend Growth Fund,WisdomTree,72280000,72.28,Growth,Large,0.58,99.98,15.23,1.96,10.02,6.83,12.36,5.87,10.72,0.44,12.78,23.71,3.73,0.95,91.16,0.29,2.95
+FAN,First Trust Global Wind Energy ETF,First Trust,72440000,72.44,Blend,Medium,0.6,96.05,13.64,1.68,6.13,0.08,1.89,0,0,2.04,36.75,1.28,4.94,1.11,60.57,0.33,3.66
+NFEMOM,NewFunds Equity Momentum ETF,ABSA Capital ETF,73100000,73.1,Blend,Medium,0.3,100,12.1,1.96,9.57,26.82,12.56,23.08,0,9.66,3.85,4.5,4.75,0.93,42.97,-0.11,-3.14
+HAP,VanEck Vectors Natural Resources ETF,VanEck,73340000,73.34,Value,Large,0.5,99.87,13.85,1.49,7.07,34.8,3.61,0.62,0,23.75,15.87,0.43,1.19,1.04,64.19,0.1,0.46
+EEB,Invesco BRIC ETF,Invesco,73600000,73.6,Blend,Large,0.64,99.88,10.42,1.34,3.67,8.31,16,19.94,1.21,21.81,4.97,13.68,4.97,1.36,73.88,0.31,3.07
+PXQ,Invesco Dynamic Networking ETF,Invesco,76630000,76.63,Growth,Medium,0.63,99.64,22.58,3.89,16.69,0,0,0,0,0,0,97.52,12.84,1.15,59.14,0.76,10.44
+IDJG,iShares Euro Total Mkt Gr Lg ETF € Dist,BlackRock Asset Management Ireland - ETF,76680000,76.68,Growth,Large,0.4,99.63,17.11,2.16,7.24,11.78,17.83,10.57,7.99,1.25,12.03,23.71,4.62,0.99,90.31,0.41,4.85
+STPROP,STANLIB SA Property ETF,STANLIB Collective Investments,77030000,77.03,Value,Small,0.29,98.27,10.95,0.75,19.68,0,0,0,0,0,0,0,5.74,1,98.46,0.02,-0.71
+PXSV,Invesco Russell 2000 Pure Value ETF,Invesco,77100000,77.1,Value,Small,0.39,99.85,12.8,0.97,3.97,2.21,11.57,20.89,3.93,4.43,13.11,8.43,5.36,1.07,51.06,0.35,4.35
+AIRR,First Trust RBA American Industrial RenaissanceTM ETF,First Trust,78070000,78.07,Blend,Small,0.7,99.95,15.04,1.99,8.32,0,1.96,9.47,0,0,83.13,5.44,4.79,1.26,44.02,0.29,3.2
+PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,Invesco,78690000,78.69,Blend,Small,0.29,99.84,14.41,1.72,7.06,3.26,80.74,0,0,0,1.85,5.97,5.69,0.88,36.58,0.37,5.54
+1DIV,ThaiDEX SET High Dividend ETF,One Asset Management Ltd,79620000,79.62,Value,Large,1.06,97.21,10.24,1.61,5.35,16.59,0.42,22.46,0,31.58,0,0.77,4.68,1.02,79.71,0.27,2.64
+KBWR,Invesco KBW Regional Banking ETF,Invesco,80540000,80.54,Value,Medium,0.35,99.61,11.2,1.18,5.15,0,0,100,0,0,0,0,5.99,1.03,29.1,0.34,5.06
+RTH,VanEck Vectors Retail ETF,VanEck,80900000,80.9,Growth,Large,0.35,100,18.28,5.9,11.91,0,57.02,0,9.36,0,0,0,13.62,0.87,49.96,0.95,14.81
+PEK,VanEck Vectors ChinaAMC CSI 300 ETF,VanEck,82720000,82.72,Blend,Large,0.6,97.02,11.63,1.53,5.42,7.58,8.49,34.08,6.28,1.42,13.65,11.06,11.62,1.14,25.51,0.51,9.34
+DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,WisdomTree,83120000,83.12,Value,Small,0.58,100,12.28,0.88,5.63,13.46,23.55,8.98,5.15,0.87,23.78,12.97,10.15,0.75,37.58,0.68,12.44
+FAB,First Trust Multi Cap Value AlphaDEX Fund,First Trust,86140000,86.14,Value,Medium,0.71,99.87,11.47,1.3,4.54,6.79,19.22,19.37,4.14,6.24,16.33,5.87,4.95,1.08,74.4,0.36,3.86
+PXSG,Invesco Russell 2000 Pure Growth ETF,Invesco,87430000,87.43,Growth,Small,0.39,99.78,20.16,4.03,9.91,4.52,13.91,4.79,25.89,1.4,11.5,32.74,8.85,1.21,66.16,0.55,6.72
+CMIB,iShares FTSE MIB ETF EUR Acc,BlackRock Asset Management Ireland - ETF,87460000,87.46,Value,Large,0.33,99.43,9.75,1.06,1.99,0.39,15.55,35.39,0.89,14.11,7.08,4.11,2.51,1,99.23,0.25,2.9
+EWZS,iShares MSCI Brazil Small-Cap ETF,iShares,88280000,88.28,Blend,Medium,0.59,99.26,9.16,1.6,6.76,4.89,27.94,8.36,8.43,1.3,7.12,5.66,-0.7,1.48,26.17,0.12,-1.02
+GEX,VanEck Vectors Global Alternative Energy ETF,VanEck,89230000,89.23,Growth,Medium,0.63,99.87,19.23,2.29,8.84,4.85,9.02,0,0,0.86,39.54,31.27,1.34,1.22,62.41,0.12,0.47
+QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,First Trust,89680000,89.68,Growth,Large,0.6,99.86,16.45,3.74,12.26,0,30.97,3.27,23.95,0,17.73,4.89,9.17,1.12,85.74,0.66,7.48
+BRF,VanEck Vectors Brazil Small-Cap ETF,VanEck,90160000,90.16,Blend,Medium,0.6,98.25,13.17,1.71,6.71,7.78,23.47,1.7,7.9,2.09,9.76,8.53,-1.98,1.42,27.24,0.08,-1.79
+GXG,Global X MSCI Colombia ETF,Global X Funds,91570000,91.57,Value,Large,0.61,98.89,11.73,1.27,4.32,9.72,3.31,48.31,0,17.19,2.94,0,-10.37,1.37,41.7,-0.33,-8.14
+INDL,Direxion Daily MSCI India Bull 3x Shares,Direxion Funds,91590000,91.59,Growth,Large,1.38,56.68,19.36,2.75,11.67,8.81,10.43,24.43,5.34,15.12,3.87,17.27,4.02,1.97,17.64,0.32,1.69
+DEW,WisdomTree Global High Dividend Fund,WisdomTree,92230000,92.23,Value,Large,0.58,98.85,12.48,1.59,6,4.29,5.93,17.53,7.57,12.27,5.47,7.38,3.23,0.83,84.85,0.27,2.93
+NORW,Global X MSCI Norway ETF,Global X Funds,94380000,94.38,Blend,Medium,0.5,99.87,14.46,1.6,5.59,9.02,3.26,22.82,0.15,28.83,5.45,1.79,-1.65,1.09,56.05,-0.06,-2.31
+HSPX,Global X S&P 500 Covered Call ETF,Global X Funds,95560000,95.56,Blend,Large,0.65,98.72,16.67,2.91,12.64,2.42,11.8,16.5,15.32,5.37,10.19,21.75,6.33,0.8,93.95,0.62,6.87
+DGT,SPDR Global Dow ETF,SPDR State Street Global Advisors,95710000,95.71,Value,Large,0.5,99.7,12.97,1.58,7.09,6.32,11.34,16.98,10.57,9.62,13.63,12.8,6.1,0.94,91.93,0.5,5.66
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,First Trust,96350000,96.35,Growth,Medium,0.6,99.87,14.1,2.18,8.72,10.82,8.3,0,0,0.83,7.45,52.57,0.64,1.2,51.4,0.08,-0.13
+IQDE,FlexShares International Quality Dividend Defensive Index Fund,Flexshares Trust,97340000,97.34,Value,Large,0.47,98.61,11.05,1.5,5.99,7.96,10.93,22.37,6.58,8.06,10.98,6.61,0.45,0.95,92.99,0.03,-0.39
+PXLV,Invesco Russell Top 200 Pure Value ETF,Invesco,98190000,98.19,Value,Large,0.39,99.35,12.31,1.5,3.31,3.18,6.19,24.34,10.54,7.33,8.72,4.67,8.5,0.93,85.71,0.71,8.22
+IAK,iShares U.S. Insurance ETF,iShares,98640000,98.64,Value,Large,0.43,99.8,11.23,1.16,5.7,0,0,100,0,0,0,0,8.7,0.93,58.23,0.63,8.49
+TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,ProShares,99230000,99.23,Blend,Large,0.46,98,20.06,2.15,8.58,0.06,0.53,0,0,35.87,15.86,0.27,5,0.78,59.96,0.42,5.41
+DIG,ProShares Ultra Oil & Gas,ProShares,99870000,99.87,Blend,Large,0.95,47.34,18.28,1.61,5.48,0.09,0,0,0,99.01,0,0.28,-14.07,2.28,40.38,-0.2,-6.52
+CHIX,Global X MSCI China Financials ETF,Global X Funds,100050000,100.05,Value,Large,0.65,100,7.63,0.94,2.48,0.06,0,99.94,0,0,0,0,10.55,1.36,47.98,0.5,7.01
+DBAW,Xtrackers MSCI All World ex U.S. Hedged Equity ETF,Deutsche Asset Management,100270000,100.27,Blend,Large,0.4,48.45,12.83,1.42,5.8,7.92,11.02,21.6,8.45,7.26,10.92,11.81,6.16,0.74,80.74,0.54,6.84
+ARGT,Global X MSCI Argentina ETF,Global X Funds,101660000,101.66,Growth,Medium,0.59,99.8,15.97,1.59,7.03,5.92,33.52,13.09,0,19.52,1.36,4.7,7.66,1.31,46.26,0.4,5.33
+EXT,WisdomTree U.S. Total Earnings Fund,WisdomTree,101720000,101.72,Blend,Large,0.28,100,13.99,2.25,7.16,2.79,11.21,23.04,9.61,4.85,11.09,22.08,9.56,1.01,96.94,0.78,8.64
+EWMC,Invesco S&P MidCap 400 Equal Weight ETF,Invesco,102050000,102.05,Blend,Medium,0.4,99.93,15.34,1.67,7.28,5.95,17.08,14.7,8.19,6.88,15.09,14.68,6.94,1.13,80.97,0.49,5.45
+XTL,SPDR S&P Telecom ETF,SPDR State Street Global Advisors,102570000,102.57,Blend,Medium,0.35,99.86,19.22,1.66,4.19,0,0,0,0,0,0,60.79,5.93,0.96,56.95,0.43,5.38
+FCG,First Trust Natural Gas ETF,First Trust,102910000,102.91,Blend,Medium,0.6,99.92,15.37,0.84,2.53,0,0,0,0,100,0,0,-28.87,1.8,30.71,-0.77,-16.43
+INKM,SPDR SSgA Income Allocation ETF,SPDR State Street Global Advisors,104910000,104.91,Value,Medium,0.5,37.55,13.86,1.49,5.68,1.9,7.56,9.45,2.32,7.16,8.62,3.81,4.39,0.89,80.85,0.54,3.88
+XHS,SPDR S&P Health Care Services ETF,SPDR State Street Global Advisors,106380000,106.38,Blend,Medium,0.35,99.87,15.14,2.1,6.64,0,0,0.85,90.5,0,0.32,8.33,6.94,0.99,41.52,0.43,6.19
+AADR,AdvisorShares Dorsey Wright ADR ETF,AdvisorShares,108380000,108.38,Growth,Large,0.88,98.8,16.21,2.41,9.44,14.11,9.18,0,17.79,3.92,14.46,15.36,4.5,1.03,65.37,0.31,3.54
+RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,Invesco,109140000,109.14,Blend,Large,0.4,99.76,14.26,2.98,8.43,0,92.1,0,0,0,0,1.61,7.19,0.97,66.33,0.53,6.56
+SYLD,Cambria Shareholder Yield ETF,CAMBRIA ETF TRUST,109950000,109.95,Value,Medium,0.59,98.34,11.48,1.67,5.6,6.78,25.52,29.79,2.31,3.81,15.32,13.05,7.13,1.07,84.83,0.54,5.98
+IHY,VanEck Vectors International High Yield Bond ETF,VanEck,112560000,112.56,Value,Large,0.4,0.1,9.66,0.48,0.47,0,0,100,0,0,0,0,2.48,0.22,0.96,0.32,8.44
+PKB,Invesco Dynamic Building & Construction ETF,Invesco,113530000,113.53,Blend,Medium,0.58,99.75,14.1,1.8,10.56,29.22,31.38,0,0,0,39.41,0,4.1,1.17,50.27,0.27,2.85
+DRW,WisdomTree Global ex-US Real Estate Fund,WisdomTree,114150000,114.15,Value,Large,0.58,98.9,11.07,0.82,7.38,0,0.46,0.15,0,0,0.16,0,8.51,1,64.63,0.6,7.64
+JPXN,iShares JPX-Nikkei 400 ETF,iShares,114820000,114.82,Blend,Large,0.48,98.78,13.16,1.19,5.08,7.44,14.42,10.38,8.8,1.81,20.09,15.29,5.6,0.86,72.29,0.42,5.28
+DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,Deutsche Asset Management,117640000,117.64,Blend,Large,0.65,45.57,11.3,1.42,4.43,7.63,11.63,24.17,2.5,7.89,4.9,24.39,3.53,0.85,81.64,0.31,3.4
+PRN,Invesco DWA Industrials Momentum ETF,Invesco,119410000,119.41,Growth,Large,0.6,99.81,24.22,4.34,19.24,3.42,2.09,3.89,6.3,0,66.52,17.77,5.51,1.14,68.1,0.38,4.2
+DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,WisdomTree,119700000,119.7,Value,Small,0.38,100,13.93,1.97,6.41,12.89,24.99,16.23,2.92,0.18,24.91,4.45,6.47,1.06,58.54,0.43,5.37
+PBW,Invesco WilderHill Clean Energy ETF,Invesco,123620000,123.62,Growth,Small,0.7,99.83,20.59,2.04,4.46,8.96,8.97,0,0,2.67,23.34,41.79,-3.58,1.3,43.48,-0.1,-3.36
+RLY,SPDR SSgA Multi-Asset Real Return ETF,SPDR State Street Global Advisors,124740000,124.74,Value,Large,0.5,57.21,15.86,1.49,7.42,26.42,3.04,0,0.85,23.63,8.48,0,-1.19,1.24,58.19,-0.13,-1.6
+RUSL,Direxion Daily Russia Bull 3X Shares,Direxion Funds,125210000,125.21,Value,Large,1.36,24.61,5.99,0.87,2.64,22.95,1.01,12.37,0,41,0,6.92,-27.57,3.07,20.15,-0.05,-9.26
+CUKS,iShares MSCI UK Small Cap ETF GBP Acc,BlackRock Asset Management Ireland - ETF,126050000,126.05,Growth,Small,0.58,97.98,13.41,1.76,8.14,6.16,20.21,16.47,5.7,2.85,23.09,7.61,6.12,0.96,72.92,0.54,5.86
+ISWD,iShares MSCI World Islamic ETF USD Dist,BlackRock Asset Management Ireland - ETF,126080000,126.08,Blend,Large,0.6,99,14.95,2.17,10.32,10.61,8.22,0.23,24.69,17.62,10.69,12.6,4.37,0.94,91.67,0.42,4.09
+RTM,Invesco S&P 500 Equal Weight Materials ETF,Invesco,126650000,126.65,Value,Large,0.4,99.6,14.81,2.28,8.04,75.76,20.14,0,0,0,4.1,0,6.93,1.17,69.3,0.46,5.3
+PTXSPY,CoreShares Property SAPY ETF,CoreShares Index Tracker Managers,127720000,127.72,Value,Small,0.58,97.85,11.14,0.89,21.41,0,0,0,0,0,0,0,6.03,0.98,94.72,0.02,-0.78
+INCO,Columbia India Consumer ETF,Columbia,130440000,130.44,Growth,Large,0.76,100,34.04,5.12,21.93,0,48,0,0,0,0,0,11.23,0.62,15.86,0.62,16.83
+WPS,iShares International Developed Property ETF,iShares,131870000,131.87,Blend,Large,0.48,98.04,14.73,0.93,10.25,0,0.6,0.1,0,0,0.04,0,5.71,0.84,65.19,0.47,5.87
+IGN,iShares North American Tech-Multimedia Networking ETF,iShares,132760000,132.76,Growth,Medium,0.47,99.91,18.39,2.57,12.59,0,0,0,0,0,0,96.11,11.15,0.97,48.31,0.71,10.64
+FRI,First Trust S&P REIT Index Fund,First Trust,133090000,133.09,Value,Medium,0.48,99.89,39.63,2.24,7.84,0,0,0,0,0,1.16,0,8.38,0.62,21.82,0.56,12.17
+EIS,iShares MSCI Israel Capped ETF,iShares,134920000,134.92,Blend,Medium,0.59,99.7,11.67,1.24,4.46,3.39,0.56,26.54,13.6,2.52,5.86,32.1,2.26,0.75,39.2,0.18,2.02
+RFV,Invesco S&P MidCap 400 Pure Value ETF,Invesco,135390000,135.39,Value,Small,0.35,99.68,10.28,1.03,4.78,9.06,25.6,14.21,2.5,9.49,21.77,8.9,6.57,1.32,65.86,0.4,4.37
+SOCL,Global X Social Media ETF,Global X Funds,137500000,137.5,Growth,Large,0.65,99.92,25.06,3.24,15.98,0,0.47,0,0,0,0,96.05,10.73,1.08,41.29,0.6,9.18
+ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,Invesco,137900000,137.9,Value,Large,0.3,100,12.58,1.63,4.87,6.29,22.82,19.19,0.41,11.86,0.55,22.75,4.63,1.3,74.44,0.29,2.91
+FBZ,First Trust Brazil AlphaDEX Fund,First Trust,138260000,138.26,Blend,Large,0.8,99.88,10.82,1.7,6.01,11.75,14.69,16.15,1.57,4.89,7.67,1.95,0.84,1.35,25.15,0.16,0.21
+TOK,iShares MSCI Kokusai ETF,iShares,138580000,138.58,Blend,Large,0.25,99.27,15.76,2.27,8.12,4.38,11.3,17.69,13.18,6.45,10.44,17.64,7.03,0.84,83.23,0.61,7.53
+PSCF,Invesco S&P SmallCap Financials ETF,Invesco,138880000,138.88,Value,Small,0.29,100,15.34,1.39,7.24,0,0,63.57,0,0,0,0,8.78,0.87,35.88,0.56,9.28
+URE,ProShares Ultra Real Estate,ProShares,141130000,141.13,Blend,Medium,0.95,48.5,34.45,2.41,8.07,2.09,0,0,0,0,0.89,0,15.11,1.46,35.16,0.62,9.75
+XMPT,VanEck Vectors CEF Municipal Income ETF,VanEck,142120000,142.12,Value,Medium,1.56,0.02,5.84,0,6.83,0,0,0,0,0,100,0,6.15,2.05,64.84,0.72,2.62
+CXSE,WisdomTree China ex-State-Owned Enterprises Fund,WisdomTree,143700000,143.7,Growth,Large,0.32,100,12.58,2.11,6.18,2.04,26.57,13.6,7.48,0.16,3.25,31.16,11.14,1.48,63.02,0.55,6.98
+FXZ,First Trust Materials AlphaDEX Fund,First Trust,144490000,144.49,Value,Medium,0.64,99.92,12.39,1.87,6.87,66.72,17.63,0,0,0,13.21,2.44,3.99,1.28,71.62,0.27,2.52
+REMX,VanEck Vectors Rare Earth/Strategic Metals ETF,VanEck,144490000,144.49,Growth,Small,0.61,99.78,8.79,1.19,1.95,100,0,0,0,0,0,0,-10.96,1.73,44.49,-0.3,-6.89
+TOK,iShares MSCI Kokusai ETF,iShares,146960000,146.96,Blend,Large,0.25,99.16,15.69,2.37,8.13,4.22,11.14,18.4,14.02,6.46,10.24,16.77,7,0.8,84.44,0.66,8.04
+FDM,First Trust Dow Jones Select MicroCap Index Fund,First Trust,147470000,147.47,Value,Small,0.6,99.96,12.31,1.37,3.58,4.73,16.43,34.24,2.22,5.47,11.61,7.32,7.92,0.98,43.37,0.49,7.3
+CSD,Invesco S&P Spin-Off ETF,Invesco,148610000,148.61,Blend,Medium,0.64,99.81,14.58,1.72,4.73,14.02,12.87,17.99,0.7,4.45,7.21,23.43,3.63,1.27,81.01,0.25,2.23
+KNOW,Direxion All Cap Insider Sentiment Shares,Direxion Funds,149950000,149.95,Value,Medium,0.59,99.81,12.52,1.7,7.47,1.8,13.42,34.19,9.8,6.23,8.94,8.81,8.94,1.04,82.14,0.67,7.81
+BICK,First Trust BICK Index Fund,First Trust,152310000,152.31,Blend,Large,0.64,99.98,8.96,1.31,4.47,7.73,18.06,21.91,5.48,6.9,6.58,20.35,3.61,1.22,71.82,0.24,2.25
+GVAL,Cambria Global Value ETF,CAMBRIA ETF TRUST,153220000,153.22,Value,Medium,0.68,98.4,7.75,1.21,4.02,16.75,4.67,28.73,1.28,14.48,8.14,3.06,0.02,1.11,77.67,0.02,-0.7
+PWC,Invesco Dynamic Market ETF,Invesco,154070000,154.07,Blend,Large,0.6,99.79,13.6,1.92,4.72,2.79,9.2,13.97,14.86,5.79,16.91,15.84,7.54,0.99,83.37,0.6,6.83
+XTN,SPDR S&P Transportation ETF,SPDR State Street Global Advisors,154220000,154.22,Blend,Medium,0.35,99.78,12.09,1.74,4.4,0,0,0,0,0,100,0,7.85,1.23,52.86,0.46,5.76
+FGM,First Trust Germany AlphaDEX Fund,First Trust,154530000,154.53,Blend,Large,0.8,100,9.17,1.18,5.48,7.72,22.29,15.98,14.77,0,6.76,4.47,1.08,1.11,73.74,0.1,0.32
+EQL,ALPS Equal Sector Weight ETF,ALPS,154980000,154.98,Blend,Large,0.28,99.85,17.64,2.65,8.65,8.25,11.79,9.88,8.95,9.12,9.58,12.9,9.1,0.93,96.55,0.8,8.94
+IEZ,iShares U.S. Oil Equipment & Services ETF,iShares,155240000,155.24,Blend,Medium,0.43,99.74,22.83,1.06,6.9,1.23,0,0,0,97.99,0.78,0,-16.53,1.69,36.27,-0.45,-10.25
+PIE,Invesco DWA Emerging Markets Momentum ETF,Invesco,156770000,156.77,Growth,Large,0.9,99.82,11.49,2.19,7.35,8.21,17.39,20.61,2.35,1.68,9.96,13.28,0.67,0.86,63.53,0.05,-0.17
+FEMS,First Trust Emerging Markets Small Cap AlphaDEX Fund,First Trust,157150000,157.15,Value,Medium,0.8,99.96,7.12,0.82,2.46,21.53,9.71,9.21,2.14,5.49,9.06,13.36,2.64,1.14,60.47,0.2,1.79
+BFOR,Barron's 400 ETF,ALPS ETF,160460000,160.46,Growth,Medium,0.66,99.75,12.65,2.21,6.3,6.36,14.47,17.97,9.8,10.56,16.45,19.05,6.51,1.13,78.9,0.46,5.08
+CURE,Direxion Daily Healthcare Bull 3X Shares,Direxion Funds,161310000,161.31,Blend,Large,1.08,71.2,15.98,3.85,13.32,0,0,0,99.46,0,0,0.54,22.88,2.88,67.63,0.71,7.67
+FSZ,First Trust Switzerland AlphaDEX Fund,First Trust,163880000,163.88,Blend,Medium,0.8,99.93,15.93,1.74,10.13,6.73,8.95,22.37,10.48,0,33.06,0,3.81,0.88,77.03,0.31,3.54
+FJP,First Trust Japan AlphaDEX Fund,First Trust,164040000,164.04,Value,Large,0.8,99.98,9.67,0.95,4.99,22.29,17.89,0.9,6.54,3.37,19.54,8.11,3.86,0.83,62.63,0.29,3.55
+CUT,Invesco MSCI Global Timber ETF,Invesco,164660000,164.66,Value,Medium,0.55,99.92,12.72,1.62,5.88,53.49,40.44,0,0,0,4.68,0,3.97,1.22,74.86,0.27,2.58
+PZD,Invesco Cleantech ETF,Invesco,166240000,166.24,Growth,Medium,0.67,99.53,20.02,2.65,3.21,5.99,3.59,0,5.9,0,49.07,30.71,6.12,1.26,80.84,0.41,4.2
+RYJ,Invesco Raymond James SB-1 Equity ETF,Invesco,167360000,167.36,Blend,Medium,0.81,99.94,14.84,1.73,4.98,1.24,8.32,18.57,15.32,19.71,12.47,13.64,5.81,1.26,75.64,0.38,4.02
+RXL,ProShares Ultra Health Care,ProShares,167440000,167.44,Blend,Large,0.95,48.88,16.36,3.81,13.28,0,0,0,99.71,0,0,0.29,18.72,1.97,68.48,0.75,9.08
+MORT,VanEck Vectors Mortgage REIT Income ETF,VanEck,168220000,168.22,Value,Medium,0.41,100,9.2,1.09,2.85,0,0,0,0,0,0,0,8.09,0.57,28.5,0.65,12.8
+FEU,SPDR STOXX Europe 50 ETF,SPDR State Street Global Advisors,168870000,168.87,Blend,Large,0.29,99.84,13.81,1.67,9.15,7.92,3.59,18.44,21.35,11.41,8.17,4.89,0.39,0.96,82.2,0.04,-0.33
+ENZL,iShares MSCI New Zealand ETF,iShares,170150000,170.15,Growth,Medium,0.47,99.16,22.38,1.95,11.45,4.05,5.43,0,19.33,3.56,11.09,4.05,8.55,0.94,47.14,0.54,8.37
+PSL,Invesco DWA Consumer Staples Momentum ETF,Invesco,170300000,170.3,Growth,Medium,0.6,99.82,24.1,3.3,15.65,2.94,6.86,0,0,0,16.47,0,10.84,0.51,29.94,0.98,19.7
+IGSG,iShares Dow Jones Glb Sust Scrn ETF $Acc,BlackRock Asset Management Ireland - ETF,170740000,170.74,Blend,Large,0.6,98.88,13.78,1.88,6.19,5.48,7.64,21.48,16.88,6.21,8.67,20.2,4.95,1.05,96.12,0.45,4.22
+GRES,IQ Global Resources ETF,IndexIQ,171500000,171.5,Value,Large,0.78,74.98,13.48,1.45,6.01,44.39,0.06,0,0,16.1,8.3,0,-0.27,0.68,39.48,-0.03,-1.53
+ACIM,SPDR MSCI ACWI IMI ETF,SPDR State Street Global Advisors,172150000,172.15,Blend,Large,0.25,99.63,14.69,1.98,6.8,4.85,11.82,16.88,11.86,5.81,12.16,18.68,6.77,0.86,88.25,0.59,7.14
+IPKW,Invesco International BuyBack Achievers ETF,Invesco,177390000,177.39,Blend,Medium,0.55,98.37,12.13,1.29,5.05,5.05,28.02,12.26,7.63,0,13.54,18.73,6.53,1.03,85.37,0.49,5.65
+DOO,WisdomTree International Dividend ex-Financials Fund,WisdomTree,179190000,179.19,Value,Large,0.58,98.71,13.18,1.54,6.86,10.25,10.87,1.42,9.19,10.43,10.59,3.95,0.37,0.9,89.17,0.02,-0.46
+RGI,Invesco S&P 500 Equal Weight Industrials ETF,Invesco,180400000,180.4,Blend,Large,0.4,99.65,15.31,3.45,5.06,1.4,2.89,0,0,0,92.88,2.83,9.25,1.13,71.91,0.62,7.51
+PSI,Invesco Dynamic Semiconductors ETF,Invesco,180510000,180.51,Growth,Medium,0.61,99.86,16.89,2.76,8.3,0,0,0,0,0,0,100,21.55,1.2,39.78,1,17.32
+PIO,Invesco Global Water ETF,Invesco,182140000,182.14,Blend,Medium,0.75,99.97,18.82,2.96,12.47,21.13,0,0,12.2,0,45.63,0,3.52,1.08,82.92,0.28,2.65
+FAD,First Trust Multi Cap Growth AlphaDEX Fund,First Trust,182670000,182.67,Growth,Medium,0.69,99.95,21.41,3.79,9.28,3.62,15.37,9.02,16.37,3.46,14.44,24.16,9.93,1.1,80.62,0.7,8.32
+SPFF,Global X SuperIncome Preferred ETF,Global X Funds,186440000,186.44,Value,Large,0.58,14.87,11.35,0.82,0,0,0,100,0,0,0,0,1.71,0.53,11.89,0.22,1.7
+FXN,First Trust Energy AlphaDEX Fund,First Trust,188650000,188.65,Blend,Medium,0.63,99.87,18.91,1,2.78,0,0,0,0,100,0,0,-11.98,1.54,38.04,-0.35,-8.31
+RZV,Invesco S&P SmallCap 600 Pure Value ETF,Invesco,190050000,190.05,Value,Small,0.35,99.75,11.06,0.92,3.52,17.05,33.13,5.75,3.36,6.12,16.67,8.43,1.86,1.33,51.37,0.15,0.79
+PPH,VanEck Vectors Pharmaceutical ETF,VanEck,190550000,190.55,Value,Large,0.36,99.81,12.5,2.72,9.76,0,0,0,100,0,0,0,2.77,0.92,50.73,0.21,2.13
+PIN,Invesco India ETF,Invesco,190770000,190.77,Growth,Large,0.82,97.47,20.19,2.7,9.98,12.28,8.32,22.28,5.92,16.88,1.55,17.92,7.27,0.76,28.13,0.45,8.72
+EPU,iShares MSCI All Peru ETF,iShares,191410000,191.41,Blend,Medium,0.59,99.8,12.82,1.57,7.15,46.52,7.19,30.64,0,1.11,5.46,0,5.91,1.12,42.38,0.33,4.45
+SCIF,VanEck Vectors India Small-Cap Index ETF,VanEck,191840000,191.84,Blend,Small,0.72,49.44,10.17,1.05,3.61,14.49,16.75,17.97,8.11,0.69,14.89,14.36,5.26,1,17.62,0.3,4.6
+PTF,Invesco DWA Technology Momentum ETF,Invesco,193160000,193.16,Growth,Medium,0.6,99.89,37.77,7.59,25.59,0,0,0,0,0,3.18,90.79,14.59,1.22,53.28,0.79,11.35
+HUSE,Strategy Shares US Market Rotation Strategy ETF,Strategy shares,195430000,195.43,Growth,Large,1.13,86.31,23.06,3.96,12.48,0,27.17,13.39,12.3,0,5.67,21.59,5.26,0.79,80.39,0.49,5.7
+JKK,iShares Morningstar Small-Cap Growth ETF,iShares,199260000,199.26,Growth,Small,0.3,99.93,27.46,3.23,13.54,3.97,11.41,3.2,24.37,3.63,12.09,30.64,9.51,1.25,71.71,0.58,6.93
+RYE,Invesco S&P 500 Equal Weight Energy ETF,Invesco,200040000,200.04,Blend,Large,0.4,99.54,19.7,1.62,5.1,0,0,0,0,100,0,0,-7.38,1.46,41.35,-0.22,-5.64
+XRT,SPDR S&P Retail ETF,SPDR State Street Global Advisors,200340000,200.34,Blend,Medium,0.35,99.72,13.37,1.95,5.58,0,75.47,0,0,0,1.18,5.3,2.66,0.86,36.71,0.19,2.15
+BIZD,VanEck Vectors BDC Income ETF,VanEck,200770000,200.77,Value,Small,9.41,97.79,10.03,1.06,5.28,0,0,100,0,0,0,0,3.96,0.84,41.37,0.29,3.84
+QABA,First Trust NASDAQ ABA Community Bank Index Fund,First Trust,201380000,201.38,Value,Small,0.6,99.98,11.67,1.19,7.96,0,0,99.7,0,0,0.3,0,6.21,0.91,25.77,0.36,6.02
+QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,Direxion Funds,203610000,203.61,Growth,Large,0.35,99.82,16.99,3.93,11.44,0,19.23,2.03,14.8,0,11.05,40.99,12.6,1.15,88.48,0.88,10.26
+RXI,iShares Global Consumer Discretionary ETF,iShares,203890000,203.89,Growth,Large,0.47,99.6,16.02,2.57,9.46,0,91.99,0,0.72,0,0.25,3.56,8.27,1.08,87.12,0.62,6.94
+HEWG,iShares Currency Hedged MSCI Germany ETF,iShares,206450000,206.45,Blend,Large,0.53,99.11,11.86,1.36,7.1,10.38,18.17,16,11.84,0,13.18,13.46,4.34,0.83,45.26,0.31,4.27
+JXI,iShares Global Utilities ETF,iShares,208230000,208.23,Value,Large,0.47,99.65,16.86,1.76,6.95,0,0,0,0,0,0.98,0,6.26,0.41,17.59,0.54,13.31
+MXI,iShares Global Materials ETF,iShares,208710000,208.71,Blend,Large,0.47,99.11,13.24,1.6,7.43,92.47,5.67,0,0.54,0,1.32,0,2.83,1.2,69.22,0.2,1.69
+DEF,Invesco Defensive Equity ETF,Invesco,209770000,209.77,Blend,Large,0.59,100,17.72,3.1,12.47,3.97,8.16,17.69,19.44,1.01,19.4,7.95,9.68,0.78,72.08,0.88,11.41
+PIZ,Invesco DWA Developed Markets Momentum ETF,Invesco,211890000,211.89,Growth,Large,0.8,99.66,20.73,3.25,14.4,9.48,7.82,9.38,15.54,0.88,17.2,11.66,0.58,0.87,71.42,0.05,-0.15
+XSW,SPDR S&P Software & Services ETF,SPDR State Street Global Advisors,212300000,212.3,Growth,Medium,0.35,99.9,25.02,4.34,17.41,0,1.47,3.9,0,0,14.18,79.8,17.1,1.14,62.35,1.02,14.3
+IWL,iShares Russell Top 200 ETF,iShares,213380000,213.38,Blend,Large,0.15,99.82,16.72,3.1,8.5,2.09,11.3,16.19,15.76,5.58,8.68,24.99,11.19,0.99,99.41,0.94,10.49
+EWN,iShares MSCI Netherlands ETF,iShares,215010000,215.01,Blend,Large,0.47,99.7,15.44,1.99,8.28,9.57,4.35,16.59,6.66,1.84,5.01,24.11,4.92,1,76.57,0.36,4.12
+YYY,YieldShares High Income ETF,YieldShares,216460000,216.46,Value,Large,2.02,20.43,14.3,1.77,5.78,1.97,4.12,6.91,5.22,50.51,8.17,6.54,3.57,1.46,80.04,0.3,1.84
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,SPDR State Street Global Advisors,217410000,217.41,Value,Small,0.35,99.9,17.3,0.71,4.8,4.15,0,0,0,94.95,0.9,0,-23.11,1.96,34.52,-0.54,-12.19
+FMAT,Fidelity MSCI Materials Index ETF,Fidelity Investments,217450000,217.45,Blend,Large,0.08,99.94,15.21,2.17,8.73,84.75,12.91,0,0,0.42,1.93,0,4.95,1.22,74.15,0.34,3.42
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,iShares,217650000,217.65,Blend,Large,0.43,99.95,12.49,1.71,8.09,0,0,100,0,0,0,0,10.44,0.94,35.57,0.61,10.25
+EXI,iShares Global Industrials ETF,iShares,217750000,217.75,Blend,Large,0.47,99.47,14.89,2.57,6.43,2.86,1.92,0.51,0,0.87,91.15,1.89,6.48,1.08,89.72,0.5,5.27
+ITWN,iShares MSCI Taiwan ETF USD Dist,BlackRock Asset Management Ireland - ETF,222870000,222.87,Blend,Large,0.74,99.26,13.1,1.67,4.95,10.13,2.96,17.62,0.17,0.81,2.86,57.23,5.64,0.99,99.82,0.55,5.81
+EWD,iShares MSCI Sweden ETF,iShares,225230000,225.23,Growth,Large,0.53,93.26,14.76,1.81,12.23,2.34,3.99,26.84,0,2.09,36.06,13.53,-0.07,0.92,75.18,0,-0.83
+RING,iShares MSCI Global Gold Miners ETF,iShares,225310000,225.31,Blend,Medium,0.39,99.84,21.11,1.12,6.87,100,0,0,0,0,0,0,-1.95,0.36,1.08,0.11,-7.55
+CVY,Invesco Zacks Multi-Asset Income ETF,Invesco,225580000,225.58,Value,Medium,0.88,75.83,11.75,1.44,5.05,7.5,12.21,28.48,2.29,17.38,6.21,3.47,1.73,1.66,83.66,0.13,0.55
+PSP,Invesco Global Listed Private Equity ETF,Invesco,227580000,227.58,Blend,Medium,2.03,66.97,13.08,1.25,7.85,0.26,0.57,65.42,1.28,0.06,9.25,20.05,4.71,1.06,79.46,0.34,3.8
+JKJ,iShares Morningstar Small-Cap ETF,iShares,228450000,228.45,Blend,Small,0.25,99.87,16.25,1.88,7.03,9.06,13.97,17.56,5.27,2.7,19.51,10.57,6.47,1.11,70.92,0.44,5.11
+IXP,iShares Global Comm Services ETF,iShares,230490000,230.49,Growth,Large,0.47,99.41,16.01,2.17,7.46,0,16.82,0,0,0,0,41.38,1.87,0.8,56.54,0.14,1.28
+FNY,First Trust Mid Cap Growth AlphaDEX Fund,First Trust,233040000,233.04,Growth,Medium,0.7,100,23.21,3.66,8.18,3.12,16.8,9.42,14.79,3.35,14.81,25,9.2,1.14,74.95,0.62,7.32
+PTH,Invesco DWA Healthcare Momentum ETF,Invesco,239240000,239.24,Growth,Medium,0.6,99.84,24.62,4.67,18.36,0,0,1.84,96.77,0,0,1.39,10.69,1.4,40.9,0.51,7.07
+EPS,WisdomTree U.S. Earnings 500 Fund,WisdomTree,239850000,239.85,Blend,Large,0.08,100,14.08,2.42,7.35,1.8,10.09,22.73,10.59,4.95,10.27,23.81,9.87,1,97.58,0.82,9.09
+EDC,Direxion Daily MSCI Emerging Markets Bull 3X Shares,Direxion Funds,241450000,241.45,Blend,Large,1.47,42.82,11.28,1.42,4.4,7.62,11.52,24.17,2.51,7.88,4.95,24.43,-5.01,2.81,43.26,0.11,-2.07
+URA,Global X Uranium ETF,Global X Funds,242470000,242.47,Blend,Medium,0.69,100,15.21,1.26,3.02,61.97,0,4.87,0,0,32.63,0,-15.73,1.39,23.43,-0.4,-11.72
+RZG,Invesco S&P SmallCap 600 Pure Growth ETF,Invesco,243440000,243.44,Growth,Small,0.35,99.82,18.08,2.43,6.13,4.84,17.18,10.06,18.1,8.61,9.87,17.76,8.1,1.22,61.02,0.49,6.01
+SLGOMXH25,Seligson & Co OMX Helsinki 25 Indeks ETF,Seligson & Co Rahastoyhtiö Oyj,244490000,244.49,Blend,Large,0.16,99.96,15.79,2.08,12.55,16.35,8.6,13.89,2.66,7.66,24.93,10.17,10.47,1.03,99.24,0.83,10.29
+WDIV,SPDR S&P Global Dividend ETF,SPDR State Street Global Advisors,245620000,245.62,Value,Large,0.4,99.64,12.98,1.42,5.14,2.43,12.61,24.66,3.67,7.42,8.99,1.2,4.32,0.81,80.99,0.37,4.31
+BIB,ProShares Ultra Nasdaq Biotechnology,ProShares,246590000,246.59,Growth,Medium,0.95,68.89,13.87,3.96,12.7,0.02,0,0,99.98,0,0,0,6.8,2.93,52.68,0.37,2.04
+EUSA,iShares MSCI USA Equal Weighted ETF,iShares,246700000,246.7,Blend,Large,0.15,99.76,16.02,2.33,7.54,4.14,15.24,14.69,10.71,5.46,14.21,15.12,9.31,1.05,95.02,0.74,8.11
+DTH,WisdomTree International High Dividend Fund,WisdomTree,251850000,251.85,Value,Large,0.58,98.89,12.12,1.27,5.54,7.19,8.18,23.09,8.55,10.26,8.89,1.36,0.69,0.95,93.82,0.05,-0.06
+SCJ,iShares MSCI Japan Small-Cap ETF,iShares,253640000,253.64,Blend,Medium,0.47,98.77,14.25,1.07,6.73,9.29,17.57,7.27,6.67,0.48,22.25,14.13,8.16,0.76,60.96,0.64,9.38
+GAL,SPDR SSgA Global Allocation ETF,SPDR State Street Global Advisors,254660000,254.66,Blend,Large,0.35,64.62,14.89,1.75,7.12,4.91,10.52,14.47,11.47,4.75,12.48,15.83,4.71,1.13,93.06,0.52,3.43
+EPHE,iShares MSCI Philippines ETF,iShares,254820000,254.82,Blend,Large,0.59,99.63,15.49,1.89,11.74,0,15.9,14.99,0,1.03,13.4,0.2,0.81,0.63,26.22,0.08,0.14
+BRIC,iShares BRIC 50 ETF USD Dist,BlackRock Asset Management Ireland - ETF,255210000,255.21,Blend,Large,0.74,99.53,8.96,1.25,2.97,5.33,6.56,36.13,0.55,17.85,0.75,19.36,4.25,0.98,95.66,0.29,3.8
+CZA,Invesco Zacks Mid-Cap ETF,Invesco,255320000,255.32,Value,Medium,0.68,99.93,15.34,1.87,7.92,5.87,9.49,27.29,4.16,4.87,14.9,4.61,9.38,0.99,89.3,0.75,8.6
+XPH,SPDR S&P Pharmaceuticals ETF,SPDR State Street Global Advisors,255870000,255.87,Blend,Medium,0.35,99.98,10.57,1.38,8.94,0,0,0,100,0,0,0,0.46,1.31,41.22,0.1,-0.26
+ITKY,iShares MSCI Turkey ETF USD Dist,BlackRock Asset Management Ireland - ETF,258880000,258.88,Blend,Medium,0.74,99.56,6.37,1.06,6.14,11.06,2.28,32.81,0,9.4,20.73,1.91,-12.24,1,99.97,-0.15,-8.74
+PTXTEN,CoreShares Property Top Ten ETF,CoreShares Index Tracker Managers,259900000,259.9,Value,Small,0.54,98.22,11.18,0.82,26.59,0,0,0,0,0,0,0,7.71,0.98,91.39,0.16,1.3
+SMLV,SPDR SSGA US Small Cap Low Volatility Index ETF,SPDR State Street Global Advisors,260840000,260.84,Blend,Small,0.12,99.8,17.86,1.62,7.52,3.74,11.22,20.65,6.16,2.28,11.05,11.19,8.99,0.92,53.83,0.63,8.96
+PUI,Invesco DWA Utilities Momentum ETF,Invesco,263520000,263.52,Value,Medium,0.6,99.75,21.28,2.32,8.17,0,0,0,0,0,0,0,11.23,0.27,5.51,0.84,38.86
+GREK,Global X MSCI Greece ETF,Global X Funds,263910000,263.91,Value,Small,0.59,99.8,11.71,0.68,3.28,8.42,17.05,21.97,0,12.9,13.18,0,-18.58,1.64,37.46,-0.5,-11.84
+EPOL,iShares MSCI Poland ETF,iShares,268940000,268.94,Blend,Medium,0.63,99.9,11.37,1.18,4.27,8.62,6.72,43.21,0,18.51,1.94,6.51,-3.23,1.12,43.6,-0.1,-3.68
+CSRU,iShares MSCI Russia ADR/GDR ETF USD Acc,BlackRock Asset Management Ireland - ETF,268990000,268.99,Value,Large,0.65,99.96,5.09,0.85,7.15,13.33,0,19.89,0,60.13,0,0,-1.54,1,97.62,0.04,-2.22
+RYF,Invesco S&P 500 Equal Weight Financials ETF,Invesco,270110000,270.11,Value,Large,0.4,99.46,11.44,1.37,5.22,0,0,98.47,0,0,1.53,0,9.21,1.02,58.55,0.61,8.16
+IEER,iShares MSCI Eastern Eurp Cp ETF USD Dis,BlackRock Asset Management Ireland - ETF,272840000,272.84,Value,Large,0.74,98.97,6.2,0.96,5.94,13.78,1.84,27.06,1.19,44.93,0,1.09,-0.73,1.03,90.84,0.24,2.72
+EEMS,iShares MSCI Emerging Markets Small-Cap ETF,iShares,273750000,273.75,Blend,Medium,0.67,99.29,10.79,1.22,4.79,10.83,16.03,11.3,8.14,1.36,12.74,18.1,1.13,0.98,70.72,0.11,0.6
+FNDB,Schwab Fundamental U.S. Broad Market Index ETF,Schwab ETFs,274690000,274.69,Value,Large,0.25,99.91,14.19,2.18,7.13,3.23,11.96,14.08,11.21,9.83,12.13,16.19,8.5,0.98,94.53,0.71,7.88
+IDOG,ALPS International Sector Dividend Dogs ETF,ALPS,274780000,274.78,Value,Large,0.5,98.96,12.21,1.32,6.2,10.58,10.69,9.81,10.12,12.59,8.42,8.72,1.12,0.93,89.73,0.09,0.39
+IEUS,iShares MSCI Europe Small-Cap ETF,iShares,275630000,275.63,Growth,Small,0.4,98.58,14.47,1.63,7.06,7.44,12.68,14.18,8.44,2.8,21.6,11.22,4.04,1.02,76.09,0.3,3.24
+PICK,iShares MSCI Global Metals & Mining Producers ETF,iShares,276260000,276.26,Value,Large,0.39,98.56,10.02,1.19,4.48,97.6,0.06,0.27,0,0,2.07,0,-0.2,1.5,38.94,0.1,-0.48
+IEO,iShares U.S. Oil & Gas Exploration & Production ETF,iShares,276460000,276.46,Blend,Large,0.43,99.89,16.3,1.56,3.56,0,0,0,0,100,0,0,-6.1,1.47,40.44,-0.15,-4.69
+DIM,WisdomTree International MidCap Dividend Fund,WisdomTree,278920000,278.92,Value,Medium,0.58,99.88,13.47,1.34,6.08,10.59,13.14,18.65,3.8,1.69,18.73,5.86,3.53,0.96,93.72,0.28,2.87
+WOOD,iShares Global Timber & Forestry ETF,iShares,279580000,279.58,Value,Medium,0.47,96.12,14.24,1.3,5.85,76.58,15.21,0,0,0,0,0,6.1,1.24,62.48,0.39,4.38
+SMIN,iShares MSCI India Small-Cap ETF,iShares,280380000,280.38,Growth,Medium,0.77,99.82,17.23,1.78,6.94,12.2,18.08,24.81,8.8,0.5,11.78,10.36,12.56,0.74,15.67,0.6,15.65
+PBE,Invesco Dynamic Biotechnology & Genome ETF,Invesco,281610000,281.61,Growth,Medium,0.59,99.94,19.89,3.89,13.38,0,0,0,100,0,0,0,6.37,1.47,44.04,0.34,3.78
+STXRES,Satrix Resi ETF,Satrix Managers (Pty) Limited,282020000,282.02,Value,Large,0.44,97.89,10.96,1.74,5.9,80.26,0,0,0,19.74,0,0,-3.34,0,0,-0.22,0
+ECON,Columbia Emerging Markets Consumer ETF,Columbia,290120000,290.12,Growth,Large,0.59,99.6,19.63,3.01,11.16,0,31.89,0,0,0,0,16.58,-2.32,1.07,71.5,-0.13,-2.84
+PXLG,Invesco Russell Top 200 Pure Growth ETF,Invesco,291200000,291.2,Growth,Large,0.39,99.86,24.29,9.31,15.38,3.09,25.62,14.55,17.25,0.02,5.6,25.06,13.98,1.06,85.92,1.03,12.41
+TAN,Invesco Solar ETF,Invesco,296050000,296.05,Growth,Small,0.7,99.99,16.96,1.4,5.14,0,3.56,0,0,0,0,67.66,-10.22,1.65,37.04,-0.23,-6.6
+PFM,Invesco Dividend Achievers ETF,Invesco,296080000,296.08,Value,Large,0.55,99.61,17.63,3.29,10.62,2.82,6.85,8.97,9.67,9.21,15.54,10.44,8.95,0.83,86.43,0.84,9.9
+KBWD,Invesco KBW High Dividend Yield Financial ETF,Invesco,297230000,297.23,Value,Small,2.42,99.48,8.19,1.03,2.68,0,0,48.13,0,0,3.74,0,5.47,0.86,47.42,0.4,5.47
+FYC,First Trust Small Cap Growth AlphaDEX Fund,First Trust,300010000,300.01,Growth,Small,0.7,100,16.5,2.7,7.94,3.59,10.9,11.3,20.76,2.27,13.02,24.56,9.28,1.17,60.88,0.56,7.19
+XSD,SPDR S&P Semiconductor ETF,SPDR State Street Global Advisors,302260000,302.26,Growth,Medium,0.35,99.86,17.88,2.82,10.35,0,0,0,0,0,0,100,18.75,1.22,44.6,0.91,14.7
+DWAS,Invesco DWA SmallCap Momentum ETF,Invesco,303370000,303.37,Growth,Small,0.6,99.93,21.49,3.07,10.43,3.58,11.06,11.66,28.43,1.7,10.39,22.63,5.39,1.28,57.96,0.33,3.6
+IYLD,iShares Morningstar Multi-Asset Income ETF,iShares,305090000,305.09,Value,Medium,0.59,34.41,10.69,1.22,3.88,0.56,7.08,17.78,3.07,6.39,2.58,3.04,4.29,0.76,69.51,0.59,4.6
+BKF,iShares MSCI BRIC ETF,iShares,307300000,307.3,Blend,Large,0.67,99.67,10.64,1.49,4.14,6.45,15.92,24.69,2.6,11.51,4.53,17.88,5.94,1.29,73.51,0.36,3.87
+FCOM,Fidelity MSCI Communication Services Index ETF,Fidelity Investments,308080000,308.08,Growth,Large,0.08,99.95,18.06,2.28,7.59,0,23.8,0,0,0,0.04,45.92,7.96,0.72,39.35,0.6,9.92
+PBP,Invesco S&P 500 BuyWrite ETF,Invesco,313820000,313.82,Blend,Large,0.49,99.74,17.05,2.97,8.8,2.45,11.9,15.4,14.49,5.43,10.22,22.95,5.2,0.55,73.27,0.63,8.03
+IASP,iShares Asia Property Yield ETF USD Dist,BlackRock Asset Management Ireland - ETF,317280000,317.28,Blend,Large,0.59,98.87,14.13,0.87,5.66,0,0,0,0,0,0,0,4.7,1.03,90.42,0.37,3.91
+PSCT,Invesco S&P SmallCap Information Technology ETF,Invesco,317370000,317.37,Growth,Small,0.29,99.92,17.41,2.23,12.55,0,1.88,0,0,0,5.02,91.34,12.35,0.96,41.38,0.74,12.11
+GII,SPDR S&P Global Infrastructure ETF,SPDR State Street Global Advisors,318770000,318.77,Blend,Large,0.4,99.56,18.27,1.89,8.89,0.26,0,0,0,19.25,37.88,0,4.8,0.72,57.83,0.42,5.52
+FXD,First Trust Consumer Discretionary AlphaDEX Fund,First Trust,319800000,319.8,Blend,Medium,0.64,99.88,14.59,1.98,7.98,0,79.66,0,0,0,1.48,0.36,6.58,0.93,62.33,0.49,6.23
+FXG,First Trust Consumer Staples AlphaDEX Fund,First Trust,320690000,320.69,Value,Medium,0.64,99.93,12.36,2.09,10.06,0,3.41,0,1.44,0,0,0,6.16,0.64,37.15,0.5,8.37
+SPHB,Invesco S&P 500 High Beta ETF,Invesco,322280000,322.28,Growth,Large,0.25,99.89,16.83,2.6,8.71,3.69,6.89,14.77,12.18,7.24,13.36,40.39,7.35,1.41,75.38,0.44,4.64
+ROM,ProShares Ultra Technology,ProShares,325930000,325.93,Growth,Large,0.95,47.84,19.75,5.34,12.25,0.1,0.72,0,0,0,0.21,98.64,30.93,2.34,71.66,1,12.84
+PDN,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,Invesco,327030000,327.03,Blend,Medium,0.49,99.55,12.99,1.14,5.3,10.73,17.7,10.32,5.65,3.06,22.29,10.17,3.25,0.94,91.37,0.27,2.74
+GQRE,FlexShares Global Quality Real Estate Index Fund,Flexshares Trust,331490000,331.49,Blend,Medium,0.45,98.34,22.63,1.22,6.66,0.7,0.47,0.22,0,0,0.24,0,7.99,0.78,52.94,0.62,8.9
+SAUS,iShares MSCI Australia ETF USD Acc,BlackRock Asset Management Ireland - ETF,334510000,334.51,Blend,Large,0.5,98.19,14.27,1.87,8.03,16.31,3.94,39.31,8.66,5.81,5.58,2.61,0.38,1,100,0.06,-0.24
+EELV,Invesco S&P Emerging Markets Low Volatility ETF,Invesco,337950000,337.95,Value,Large,0.29,99.98,12.08,1.23,4.26,6.06,4.22,39.66,1.23,2.1,9.19,7.94,1.09,0.89,72.44,0.07,0.11
+RYU,Invesco S&P 500 Equal Weight Utilities ETF,Invesco,338900000,338.9,Value,Large,0.4,99.41,18.1,2.06,7.85,0,0,0,0,0,0,0,10.7,0.26,6.45,0.89,38.36
+IXG,iShares Global Financials ETF,iShares,341930000,341.93,Value,Large,0.47,99.33,10.78,1.13,3.71,0.01,0.02,99.87,0.01,0,0.01,0.06,4.28,1.1,75.24,0.32,3.21
+FIW,First Trust Water ETF,First Trust,344490000,344.49,Growth,Medium,0.56,99.96,21.79,3.06,13.34,4.15,2.01,0,12.36,0,54.65,3.63,9.1,1.04,57.25,0.6,7.98
+KBWY,Invesco KBW Premium Yield Equity REIT ETF,Invesco,347930000,347.93,Value,Small,0.35,99.49,29.45,1.18,4.42,0,0,0,0,0,0,0,6.21,0.93,29.25,0.37,5.8
+FDD,First Trust STOXX European Select Dividend Index Fund,First Trust,348560000,348.56,Value,Large,0.57,99.42,11.69,1.11,6.16,0,0,40.54,4.08,6.93,6.73,0,1.76,0.8,76.63,0.15,1.28
+RWK,Oppenheimer S&P MidCap 400 Revenue ETF,OppenheimerFunds,356120000,356.12,Value,Medium,0.39,100,11.91,1.4,5.44,6.92,21.43,9.71,6.71,9.4,20.02,15.95,6.5,1.18,77.19,0.44,4.87
+IAEX,iShares AEX ETF EUR Dist,BlackRock Asset Management Ireland - ETF,363720000,363.72,Blend,Large,0.3,99.55,13.21,1.73,9.25,8.78,6.45,14.92,6.77,16.17,2.12,13.76,8.41,1.05,97.73,0.74,8.19
+DDM,ProShares Ultra Dow30,ProShares,363910000,363.91,Blend,Large,0.95,40.45,15.76,3.24,11.56,1.39,15.08,18.19,13.39,5.33,22.41,14.51,20.77,1.99,92.23,0.9,10.04
+SIL,Global X Silver Miners ETF,Global X Funds,364330000,364.33,Blend,Medium,0.65,99.75,18.87,1.55,9.28,100,0,0,0,0,0,0,-6.27,0.68,3.6,0.01,-10.08
+QDEF,FlexShares Quality Dividend Defensive Index Fund,Flexshares Trust,368050000,368.05,Value,Large,0.37,98.7,15.04,2.74,8.17,0.57,12.29,12.65,11.21,8.2,8.31,21.02,10.35,0.88,92.58,0.94,10.85
+FXR,First Trust Industrials/Producer Durables AlphaDEX Fund,First Trust,369250000,369.25,Blend,Medium,0.62,99.67,14.28,2.09,4.39,0,2.38,0,1.17,0,90.29,6.17,7.04,1.25,69.51,0.45,5
+VTWV,Vanguard Russell 2000 Value Index Fund ETF Shares,Vanguard,374890000,374.89,Value,Small,0.2,98.8,13.86,1.25,5.55,4.67,9.92,25.93,3.9,4.49,12.46,11.97,5.49,1.1,60.2,0.36,4.27
+LGLV,SPDR SSGA US Large Cap Low Volatility Index ETF,SPDR State Street Global Advisors,376100000,376.1,Blend,Large,0.12,99.92,19.49,2.96,12.28,5.33,9.4,25.26,6.73,1.15,14.81,12.35,11.55,0.82,86.18,1.08,13.1
+PSJ,Invesco Dynamic Software ETF,Invesco,383680000,383.68,Growth,Medium,0.63,99.96,33.16,6.2,24.28,0,0,0,0,0,0,100,20.67,1.15,61.14,1.2,17.31
+IHE,iShares U.S. Pharmaceuticals ETF,iShares,385120000,385.12,Blend,Large,0.43,99.88,13.49,2.54,11.41,0,0,0,100,0,0,0,5.4,1,46.58,0.36,4.6
+ERX,Direxion Daily Energy Bull 3X Shares,Direxion Funds,387290000,387.29,Blend,Large,1.09,73.4,18.34,1.75,5.78,0,0,0,0,100,0,0,-23.84,3.39,40.83,-0.17,-7.27
+EWI,iShares MSCI Italy Capped ETF,iShares,391120000,391.12,Value,Large,0.47,99.8,10.09,1.21,4.06,0,13.12,29.44,1.78,15.47,9.15,1.88,-1.98,1.2,59.28,-0.06,-2.35
+DOL,WisdomTree International LargeCap Dividend Fund,WisdomTree,391830000,391.83,Value,Large,0.48,99.08,12.48,1.34,5.86,6.21,9.07,23.44,10.72,10.71,7.94,2.67,1.24,0.94,94.19,0.1,0.57
+IESE,iShares MSCI Europe SRI ETF EUR Acc,BlackRock Asset Management Ireland - ETF,392600000,392.6,Blend,Large,0.44,99.4,13.9,1.88,5.79,6.14,12.31,17.78,16.41,9.31,9.94,5.44,5.21,1,96.76,0.51,5.38
+FXU,First Trust Utilities AlphaDEX Fund,First Trust,392870000,392.87,Value,Large,0.63,99.69,15.98,1.39,4.84,2.94,0,0,0,4.3,0,0,8.13,0.35,11.95,0.69,21.04
+TUR,iShares MSCI Turkey ETF,iShares,403380000,403.38,Blend,Medium,0.59,98.86,7.03,0.93,1.65,15.82,5.22,29.28,0.75,7.63,17.01,2.23,-10.78,1.2,22.05,-0.26,-10.04
+IPRV,iShares Listed Private Eq ETF USD Dist,BlackRock Asset Management Ireland - ETF,403760000,403.76,Value,Medium,0.75,76.4,12.19,1.48,5.12,0.12,0,98.44,0,0,1.43,0,5.38,0.91,94.28,0.43,5.26
+IBZL,iShares MSCI Brazil ETF USD Dist,BlackRock Asset Management Ireland - ETF,405470000,405.47,Value,Large,0.74,99.65,13.24,1.89,6.53,17.19,6.82,38.02,0.78,14.4,4.49,0.81,-1.16,1,100,0.12,-1.44
+RHS,Invesco S&P 500 Equal Weight Consumer Staples ETF,Invesco,406830000,406.83,Value,Large,0.4,99.5,13.92,2.28,12.04,0,0,0,0,0,0,0,9.28,0.57,31.63,0.77,14.75
+ECH,iShares MSCI Chile Capped ETF,iShares,407160000,407.16,Blend,Large,0.59,99.69,16.25,1.63,4.58,13.53,14.67,20.24,0,0,14.34,1.42,0.74,1.02,40.33,0.09,-0.02
+BBH,VanEck Vectors Biotech ETF,VanEck,410660000,410.66,Growth,Large,0.35,99.95,16.3,3.27,13.32,0,0,0,100,0,0,0,7.51,1.33,46.9,0.41,5.03
+VIOV,Vanguard S&P Small-Cap 600 Value Index Fund ETF Shares,Vanguard,411210000,411.21,Value,Small,0.2,98.82,13.84,1.33,5.62,8.77,14.07,17.98,3.94,4.99,18.51,15.43,6.99,1.15,62.39,0.45,5.38
+JKL,iShares Morningstar Small-Cap Value ETF,iShares,413670000,413.67,Value,Small,0.3,99.77,11.97,1.25,5.36,5.71,16.47,23.17,1.88,5.38,10.62,8.43,4.65,1.16,67.74,0.32,3.31
+VIOG,Vanguard S&P Small-Cap 600 Growth Index Fund ETF Shares,Vanguard,414360000,414.36,Growth,Small,0.2,99.19,18.46,2.43,9.2,4.81,12.79,13.78,15.95,2.87,15.54,17.5,9.54,1.12,63.37,0.61,7.8
+VNM,VanEck Vectors Vietnam ETF,VanEck,415510000,415.51,Growth,Medium,0.66,99.5,16.63,2.56,2.86,4.99,12.23,16.15,4.77,2.83,5.2,11.34,-3.17,0.91,41.78,-0.14,-4.13
+XNTK,SPDR NYSE Technology ETF,SPDR State Street Global Advisors,418630000,418.63,Growth,Large,0.35,99.8,20.72,5.25,10.7,0,17.13,3.04,0,0,2.91,76.93,16.2,1.2,74.33,1,12.77
+YINN,Direxion Daily FTSE China Bull 3X Shares,Direxion Funds,420210000,420.21,Value,Large,1.52,56.21,8.9,1.16,3.29,2.53,4.53,46.63,0,9.88,3.95,11.83,1.31,3.42,38.44,0.31,0.14
+IYM,iShares U.S. Basic Materials ETF,iShares,425100000,425.1,Blend,Large,0.43,99.74,15.65,2.1,9.61,98.21,0.32,0,0,0.58,0.89,0,3.62,1.2,70.85,0.25,2.34
+IWX,iShares Russell Top 200 Value ETF,iShares,425840000,425.84,Value,Large,0.2,99.8,13.92,1.96,6.07,3.03,4.23,23.87,19.2,11.46,5.7,10.24,7.74,0.93,90.85,0.67,7.46
+REZ,iShares Residential Real Estate Capped ETF,iShares,430890000,430.89,Blend,Medium,0.48,99.39,43.4,2.27,17.01,0,0,0,0,0,0,0,11.36,0.42,9.11,0.72,25.14
+THD,iShares MSCI Thailand Capped ETF,iShares,433680000,433.68,Blend,Large,0.59,98.99,15.04,1.78,7.04,10.06,7.57,18.33,4.79,19.68,11.03,1.8,6.7,0.77,38,0.46,7.76
+CUKX,iShares FTSE 100 ETF GBP Acc,BlackRock Asset Management Ireland - ETF,437170000,437.17,Value,Large,0.07,97.38,12.34,1.63,4.55,9.46,10.22,19.17,11.88,17.27,6.46,1.24,4.83,1.06,98,0.47,4.16
+RWJ,Oppenheimer S&P SmallCap 600 Revenue ETF,OppenheimerFunds,439110000,439.11,Value,Small,0.39,99.82,11.57,1.08,3.75,8.93,25.84,6.62,8.49,4.79,20.11,11.45,4.59,1.32,63.44,0.29,2.86
+FIDU,Fidelity MSCI Industrials Index ETF,Fidelity Investments,443180000,443.18,Blend,Large,0.08,99.95,16.59,3.6,5.59,1.76,1.93,0,0,0.13,92.18,3.39,8.85,1.13,73.67,0.6,7.1
+STXSWX,Satrix Swix Top 40 ETF,Satrix Managers (Pty) Limited,445740000,445.74,Growth,Large,0.45,98.91,13.86,2.34,7.29,8.95,8.67,24.69,3.6,6.42,1.38,28.89,5.39,1.04,88.38,-0.05,-1.38
+JKH,iShares Morningstar Mid-Cap Growth ETF,iShares,446800000,446.8,Growth,Medium,0.3,99.95,28.16,4.36,16.82,2.2,11.96,7.22,19.94,4.02,15.38,29.85,10.67,1.13,83.74,0.75,8.74
+PJP,Invesco Dynamic Pharmaceuticals ETF,Invesco,446820000,446.82,Blend,Large,0.57,99.91,11.33,2.01,9.47,0,0,0,100,0,0,0,5.13,1.05,42.71,0.33,4.13
+DIV,Global X SuperDividend U.S. ETF,Global X Funds,447110000,447.11,Value,Medium,0.45,99.65,13.47,1.28,5.78,3.64,17,0,0,13.82,11.86,0,3.96,0.6,55.94,0.39,5.34
+IAPD,iShares Asia Pacific Div ETF USD Dist,BlackRock Asset Management Ireland - ETF,447160000,447.16,Value,Large,0.59,98.85,13.21,1.37,6.32,3.83,19.15,22.93,0,2.91,9.19,2.42,0.22,0.99,70.82,0.05,-0.33
+EDIV,SPDR S&P Emerging Markets Dividend ETF,SPDR State Street Global Advisors,449690000,449.69,Value,Large,0.49,99.67,9.61,1.24,4,7.1,5.78,24.7,0.16,10.6,8.87,11.17,0.34,1.1,60.43,0.05,-0.46
+IYK,iShares U.S. Consumer Goods ETF,iShares,454010000,454.01,Value,Large,0.43,99.77,15.7,3.27,11.98,0,25.82,0.23,0,0,1.37,3.72,6.98,0.72,56.87,0.62,8.61
+JKI,iShares Morningstar Mid-Cap Value ETF,iShares,459290000,459.29,Value,Medium,0.3,99.7,12.71,1.58,6.63,6.58,15.91,19.29,3.67,5.13,7.98,5.37,8.05,0.95,79.88,0.64,7.6
+QYLD,Global X NASDAQ 100 Covered Call ETF,Global X Funds,463660000,463.66,Growth,Large,0.6,99.75,19.1,4.54,14.66,0,19.37,1.25,9.26,0,3.72,54.97,7.87,0.65,66.97,0.82,11.01
+XME,SPDR S&P Metals and Mining ETF,SPDR State Street Global Advisors,468000000,468,Value,Small,0.35,99.89,10.94,1.37,4.98,91.78,0,0,0,0,8.22,0,-4.98,1.56,27.24,-0.02,-3.68
+FSTA,Fidelity MSCI Consumer Staples Index ETF,Fidelity Investments,472030000,472.03,Value,Large,0.08,99.95,17.14,3.78,13.57,0.13,0.34,0,0,0,0.26,0.14,8.23,0.57,32.89,0.7,13.06
+AOK,iShares Core Conservative Allocation ETF,iShares,488240000,488.24,Blend,Large,0.25,29,14.89,1.91,7.24,5.41,11.71,17.69,11.43,6.07,11.35,17.19,3.73,0.56,86.01,0.73,5.24
+JKF,iShares Morningstar Large-Cap Value ETF,iShares,490330000,490.33,Value,Large,0.25,99.78,12.78,1.85,5.45,2.37,2.11,26.52,12.78,7.93,3.79,13.49,8.18,0.89,87.75,0.72,8.3
+RFG,Invesco S&P MidCap 400 Pure Growth ETF,Invesco,491280000,491.28,Growth,Medium,0.35,99.8,17.52,1.79,7.99,2.37,19.23,9.01,18.46,10.8,13.17,14.62,4.76,1.12,75.14,0.34,3.52
+FM,iShares MSCI Frontier 100 ETF,iShares,492790000,492.79,Blend,Medium,0.81,97.55,10.54,1.67,4.8,4.3,1.04,44.8,2.74,4.08,3.88,1.5,0.82,0.66,36.93,0.11,0.86
+IYZ,iShares U.S. Telecommunications ETF,iShares,493500000,493.5,Value,Large,0.43,99.85,15.51,2.3,6.89,0,0,0,0,0,0,58.47,2.27,0.76,38.28,0.17,1.94
+VUSE,Vident Core U.S. Equity Fund,Vident Financial,495590000,495.59,Value,Medium,0.5,99.9,12.58,1.55,4.59,3.78,15.07,16.45,10.17,5.21,12.97,16.53,5.36,1.06,78.11,0.4,4.32
+EWX,SPDR S&P Emerging Markets Small Cap ETF,SPDR State Street Global Advisors,496860000,496.86,Value,Small,0.65,99.3,10.54,1.15,4.47,10.81,16,8.16,5.66,1.33,13.06,20.79,1.47,0.99,71.56,0.12,0.73
+SIZE,iShares Edge MSCI USA Size Factor ETF,iShares,497400000,497.4,Blend,Large,0.15,99.69,16.22,2.37,7.68,4.1,15.37,14.14,10.7,5.18,14.45,16.16,10.31,0.96,92.76,0.87,9.98
+CEMA,iShares MSCI EM Asia ETF USD Acc,BlackRock Asset Management Ireland - ETF,497740000,497.74,Blend,Large,0.65,99.29,10.49,1.4,4.29,6.14,13.21,21.12,3.46,5.18,5.31,29.76,3.53,1.01,99.31,0.27,2.98
+EZA,iShares MSCI South Africa ETF,iShares,498240000,498.24,Growth,Large,0.59,98.39,14.24,1.83,10.22,8.47,6.73,32.41,2.65,5.91,1.66,24.29,-1.83,1.22,45.38,-0.02,-2.2
+FGD,First Trust Dow Jones Global Select Dividend Index Fund,First Trust,499260000,499.26,Value,Large,0.58,99.81,10.31,1.06,4.36,2.95,21.65,42.17,0,5.1,2.7,3.41,1.11,0.84,86.33,0.09,0.43
+BRZU,Direxion Daily MSCI Brazil Bull 3X Shares,Direxion Funds,501230000,501.23,Blend,Large,1.36,54.24,11.78,1.97,3.29,16.14,7.91,35.97,0.73,13.62,4.75,0.94,-31.91,2.66,8.01,0.11,-12.3
+GMF,SPDR S&P Emerging Asia Pacific ETF,SPDR State Street Global Advisors,503200000,503.2,Blend,Large,0.49,99.87,12.63,1.59,5.3,6.35,13.4,24.12,3.38,5.73,6.21,23.87,7.57,1.04,71.61,0.51,6.48
+FM,iShares MSCI Frontier 100 ETF,iShares,503490000,503.49,Blend,Medium,0.81,99.38,10.37,1.48,2.28,4.49,1.12,46.1,2.67,3.77,4.39,1.73,-0.26,0.69,41.13,0.01,-0.96
+IFGL,iShares International Developed Real Estate ETF,iShares,504450000,504.45,Blend,Large,0.48,97.54,16.44,0.92,11.23,0,0.61,0,0,0,0.1,0,4.99,0.86,64.89,0.41,4.96
+EEMA,iShares MSCI Emerging Markets Asia ETF,iShares,509790000,509.79,Blend,Large,0.5,99.33,11.32,1.4,4.78,5.97,13.64,21.04,3.01,5.17,5.35,29.83,5.81,1.06,74.47,0.4,4.69
+LTAM,iShares MSCI EM Latin Amer ETF USD Dist,BlackRock Asset Management Ireland - ETF,511680000,511.68,Blend,Large,0.74,99.6,13.7,1.86,6.74,17,7.68,32.47,0.49,9.87,6,0.51,-2.65,1,100,-0.02,-3.4
+IAT,iShares U.S. Regional Banks ETF,iShares,519100000,519.1,Value,Medium,0.43,99.81,11.58,1.34,7.01,0,0,100,0,0,0,0,6.41,1.09,37.92,0.37,5.15
+IKRA,iShares MSCI Korea ETF USD Dist,BlackRock Asset Management Ireland - ETF,519660000,519.66,Value,Large,0.74,99.43,6.25,0.9,4.78,7.43,8.83,12.46,5.85,2.31,7.77,47.24,0.37,1,99.93,0.07,-0.24
+DJSC,iShares EURO STOXX Small ETF EUR Dist,BlackRock Asset Management Ireland - ETF,520760000,520.76,Blend,Medium,0.4,98.51,14.99,1.53,4.31,4.94,10.59,15.68,11.39,1.77,16.94,9.39,5.75,1,95.45,0.51,5.88
+FENY,Fidelity MSCI Energy Index ETF,Fidelity Investments,522580000,522.58,Blend,Large,0.08,99.94,17.88,1.55,5.14,0.49,0,0,0,99.12,0.06,0,-4.54,1.23,44.27,-0.16,-4.34
+KBWB,Invesco KBW Bank ETF,Invesco,532390000,532.39,Value,Large,0.35,99.45,10.02,1.16,3.67,0,0,100,0,0,0,0,7.24,1.17,41.6,0.41,5.52
+EWM,iShares MSCI Malaysia ETF,iShares,535350000,535.35,Value,Large,0.47,99.4,16.98,1.64,6.2,5.94,8.77,34.3,2.66,3.5,8.47,0,-4.42,0.81,41.92,-0.27,-6.29
+DBJP,Xtrackers MSCI Japan Hedged Equity ETF,Deutsche Asset Management,547340000,547.34,Blend,Large,0.46,46.28,12.84,1.11,4.96,6.68,16.51,10.9,8.23,1.76,19.17,15.11,7.08,0.84,42.08,0.46,7.37
+EWS,iShares MSCI Singapore Capped ETF,iShares,547590000,547.59,Value,Large,0.47,99.81,12.55,1.17,9.35,0,9.22,47.2,0,0,18.75,2.59,1.79,1.01,60.22,0.14,0.95
+IH2O,iShares Global Water ETF USD Dist,BlackRock Asset Management Ireland - ETF,550160000,550.16,Blend,Medium,0.65,99.69,19.22,2.44,9.64,7.67,0.59,0,5.33,0,45.42,0.84,5.96,1,99.97,0.54,5.51
+PXMG,Invesco Russell MidCap Pure Growth ETF,Invesco,554040000,554.04,Growth,Medium,0.39,99.88,30.2,7.64,18.97,0,23.05,8.4,13.54,0,10.92,43.17,14.07,1.21,74.32,0.87,10.94
+KBA,KraneShares Bosera MSCI China A ETF,KraneShares,560900000,560.9,Blend,Large,0.6,99.31,11.29,1.45,5.15,6.82,8.61,34.17,4.91,1.83,14.11,7.76,8.95,1.13,26.89,0.44,7.5
+PNQI,Invesco NASDAQ Internet ETF,Invesco,565850000,565.85,Growth,Large,0.6,100,30.11,5.59,14,0,46.1,0.18,0,0,0,51.08,15.37,1.27,65.66,0.86,11.42
+HEWJ,iShares Currency Hedged MSCI Japan ETF,iShares,568210000,568.21,Blend,Large,0.48,98.65,12.82,1.11,4.92,6.76,16.53,10.86,8.29,1.78,19.14,15.21,7.35,0.76,31.69,0.47,8.68
+TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,Flexshares Trust,576900000,576.9,Value,Large,0.59,99.05,7.92,0.98,3.26,11.17,11.01,22.49,1.74,5.73,8.52,20.03,3.08,1.11,78.11,0.23,2.13
+DVYE,iShares Emerging Markets Dividend ETF,iShares,576980000,576.98,Value,Medium,0.49,99.18,7.48,1.04,3.49,18.99,5.16,15.66,0,7.88,3.08,14.46,1.49,1.09,62.94,0.12,0.64
+LIT,Global X Lithium & Battery Tech ETF,Global X Funds,579970000,579.97,Growth,Medium,0.75,100,16.54,2.08,10.31,59.93,12,0,0,0,0.35,27.72,2.56,1.28,51.69,0.2,1.55
+IYT,iShares Transportation Average ETF,iShares,580330000,580.33,Blend,Large,0.43,99.83,13.42,2.7,6.74,0,0,0,0,0,100,0,7.83,1.1,52.44,0.49,6.4
+ERUS,iShares MSCI Russia Capped ETF,iShares,580720000,580.72,Value,Large,0.59,99.86,5.48,0.79,2.35,21.19,0,18.02,0,50.07,0,0,2.72,1.26,34.79,0.2,1.64
+CUSS,iShares MSCI USA Small Cap ETF USD Acc,BlackRock Asset Management Ireland - ETF,584240000,584.24,Blend,Small,0.43,99.66,16.39,2.06,9.06,5.46,13.22,15.46,13.05,4.22,13.72,15.74,7.81,0.88,97.63,0.61,8.25
+VIDI,Vident International Equity Fund,Vident Financial,589040000,589.04,Value,Large,0.61,99.79,9.35,1.06,3.69,10.47,9.68,19.04,6.85,7.89,13.17,8.85,1.86,0.99,89.39,0.16,1.25
+DJMC,iShares EURO STOXX Mid ETF EUR Dist,BlackRock Asset Management Ireland - ETF,593380000,593.38,Blend,Medium,0.4,99.61,13.53,1.32,4.2,9.51,10.49,17.84,8.15,3.22,20,5.3,8.15,0.96,96.55,0.72,8.7
+CGW,Invesco S&P Global Water Index ETF,Invesco,601910000,601.91,Blend,Medium,0.62,99.88,18.85,2.4,10.02,7.33,0.5,0,5.98,0,45.17,0.77,5.94,0.86,73.11,0.51,6.02
+URTH,iShares MSCI World ETF,iShares,603650000,603.65,Blend,Large,0.24,99.42,15.47,2.1,7.61,4.42,11.72,17.19,12.77,6.06,11.15,17.59,6.81,0.84,85.02,0.6,7.38
+FYX,First Trust Small Cap Core AlphaDEX Fund,First Trust,604170000,604.17,Blend,Small,0.66,99.82,13.7,1.47,5.72,8.64,17.74,9.77,9.64,5.08,18.17,14.47,5.67,1.17,62.46,0.37,4.16
+EUNA,iShares STOXX Europe 50 ETF EUR Dist,BlackRock Asset Management Ireland - ETF,605070000,605.07,Blend,Large,0.35,99.46,13.19,1.74,3.84,5.45,3.21,20.4,22.01,11.67,8.35,4.67,3.58,1.01,96.74,0.38,3.77
+DFJ,WisdomTree Japan SmallCap Dividend Fund,WisdomTree,616290000,616.29,Value,Small,0.58,99.99,12.32,0.89,5.71,13.3,23.76,8.79,5.11,0.82,23.9,13.01,8.13,0.78,63.08,0.64,9.23
+IQQC,iShares China Large Cap ETF USD Dist,BlackRock Asset Management Ireland - ETF,618010000,618.01,Value,Large,0.74,99.41,8.81,1.1,2.12,2.58,5.01,46.75,0,10.22,4.44,10.04,3.12,0.98,94.09,0.23,2.67
+STAN40,STANLIB Top 40 ETF,STANLIB Collective Investments,620010000,620.01,Growth,Large,0.29,99.55,13.95,2.05,7.49,19.76,13.59,23.41,2.81,3.97,1.28,21.8,5.39,1.06,96.59,-0.09,-1.7
+FEP,First Trust Europe AlphaDEX Fund,First Trust,624330000,624.33,Growth,Medium,0.8,98.9,12.42,1.34,7.19,16.72,16.47,8.1,5.92,9.85,14.03,5.53,1.52,1.03,80.15,0.12,0.76
+MDIV,First Trust Multi-Asset Diversified Income Index Fund,First Trust,631330000,631.33,Value,Medium,0.71,57.6,12.06,1.31,5.61,3.41,4.44,10.92,0,33.14,3.89,1.47,3.25,1.16,76.46,0.32,2.15
+XHE,SPDR S&P Health Care Equipment ETF,SPDR State Street Global Advisors,634410000,634.41,Growth,Medium,0.35,99.97,31.27,3.72,10.71,0,0,0,100,0,0,0,17.76,0.99,43.05,1.02,17.11
+EIDO,iShares MSCI Indonesia ETF,iShares,636000000,636,Blend,Large,0.59,99.87,14.08,2.19,10.07,10.49,10.93,39.07,2.09,0.33,4.99,0.46,0.02,0.74,22.92,0.07,-0.6
+FUTY,Fidelity MSCI Utilities Index ETF,Fidelity Investments,637680000,637.68,Value,Large,0.08,99.95,18.75,2.01,8.34,0.53,0,0,0,0.52,0,0,10.97,0.24,4.33,0.83,43.1
+DTD,WisdomTree U.S. Total Dividend Fund,WisdomTree,648100000,648.1,Value,Large,0.28,100,14.57,2.33,7.82,2.46,8.68,16.33,10.06,7.91,10.52,14.27,9.65,0.91,94.88,0.86,9.7
+CESL,iShares MSCI EMU Small Cap ETF EUR Acc,BlackRock Asset Management Ireland - ETF,650430000,650.43,Blend,Small,0.58,98.87,13.71,1.44,4.61,7.95,10.81,14.69,7.74,1.92,20.21,13.42,8.4,1,99.78,0.72,8.69
+IDLV,Invesco S&P International Developed Low Volatility ETF,Invesco,654160000,654.16,Blend,Large,0.25,99.48,16.33,1.41,6.87,1.38,3.65,24.73,2.29,1.69,10.86,0.48,4.05,0.78,89.85,0.38,4.27
+IEMA,iShares MSCI EM ETF USD Acc,BlackRock Asset Management Ireland - ETF,654930000,654.93,Blend,Large,0.5,99.02,10.5,1.43,4.74,7.74,11.28,24.47,2.81,7.94,4.96,23.88,1.33,1,99.99,0.12,0.7
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Fidelity Investments,655690000,655.69,Growth,Large,0.08,99.93,20.29,4.91,10.71,0.11,93.44,0,0,0,0.51,0.92,12.14,1.04,77.32,0.88,10.85
+FEM,First Trust Emerging Markets AlphaDEX Fund,First Trust,658510000,658.51,Value,Large,0.8,99.36,7.42,0.94,3.18,23.02,6.97,8.46,1.48,20.76,10.39,6.82,3.77,1.22,68.05,0.24,2.34
+DFE,WisdomTree Europe SmallCap Dividend Fund,WisdomTree,667380000,667.38,Blend,Small,0.58,99.35,12.02,1.4,5.55,6.59,19.37,14,1.93,1.24,26.37,7.9,1.93,1,71.54,0.16,1.25
+JNUG,Direxion Daily Junior Gold Miners Index Bull 3X Shares,Direxion Funds,673830000,673.83,Blend,Small,1.17,16.3,19.08,1.06,4.69,100,0,0,0,0,0,0,-51.86,-0.63,0.28,0.02,83.22
+EUFN,iShares MSCI Europe Financials ETF,iShares,674270000,674.27,Value,Large,0.48,98.21,9.79,0.87,3.63,0.04,0.09,99.34,0.02,0.01,0.22,0.21,-2.87,1.14,54.34,-0.12,-3.11
+TECL,Direxion Daily Technology Bull 3X Shares,Direxion Funds,679490000,679.49,Growth,Large,1.08,78.81,19.32,6.41,12.49,0,0,12.74,0,0,4.62,82.64,42.34,3.36,73.42,1.01,12.36
+XHB,SPDR S&P Homebuilders ETF,SPDR State Street Global Advisors,688480000,688.48,Blend,Medium,0.35,99.91,13.05,2.08,2.12,16.54,59.18,0,0,0,18.8,3.44,4.22,1.14,50.3,0.28,3.02
+PSK,SPDR Wells Fargo Preferred Stock ETF,SPDR State Street Global Advisors,689960000,689.96,Value,Large,0.45,2.81,11.82,0.94,8.39,0,0,86.69,0,0,0,0,5.82,1.06,32.11,0.94,4.73
+JKG,iShares Morningstar Mid-Cap ETF,iShares,695770000,695.77,Blend,Medium,0.25,99.8,17,2.62,7.27,5.02,17.71,11.16,6.81,2.03,20.44,15.77,8.53,1.08,90.44,0.65,7.16
+KIE,SPDR S&P Insurance ETF,SPDR State Street Global Advisors,698600000,698.6,Value,Medium,0.35,99.87,10.85,1.07,5.69,0,0,100,0,0,0,0,10.2,0.82,54.04,0.78,11.44
+PSCH,Invesco S&P SmallCap Health Care ETF,Invesco,699500000,699.5,Growth,Small,0.29,100,21.27,2.57,10.12,0,0,0.72,88.45,0,3.37,7.47,16.94,1.14,42.3,0.87,14.18
+PWB,Invesco Dynamic Large Cap Growth ETF,Invesco,726330000,726.33,Growth,Large,0.57,99.91,20.33,4.16,13.38,2.89,18.66,7.57,36.38,5.58,9.11,15.46,13.6,0.93,87.3,1.13,13.71
+RDVY,First Trust Rising Dividend Achievers ETF,First Trust,728120000,728.12,Value,Large,0.5,99.63,12.32,2.2,6.03,4.1,12.28,29.03,9.94,2.07,12.25,28.31,10.12,1.09,85.43,0.73,8.48
+PCEF,Invesco CEF Income Composite ETF,Invesco,732350000,732.35,Blend,Large,2.25,22.78,15.68,2.32,7.22,5.4,10.74,13.45,13.35,10.11,8.88,19.39,5.7,1.12,81.42,0.62,4.39
+IMAE,iShares MSCI Europe ETF EUR Acc,BlackRock Asset Management Ireland - ETF,734310000,734.31,Blend,Large,0.12,99.26,13.25,1.62,4.19,7.51,10.48,19,14.25,8.08,11.67,5.53,4.6,1,99.99,0.47,4.81
+EES,WisdomTree U.S. SmallCap Earnings Fund,WisdomTree,736090000,736.09,Value,Small,0.38,100,10.99,1.35,4.42,10.55,25.58,20.13,3.06,7.15,15.97,8.67,7.15,1.16,59.7,0.45,5.5
+QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,First Trust,736280000,736.28,Growth,Large,0.6,99.86,16.97,3.92,11.43,0,19.23,2.03,14.87,0,11.01,40.94,12.37,1.16,88.49,0.86,10.01
+KXI,iShares Global Consumer Staples ETF,iShares,738850000,738.85,Blend,Large,0.47,99.41,17.28,2.57,12.96,0,1.05,0,0,0,0,0,6.14,0.65,48.53,0.55,8.14
+PID,Invesco International Dividend Achievers ETF,Invesco,740810000,740.81,Blend,Large,0.55,100,13.46,1.67,5.21,11.07,7.05,21.5,2.44,11.7,10.67,10.32,0.73,1.01,81.08,0.06,-0.06
+RYH,Invesco S&P 500 Equal Weight Health Care ETF,Invesco,740900000,740.9,Growth,Large,0.4,99.89,16.74,3.05,9.24,0,0,0,98.39,0,0,1.61,11.49,1.03,65.19,0.79,10.41
+UYG,ProShares Ultra Financials,ProShares,749690000,749.69,Blend,Large,0.95,59.26,14.52,1.61,6.24,0.47,0,77.5,0,0,0.25,0,15.41,2.09,78.73,0.65,7
+IQDF,FlexShares International Quality Dividend Index Fund,Flexshares Trust,751960000,751.96,Value,Large,0.47,99.22,10.7,1.49,5.61,9.32,11.03,22.88,6.74,9.27,9.22,8.33,0.63,1.03,95.49,0.05,-0.1
+MOO,VanEck Vectors Agribusiness ETF,VanEck,762100000,762.1,Blend,Large,0.54,99.94,16.67,1.96,13.52,24.32,3.44,0,15.91,0,21.23,0,5.12,0.89,73.62,0.42,4.88
+IGE,iShares North American Natural Resources ETF,iShares,762960000,762.96,Blend,Large,0.47,99.75,18.08,1.56,5.32,11.63,6.16,0,0,81.66,0.55,0,-4.64,1.26,47.78,-0.18,-4.31
+STXFIN,Satrix Fini ETF,Satrix Managers (Pty) Limited,772260000,772.26,Blend,Medium,0.41,98.64,10.67,1.66,5.39,0,0,87.2,0,0,0,0,9.65,0,0,0.22,0
+XLG,Invesco S&P 500 Top 50 ETF,Invesco,781590000,781.59,Blend,Large,0.2,99.58,17.25,3.29,10.24,1.02,12.85,15.16,11.96,5.37,6.31,33.42,11.58,0.99,95.93,0.96,10.87
+VTWG,Vanguard Russell 2000 Growth Index Fund ETF Shares,Vanguard,785410000,785.41,Growth,Small,0.2,96.83,18.46,3.18,9.57,5.56,15.31,6.96,24.43,1.79,15.18,21.87,8.4,1.28,70.05,0.52,5.99
+DTN,WisdomTree U.S. Dividend ex-Financials Fund,WisdomTree,791070000,791.07,Value,Large,0.38,100,12.31,2.06,7.25,4.79,17.34,1.25,8.14,14.68,12.27,9.36,7.57,0.9,87.11,0.66,7.55
+CSM,ProShares Large Cap Core Plus,ProShares,791480000,791.48,Blend,Large,0.45,79.33,15.83,2.41,6.14,2.25,14.44,16.38,11.26,6.73,10.96,20.29,10.39,1.01,97.09,0.86,9.53
+PEY,Invesco High Yield Equity Dividend Achievers ETF,Invesco,794260000,794.26,Value,Large,0.54,99.77,14.34,1.86,6.69,1.42,4.66,19.2,1.49,11.51,1.66,5.6,11.89,0.83,70.73,1.01,13.46
+IDU,iShares U.S. Utilities ETF,iShares,795790000,795.79,Value,Large,0.43,99.76,18.55,2,8.33,0.57,0,0,0,0.6,0,0,10.63,0.22,3.88,0.8,43.76
+IYE,iShares U.S. Energy ETF,iShares,804940000,804.94,Blend,Large,0.43,99.81,18.24,1.57,5.36,0.09,0,0,0,99.01,0,0.28,-4.27,1.21,44.65,-0.16,-4.2
+GWX,SPDR S&P International Small Cap ETF,SPDR State Street Global Advisors,811710000,811.71,Blend,Small,0.4,98.67,12.1,1.09,5.63,11.12,16.52,8.54,8.39,3,19.23,13.51,3.33,0.96,84.06,0.25,2.56
+DBEU,Xtrackers MSCI Europe Hedged Equity ETF,Deutsche Asset Management,812650000,812.65,Blend,Large,0.45,49.07,13.49,1.55,7.71,7.79,10.51,18.15,13.63,8.21,11.79,5.88,6.19,0.68,57.92,0.55,8.18
+MLPX,Global X MLP & Energy Infrastructure ETF,Global X Funds,820000000,820,Value,Large,0.45,99.79,17.32,1.63,5.43,0,0,0,0,100,0,0,-0.58,1.35,51.43,0.04,-1
+IHF,iShares U.S. Healthcare Providers ETF,iShares,823120000,823.12,Blend,Large,0.43,99.9,14.76,2.68,12.56,0,0,0.8,93.83,0,0.68,4.69,12.26,0.83,34.58,0.77,13.87
+JKD,iShares Morningstar Large-Cap ETF,iShares,824430000,824.43,Blend,Large,0.2,99.77,15.51,3.35,8.91,2.62,9.14,10.78,17.56,8.24,17.47,19.89,9.93,0.97,94.52,0.84,9.44
+OIH,VanEck Vectors Oil Services ETF,VanEck,828930000,828.93,Blend,Medium,0.35,100,22.44,0.96,7.57,1.11,0,0,0,98.89,0,0,-17.5,1.66,35.34,-0.49,-11.04
+INDY,iShares India 50 ETF,iShares,829000000,829,Growth,Large,0.92,98.91,21.5,2.64,12.16,7.49,7.63,38.86,2.42,12.49,4.29,13.66,8.6,0.78,28.59,0.51,10.06
+DWX,SPDR S&P International Dividend ETF,SPDR State Street Global Advisors,832340000,832.34,Value,Large,0.45,99.29,14.4,1.59,6.61,2.84,9.97,23.63,1.95,1.77,9.16,3.11,-0.04,1,82.63,0,-0.82
+DWM,WisdomTree International Equity Fund,WisdomTree,837260000,837.26,Value,Large,0.48,99.26,12.71,1.33,5.88,7.43,10.9,22.4,8.53,7.96,11.32,3.84,1.87,0.95,96.24,0.15,1.19
+IDVY,iShares Euro Dividend ETF EUR Dist,BlackRock Asset Management Ireland - ETF,840140000,840.14,Value,Large,0.4,99.64,11.37,1.09,3.3,2.11,5.67,39.38,0,4.2,9.69,0,7.08,0.87,88.17,0.64,8.39
+EWQ,iShares MSCI France ETF,iShares,841600000,841.6,Blend,Large,0.47,99.46,13.84,1.58,7.8,6.17,18.39,11.29,9.67,8.77,21.65,4.72,2.71,1.02,76.38,0.2,1.88
+TNA,Direxion Daily Small Cap Bull 3X Shares,Direxion Funds,846990000,846.99,Growth,Small,1.14,66.35,15.71,1.8,6.98,5.16,12.75,16.18,14.47,3.11,14,17.04,9.62,3.55,66.78,0.42,2.48
+IYC,iShares U.S. Consumer Services ETF,iShares,858860000,858.86,Growth,Large,0.43,99.82,20.76,4.18,10.14,0.06,72.56,0,0.76,0,4.18,0.31,12.25,0.98,72.51,0.91,11.68
+EWP,iShares MSCI Spain Capped ETF,iShares,860430000,860.43,Value,Large,0.47,99.67,11.67,1.19,6.47,0,4.65,36.42,3.01,4.58,13.84,4.7,-3.36,1.2,68.58,-0.15,-3.44
+PPA,Invesco Aerospace & Defense ETF,Invesco,864610000,864.61,Blend,Large,0.6,99.78,17.89,3.69,14.64,0,3.92,0,0,0,78.01,17.5,13.59,1.06,62.56,0.88,12.08
+IWC,iShares Micro-Cap ETF,iShares,882320000,882.32,Blend,Small,0.6,99.62,14.6,1.62,5.33,3.05,10.98,21.48,25.34,3.36,10.85,12.99,4.95,1.14,54.3,0.32,3.68
+FNX,First Trust Mid Cap Core AlphaDEX Fund,First Trust,883770000,883.77,Blend,Medium,0.62,99.89,14.98,1.79,6.76,4.97,16.79,16.76,7.67,3.94,18.56,13.72,6.43,1.14,78.13,0.45,4.95
+IYJ,iShares U.S. Industrials ETF,iShares,887670000,887.67,Growth,Large,0.43,99.85,17.45,3.78,6.59,2.98,3.51,4.43,0.31,0.04,77.22,11.5,10.14,1.12,78.67,0.7,8.3
+MLPA,Global X MLP ETF,Global X Funds,895580000,895.58,Value,Medium,0.45,99.79,13.13,1.45,5.14,0,0,0,0,100,0,0,-4.5,1.31,55.82,-0.18,-4.03
+IVOV,Vanguard S&P Mid-Cap 400 Value Index Fund ETF Shares,Vanguard,900170000,900.17,Value,Medium,0.2,99.15,13.46,1.46,6.66,7.57,14.63,22.66,3.35,4.84,15.23,14,7.33,1.1,75.14,0.51,5.94
+RPV,Invesco S&P 500 Pure Value ETF,Invesco,908560000,908.56,Value,Large,0.35,99.46,9.97,1.12,3.75,1.56,17.61,32.41,6.44,11.41,8.83,5.85,6.29,1.14,82.43,0.45,4.81
+STXRAF,Satrix RAFI 40 ETF,Satrix Managers (Pty) Limited,910420000,910.42,Blend,Large,0.49,98.41,12.5,1.59,4.55,29.56,13.92,22.22,1.5,9.99,1.8,3.57,4.61,0.97,73.46,-0.11,-2.26
+NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,Flexshares Trust,918810000,918.81,Blend,Large,0.47,99.26,15.9,1.84,7.54,0.03,0.27,0,2.99,8.88,33.71,0.02,5.66,0.77,72.95,0.52,6.32
+SDIV,Global X SuperDividend ETF,Global X Funds,924550000,924.55,Value,Small,0.58,99.88,10.19,1.08,4.26,7.99,11.18,13.6,0,2.96,9.97,1.88,0.98,0.91,73.55,0.08,0.22
+AOA,iShares Core Aggressive Allocation ETF,iShares,931310000,931.31,Blend,Large,0.25,78.77,14.89,1.91,7.25,5.41,11.72,17.68,11.43,6.07,11.35,17.19,6.27,1.32,97.61,0.64,4.16
+IVOG,Vanguard S&P Mid-Cap 400 Growth Index Fund ETF Shares,Vanguard,936340000,936.34,Growth,Medium,0.2,98.94,20.7,2.78,11.48,4.56,13.96,9.72,14.21,4.06,15.87,19.47,8.58,1.05,80.48,0.64,7.44
+SUSA,iShares MSCI USA ESG Select ETF,iShares,940550000,940.55,Blend,Large,0.25,99.77,18.38,3.73,5.07,5.29,8.6,11.08,13.42,3.69,10.56,29.18,10.27,1.02,96.72,0.84,9.35
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,First Trust,945550000,945.55,Value,Large,0.5,99.72,14.09,3.33,7.67,0,0.03,0,0,0,0.35,79.93,11.58,1.04,73.11,0.83,10.41
+DHS,WisdomTree U.S. High Dividend Fund,WisdomTree,953280000,953.28,Value,Large,0.38,100,13.72,1.99,6.99,0.98,6.05,9.69,7.28,14.21,6.16,6.56,8.62,0.8,79.43,0.8,9.78
+FTC,First Trust Large Cap Growth AlphaDEX Fund,First Trust,954140000,954.14,Growth,Large,0.61,99.94,22.68,4.66,10.73,3.93,16.26,7.87,15.61,4,14.78,23.5,10.58,1.04,85.03,0.8,9.4
+ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,VanEck,956070000,956.07,Value,Large,0.35,0.73,9.66,0.48,0.47,0,0,100,0,0,0,0,6.87,0.6,6.83,0.9,9.84
+PHO,Invesco Water Resources ETF,Invesco,958010000,958.01,Growth,Medium,0.62,99.92,21.72,3.64,15.09,8.21,1.08,0,16.33,0,49.34,2.56,5.5,1.12,70.45,0.38,4.2
+EWL,iShares MSCI Switzerland ETF,iShares,976000000,976,Growth,Large,0.47,98.62,16.44,2.43,14.29,9.29,5.68,19.12,31.04,0,8.73,1.08,3.02,0.85,74.37,0.24,2.59
+FXO,First Trust Financials AlphaDEX Fund,First Trust,978880000,978.88,Value,Medium,0.63,99.91,12.45,1.38,5.32,1.15,0,71.06,0,0,3.43,0.91,8.58,0.96,66.3,0.63,8.07
+QAI,IQ Hedge Multi-Strategy Tracker ETF,IndexIQ,982130000,982.13,Blend,Large,0.79,17.91,13.43,1.53,6.09,6.15,13.42,16.83,8.06,6.05,12.69,17.33,1.32,0.52,84.14,0.16,1.06
+SPXL,Direxion Daily S&P500 Bull 3X Shares,Direxion Funds,992180000,992.18,Blend,Large,1.02,78.59,17.02,2.96,8.79,2.46,11.91,13.89,14.35,5.44,11.98,23.02,24.29,3.07,99.79,0.79,7.67
+MNA,IQ Merger Arbitrage ETF,IndexIQ,994760000,994.76,Growth,Medium,0.78,70.28,17.71,2.39,11.39,4.68,7.71,8.72,21.01,1.58,18.4,36.42,3.44,-0.14,1.33,0.78,-19.26
+RWL,Oppenheimer S&P 500 Revenue ETF,OppenheimerFunds,1000000000,1000,Value,Large,0.39,99.84,13.36,2.23,6.62,2.54,13.82,13.82,16.13,8.93,11.93,11.52,8.85,1,94.58,0.73,8.07
+TLTD,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund,Flexshares Trust,1010000000,1010,Value,Large,0.39,98.75,11.37,1.12,5.14,9.89,14.57,20.46,6.4,6.79,15.93,6.71,1.96,0.98,94.87,0.16,1.21
+AOM,iShares Core Moderate Allocation ETF,iShares,1030000000,1030,Blend,Large,0.25,38.81,14.89,1.91,7.25,5.41,11.72,17.69,11.43,6.07,11.35,17.19,4.25,0.72,93.63,0.71,4.85
+FDT,First Trust Developed Markets Ex-US AlphaDEX Fund,First Trust,1030000000,1030,Blend,Large,0.8,99.19,9.77,0.96,5.62,19.43,12.4,4.22,4.89,7.32,15.98,7.27,2.56,0.98,88.68,0.21,1.89
+SOXX,iShares PHLX Semiconductor ETF,iShares,1030000000,1030,Growth,Large,0.47,99.93,15.11,3.73,8.52,0,0,0,0,0,0,100,20.46,1.24,51.17,1.03,15.8
+EWW,iShares MSCI Mexico Capped ETF,iShares,1040000000,1040,Blend,Large,0.47,99.82,11.57,1.72,5.14,12.8,7.54,16.49,0.47,0,9.94,0,-5.63,1.03,39.45,-0.23,-6.2
+IXC,iShares Global Energy ETF,iShares,1040000000,1040,Blend,Large,0.47,99.54,15.1,1.47,5.19,0.19,0,0,0,99.09,0,0,-2.14,1.15,47.77,-0.07,-2.55
+PWV,Invesco Dynamic Large Cap Value ETF,Invesco,1040000000,1040,Value,Large,0.56,99.18,12.03,2.09,6.49,0,2.77,23.51,15.32,5.76,17.41,17.44,6.32,0.95,86.55,0.52,5.83
+VOOV,Vanguard S&P 500 Value Index Fund ETF Shares,Vanguard,1040000000,1040,Value,Large,0.15,99.77,13.67,2.11,6.33,2.98,8.8,21.38,11.25,7.53,10.3,16.49,7.89,0.96,91.51,0.66,7.37
+JKE,iShares Morningstar Large-Cap Growth ETF,iShares,1060000000,1060,Growth,Large,0.25,99.89,25.72,5.12,15.67,1.71,18.83,11.6,17.51,2.56,7.54,31.76,13.94,1.09,89.28,1.02,12.13
+AIA,iShares Asia 50 ETF,iShares,1090000000,1090,Blend,Large,0.5,99.5,11.7,1.35,5.06,4.17,3.08,31.99,0.87,3.42,1.59,42.54,8.29,1.14,73.72,0.53,6.52
+EZM,WisdomTree U.S. MidCap Earnings Fund,WisdomTree,1100000000,1100,Value,Medium,0.38,100,13.48,1.77,7.01,8.84,21.13,18.06,4.94,4.21,17.81,11.53,7.28,1.13,79.19,0.51,5.75
+FNCL,Fidelity MSCI Financials Index ETF,Fidelity Investments,1110000000,1110,Value,Large,0.08,99.97,11.7,1.35,5.35,0,0,98.05,0,0,0.07,0,9.32,0.98,54.64,0.63,8.7
+FPX,First Trust US Equity Opportunities ETF,First Trust,1110000000,1110,Growth,Large,0.59,99.95,22.39,2.93,10.63,0.74,8.03,10.46,18.4,1.55,7.65,31.38,11.09,1.12,83.98,0.78,9.14
+PKW,Invesco BuyBack Achievers ETF,Invesco,1130000000,1130,Value,Large,0.63,99.71,13.38,2.38,7.48,1.6,20.57,16.99,10.32,4.7,12.71,27.22,7.77,1.08,88.89,0.59,6.46
+NUGT,Direxion Daily Gold Miners Index Bull 3X Shares,Direxion Funds,1150000000,1150,Growth,Medium,1.23,22.65,26.47,1.49,8.09,100,0,0,0,0,0,0,-40.94,-0.58,0.3,0.07,72.65
+FTA,First Trust Large Cap Value AlphaDEX Fund,First Trust,1160000000,1160,Value,Large,0.61,99.96,11.27,1.48,4.05,4.42,18.21,22.46,6.4,5.5,11.39,6.26,6.49,1.02,80.18,0.5,5.6
+EWA,iShares MSCI Australia ETF,iShares,1180000000,1180,Blend,Large,0.47,98.72,15.73,1.86,5.86,17.86,6.83,36.91,8.86,5.96,5.91,2.38,1.17,1.01,62.73,0.1,0.31
+IYY,iShares Dow Jones U.S. ETF,iShares,1190000000,1190,Blend,Large,0.2,99.82,16.97,2.81,8.54,2.71,12.23,15.09,13.86,5.19,10.63,22.79,10.28,1.01,99.53,0.85,9.36
+ITB,iShares U.S. Home Construction ETF,iShares,1200000000,1200,Blend,Medium,0.43,99.9,11.05,1.52,7.85,17.44,78.44,0,0,0,2.96,1.15,8.25,1.16,42.64,0.46,6.43
+USRT,iShares Core U.S. REIT ETF,iShares,1210000000,1210,Blend,Medium,0.08,99.36,39.07,2.26,7.44,0,0,0,0,0,1.11,0,9.03,0.64,25.15,0.63,12.92
+SPSM,SPDR Portfolio Small Cap ETF,SPDR State Street Global Advisors,1220000000,1220,Blend,Small,0.05,99.82,15.68,1.73,6.83,6.55,13.26,14.67,12.55,3.62,13.56,17.78,7.31,1.19,67.96,0.47,5.47
+GNR,SPDR S&P Global Natural Resources ETF,SPDR State Street Global Advisors,1230000000,1230,Value,Large,0.4,99.5,12.32,1.36,5.66,51.99,8,0,0,33.89,1.28,0,1.17,1.2,60.19,0.11,0.39
+REM,iShares Mortgage Real Estate Capped ETF,iShares,1250000000,1250,Value,Medium,0.48,98.16,9.01,1.06,2.49,0,0,0.42,0,0,0,0,8.14,0.54,28.18,0.68,13.47
+SLY,SPDR S&P 600 Small Cap ETF,SPDR State Street Global Advisors,1260000000,1260,Blend,Small,0.15,99.92,15.84,1.71,7.03,6.77,13.59,15.87,9.96,3.9,16.97,16.41,8.33,1.14,64.24,0.54,6.68
+AOR,iShares Core Growth Allocation ETF,iShares,1270000000,1270,Blend,Large,0.25,58.66,14.89,1.91,7.25,5.41,11.72,17.68,11.43,6.07,11.35,17.19,5.45,1.02,97.62,0.7,4.6
+PXH,Invesco FTSE RAFI Emerging Markets ETF,Invesco,1300000000,1300,Value,Large,0.5,99.91,8.86,1.1,3.07,10.57,5.56,33.9,0.79,16.76,3.63,10.77,4.39,1.27,63.44,0.27,2.73
+XAR,SPDR S&P Aerospace & Defense ETF,SPDR State Street Global Advisors,1300000000,1300,Growth,Medium,0.35,99.88,19.58,3.49,16.88,0,0,0,0,0,88.43,11.57,13.89,1.08,56.57,0.85,12.13
+IPRP,iShares European Prpty Yld ETF EUR Dist,BlackRock Asset Management Ireland - ETF,1310000000,1310,Blend,Medium,0.4,97.82,10.38,0.98,13.75,0,0.69,0,0,0,0,0,10.6,0.94,86.05,0.84,11.53
+VTHR,Vanguard Russell 3000 Index Fund ETF Shares,Vanguard,1310000000,1310,Blend,Large,0.15,99.76,17.05,2.76,8.56,2.79,12.16,15.2,14.12,5.05,10.77,22.62,10.16,1.02,98.96,0.84,9.19
+IYG,iShares U.S. Financial Services ETF,iShares,1320000000,1320,Blend,Large,0.43,99.82,12.46,1.68,5.52,0,0,99.92,0,0,0.08,0,9.59,1.11,51.78,0.58,7.92
+EPI,WisdomTree India Earnings Fund,WisdomTree,1330000000,1330,Blend,Large,0.84,100,13.99,1.77,6.72,11.28,8.83,23.39,4.19,19.79,4.84,16.45,7.93,0.83,27.82,0.46,8.63
+DSI,iShares MSCI KLD 400 Social ETF,iShares,1340000000,1340,Growth,Large,0.25,99.83,17.99,3.86,8.3,2.95,12.76,13.06,11.01,3.78,10.15,31.53,10.08,1.01,98.12,0.83,9.19
+ROBO,Robo Global Robotics and Automation Index ETF,Robo Global,1350000000,1350,Growth,Medium,0.95,99.87,20.76,2.73,19.18,0,0.94,0,9.49,1.72,41.18,45.39,7.57,1.14,65.99,0.47,5.94
+IWY,iShares Russell Top 200 Growth ETF,iShares,1370000000,1370,Growth,Large,0.2,99.69,20.41,6.49,13.35,1.36,18.08,10.05,13.07,0.5,11.22,36.09,14.3,1.05,91.98,1.1,12.9
+RSX,VanEck Vectors Russia ETF,VanEck,1370000000,1370,Value,Large,0.67,99.65,6.02,0.91,2.66,22.85,1.02,12.35,0,40.97,0,7.09,0.64,1.25,38.43,0.12,0.01
+PGF,Invesco Financial Preferred ETF,Invesco,1380000000,1380,Blend,Large,0.63,0.74,13.08,1.56,8.14,0,0,100,0,0,0,0,6.35,0.87,31.78,1.24,6.36
+SPMD,SPDR Portfolio Mid Cap ETF,SPDR State Street Global Advisors,1380000000,1380,Blend,Medium,0.05,99.85,16.25,1.85,8,6.26,14.07,15.97,9.22,4.28,15.99,16.77,7.08,1.14,77.62,0.49,5.5
+FEX,First Trust Large Cap Core AlphaDEX Fund,First Trust,1410000000,1410,Blend,Large,0.61,99.94,14.94,2.16,5.99,3.79,17.48,15.79,10.53,4.46,12.8,14.35,8.52,1.03,94.08,0.68,7.51
+SPHQ,Invesco S&P 500 Quality ETF,Invesco,1410000000,1410,Growth,Large,0.15,99.78,19.79,4.91,7.37,1.3,12.42,12.42,11.28,7.25,9.74,33.47,11.19,0.89,90.37,1,11.75
+DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,WisdomTree,1420000000,1420,Value,Medium,0.63,99.97,9.03,1.12,3.89,9.95,15.68,10.37,2.83,1.02,10.93,20.31,3.51,1.01,68.79,0.26,2.73
+GXC,SPDR S&P China ETF,SPDR State Street Global Advisors,1420000000,1420,Blend,Large,0.59,99.77,10.17,1.29,3.89,2.87,20.91,21.81,3.1,4.19,6.28,23.02,8.97,1.34,63.01,0.48,6.08
+MDYV,SPDR S&P 400 Mid Cap Value ETF,SPDR State Street Global Advisors,1440000000,1440,Value,Medium,0.15,99.87,13.46,1.46,6.66,7.58,14.64,22.64,3.36,4.85,15.24,13.99,7.35,1.1,75.09,0.52,5.98
+TILT,FlexShares Morningstar US Market Factors Tilt Index Fund,Flexshares Trust,1440000000,1440,Blend,Large,0.25,98.77,15.65,2.25,7.04,3.73,12.94,17.01,12.19,5.5,11.63,19.59,8.64,1.07,92.92,0.67,7.34
+FAS,Direxion Daily Financial Bull 3X Shares,Direxion Funds,1450000000,1450,Blend,Large,1,77.46,14.81,1.7,6.51,0.45,0.07,67.9,0,0,11.91,0.56,21.53,3.18,81.26,0.68,6.53
+PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,Invesco,1470000000,1470,Value,Large,0.45,99.64,10.83,1.04,4.77,8.66,11.75,26.14,5.23,9.77,11.44,5.86,1.45,1.02,94.39,0.11,0.65
+ILF,iShares Latin America 40 ETF,iShares,1530000000,1530,Blend,Large,0.48,99.07,11.3,1.75,3.38,16.71,2.77,39.59,0,15.07,4.06,0.63,0.42,1.32,39.53,0.11,-0.28
+STXDIV,Satrix Divi Plus ETF,Satrix Managers (Pty) Limited,1530000000,1530,Value,Medium,0.38,95.58,10.75,1.77,7.4,32.25,13.86,25.35,2.21,2.4,2.51,0,5.68,0.82,39.78,0,-1.32
+CPXJ,iShares Core MSCI Pac ex-Jpn ETF USD Acc,BlackRock Asset Management Ireland - ETF,1560000000,1560,Blend,Large,0.2,98.99,13.92,1.51,7.11,9.41,5.66,38.35,5.76,3.29,9.68,1.86,2,1,100,0.17,1.43
+FDL,First Trust Morningstar Dividend Leaders Index Fund,First Trust,1580000000,1580,Value,Large,0.45,99.92,13.68,2.17,7.25,0.86,5.02,3.75,13.37,15.81,1.51,6.28,9.72,0.7,65.51,0.92,12.69
+IGM,iShares Expanded Tech Sector ETF,iShares,1590000000,1590,Growth,Large,0.47,99.93,21.18,5.57,13.02,0.07,12.97,8.27,0,0,4.43,74.12,18.68,1.17,73.46,1.16,15.32
+IJPN,iShares MSCI Japan ETF USD Dist,BlackRock Asset Management Ireland - ETF,1590000000,1590,Blend,Large,0.59,99.29,12.58,1.23,5.21,6.93,17.08,12,7.41,1.98,18.93,15.21,3.99,1.02,99.38,0.48,6.15
+FHLC,Fidelity MSCI Health Care Index ETF,Fidelity Investments,1600000000,1600,Growth,Large,0.08,99.94,16.53,3.79,13.08,0,0,0.03,98.4,0,0.07,1.5,11.53,0.96,60,0.81,11.24
+MDYG,SPDR S&P 400 Mid Cap Growth ETF,SPDR State Street Global Advisors,1620000000,1620,Growth,Medium,0.15,99.88,20.71,2.79,11.51,4.54,13.9,9.71,14.15,4.05,15.83,19.78,8.63,1.05,80.42,0.64,7.5
+IWDE,iShares MSCI World EUR Hedged ETF Acc,BlackRock Asset Management Ireland - ETF,1630000000,1630,Blend,Large,0.55,98.54,15.34,2.19,7.73,4.44,11.7,17.89,13.53,6.11,10.98,16.52,6.66,0,0,0.24,0
+RYT,Invesco S&P 500 Equal Weight Technology ETF,Invesco,1660000000,1660,Growth,Large,0.4,99.75,16.9,4.19,10.75,0,0,8.87,0,0,11.9,79.23,17.52,1.14,73.49,1.12,14.68
+DLS,WisdomTree International SmallCap Dividend Fund,WisdomTree,1670000000,1670,Value,Small,0.58,99.67,11.55,1.15,5.98,8.85,17.94,15.13,3.76,1.79,21.39,8.82,3.35,0.96,86.24,0.26,2.69
+IYF,iShares U.S. Financials ETF,iShares,1680000000,1680,Blend,Large,0.43,99.79,14.86,1.65,6.42,0.47,0,77.51,0,0,0.25,0,9.47,0.95,65.77,0.7,9.1
+PDP,Invesco DWA Momentum ETF,Invesco,1690000000,1690,Growth,Large,0.63,99.86,26.14,5.69,17.88,3.44,18.12,10.96,14.72,1.08,19.01,16.25,9.15,1.04,84.06,0.7,8.06
+RDIV,Oppenheimer S&P Ultra Dividend Revenue ETF,OppenheimerFunds,1710000000,1710,Value,Large,0.39,99.73,10.44,1.67,6.18,6.07,16.73,5.37,0.92,16.22,1.03,11.93,11.33,0.85,60.74,0.88,12.35
+CWI,SPDR MSCI ACWI ex-US ETF,SPDR State Street Global Advisors,1720000000,1720,Blend,Large,0.3,99.55,12.75,1.42,5.81,7.61,11.05,21.57,8.3,7.61,11.15,11.99,2.86,1,99.86,0.23,2.13
+VOX,Vanguard Communication Services Index Fund ETF Shares,Vanguard,1750000000,1750,Growth,Large,0.1,99.45,19.12,2.42,8.32,0,23.53,0,0,0,0.04,46.27,2.74,0.74,43.8,0.22,2.66
+QDF,FlexShares Quality Dividend Index Fund,Flexshares Trust,1760000000,1760,Value,Large,0.37,98.74,14.04,2.78,8.12,2.94,10.02,12.4,11.25,8.63,10.33,22.88,9.19,0.95,93.08,0.79,8.91
+STXIND,Satrix Indi ETF,Satrix Managers (Pty) Limited,1760000000,1760,Growth,Large,0.42,99.12,17.58,2.83,10.51,0,33.01,3.69,5.89,0,3.21,29.91,5.43,0,0,0,0
+STANSX,STANLIB SWIX 40 ETF,STANLIB Collective Investments,1800000000,1800,Growth,Large,0.29,99.35,13.94,2.14,8.31,7.99,8.64,28.46,3.57,5.05,1.62,27.69,6.47,1.05,87.39,-0.02,-1.02
+XSLV,Invesco S&P SmallCap Low Volatility ETF,Invesco,1810000000,1810,Blend,Small,0.25,99.97,17.93,1.56,10.11,3.34,3.62,36.52,0.88,0,8.1,7.26,10.54,0.84,49.06,0.76,11.66
+FNDC,Schwab Fundamental International Small Company Index ETF,Schwab ETFs,1870000000,1870,Value,Medium,0.39,99.79,12.93,1.12,5.13,10.29,19.54,11.12,4.69,3.71,22.89,9.32,4.13,0.93,90.24,0.34,3.64
+MGC,Vanguard Mega Cap Index Fund ETF Shares,Vanguard,1870000000,1870,Blend,Large,0.07,99.74,17.04,3.1,8.76,2.12,11.51,15.79,15.19,5.39,9.27,24.12,11.12,0.99,99.8,0.93,10.38
+IJPE,iShares MSCI Japan EUR Hedged ETF Acc,BlackRock Asset Management Ireland - ETF,1890000000,1890,Blend,Large,0.64,98.86,12.58,1.23,5.2,6.91,17.07,12.01,7.41,1.97,18.94,15.23,5.12,0,0,0.13,0
+SDOG,ALPS Sector Dividend Dogs ETF,ALPS,1910000000,1910,Value,Large,0.4,99.65,10.51,1.71,3.08,3.9,17.69,11.76,9.93,10.42,9.88,8.18,7.87,0.98,80.38,0.62,7.23
+SLYG,SPDR S&P 600 Small Cap Growth ETF,SPDR State Street Global Advisors,1950000000,1950,Growth,Small,0.15,99.88,18.42,2.42,9.2,4.81,12.99,13.82,15.89,2.87,15.48,17.42,9.64,1.12,63.32,0.61,7.89
+IEUX,iShares MSCI Europe ex-UK ETF EUR Dist,BlackRock Asset Management Ireland - ETF,1970000000,1970,Blend,Large,0.4,99.44,13.59,1.61,4.08,7.09,10.75,18.69,14.98,4.43,13.85,7.25,5.24,1,99.97,0.5,5.44
+ONEQ,Fidelity NASDAQ Composite Index Tracking Stock Fund,Fidelity Investments,1980000000,1980,Growth,Large,0.21,87.38,19.51,3.9,11.15,0.5,16.6,6.79,10.71,0.33,5.54,48.87,14.12,1.16,89.13,0.98,11.52
+FTCS,First Trust Capital Strength ETF,First Trust,1990000000,1990,Blend,Large,0.61,99.94,16.96,3.92,10.93,5.67,11.73,23.3,7.87,1.85,24.67,10.6,11.3,0.91,91.81,0.99,11.59
+IEV,iShares Europe ETF,iShares,2000000000,2000,Blend,Large,0.6,98.99,13.35,1.54,7.77,8.04,10.43,18.06,13.7,8.14,11.79,5.82,0.76,0.98,88.07,0.06,0
+DLN,WisdomTree U.S. LargeCap Dividend Fund,WisdomTree,2030000000,2030,Value,Large,0.28,100,14.34,2.49,8.27,1.95,6.85,15.64,11.72,8.59,10.64,16.12,9.73,0.91,95.28,0.87,9.87
+IOO,iShares Global 100 ETF,iShares,2030000000,2030,Blend,Large,0.4,99.54,15.28,2.28,7.25,3.19,11.86,12.37,15.39,9.22,6.45,25.66,6.98,0.83,80.86,0.6,7.53
+SLYV,SPDR S&P 600 Small Cap Value ETF,SPDR State Street Global Advisors,2030000000,2030,Value,Small,0.15,99.85,13.85,1.33,5.63,8.74,14.2,17.92,3.95,4.97,18.46,15.4,7.13,1.15,62.35,0.45,5.46
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,SPDR State Street Global Advisors,2050000000,2050,Blend,Medium,0.35,99.92,13.91,0.97,2.31,0.49,0,0,0,99.51,0,0,-14.71,1.71,32.2,-0.34,-9.09
+IFFF,iShares MSCI AC Far East exJpn ETF $ Dis,BlackRock Asset Management Ireland - ETF,2080000000,2080,Blend,Large,0.74,98.1,10.23,1.26,4.27,4.75,12.51,23.92,2.71,3.28,7.19,26.32,3.08,1.02,99.18,0.25,2.57
+INAA,iShares MSCI North America ETF USD Dist,BlackRock Asset Management Ireland - ETF,2080000000,2080,Blend,Large,0.4,99.59,16.83,2.9,11.45,2.83,11.72,16.97,14.47,6.15,9.86,21.27,9.4,0.99,99.55,0.9,9.06
+KBE,SPDR S&P Bank ETF,SPDR State Street Global Advisors,2080000000,2080,Value,Medium,0.35,99.92,10.43,1.15,5.31,0,0,100,0,0,0,0,5.96,1.18,38.65,0.34,4.37
+SCHC,Schwab International Small-Cap Equity ETF,Schwab ETFs,2080000000,2080,Blend,Small,0.12,99.25,13.87,1.3,5.85,11.1,14.16,10.82,7.56,4.87,19.25,11.62,1.97,0.97,87.05,0.15,1.17
+DES,WisdomTree U.S. SmallCap Dividend Fund,WisdomTree,2090000000,2090,Value,Small,0.38,100,14.9,1.65,6.19,9.37,21.9,11.29,1.92,3.04,16.89,6.41,6.98,1.04,60.92,0.47,5.92
+MOAT,VanEck Vectors Morningstar Wide Moat ETF,VanEck,2100000000,2100,Blend,Large,0.49,99.71,15.03,2.91,6.82,2.75,10.05,14.33,21.32,0,8.9,21.19,11.4,1.07,81.91,0.82,9.89
+IXJ,iShares Global Healthcare ETF,iShares,2110000000,2110,Growth,Large,0.47,99.49,16.67,3.56,13.36,0,0,0,99.11,0,0,0.89,8.09,0.86,64.26,0.65,8.48
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,Invesco,2110000000,2110,Blend,Small,0.39,100,15.07,1.5,6.27,8.2,14.87,15.84,7.65,5.16,17.13,14.67,6.48,1.1,66.64,0.44,5.16
+SKYY,First Trust Cloud Computing ETF,First Trust,2120000000,2120,Growth,Large,0.6,99.46,21.28,4.36,13.8,0,9.79,0,0,0,0,85.36,16.89,1.08,71.99,1.13,14.87
+FXH,First Trust Health Care AlphaDEX Fund,First Trust,2140000000,2140,Growth,Large,0.63,99.77,18.22,2.9,13.1,0,0,0,94.82,0,0,5.18,8.45,1.04,55.96,0.56,7.36
+VIOO,Vanguard S&P Small-Cap 600 Index Fund ETF Shares,Vanguard,2150000000,2150,Blend,Small,0.15,97.97,15.84,1.72,7.02,6.78,13.42,15.86,9.99,3.92,17.02,16.47,8.38,1.14,64.33,0.54,6.67
+DEM,WisdomTree Emerging Markets High Dividend Fund,WisdomTree,2160000000,2160,Value,Large,0.63,99.68,8.58,1.16,3.54,17.18,6.15,21.25,0.73,15.97,3.77,11.15,1.95,1.14,70.85,0.14,0.89
+ICF,iShares Cohen & Steers REIT ETF,iShares,2160000000,2160,Blend,Large,0.34,99.44,43.79,2.89,18.17,0,0,0,0,0,0,0,9.89,0.56,18.05,0.66,16.12
+SPLG,SPDR Portfolio Large Cap ETF,SPDR State Street Global Advisors,2160000000,2160,Blend,Large,0.03,99.78,17.25,3.05,9.8,2.44,12.86,14.02,14.07,5.27,11.43,23.21,10.68,1.01,99.69,0.88,9.78
+FXL,First Trust Technology AlphaDEX Fund,First Trust,2170000000,2170,Growth,Large,0.63,99.92,20.52,3.59,11.33,0,0,0,0,0,0.32,99.68,16.13,1.21,64.41,0.94,12.68
+IVOO,Vanguard S&P Mid-Cap 400 Index Fund ETF Shares,Vanguard,2180000000,2180,Blend,Medium,0.15,98.77,16.43,1.92,8.5,6.02,14.28,16.01,8.94,4.44,15.56,16.82,8.15,1.07,80.99,0.6,6.84
+ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,Deutsche Asset Management,2240000000,2240,Blend,Large,0.66,99.99,12.25,1.57,5.54,7.55,8.47,34.08,6.26,1.43,13.88,10.93,12.01,1.14,25.46,0.52,9.84
+FTEC,Fidelity MSCI Information Technology Index ETF,Fidelity Investments,2240000000,2240,Growth,Large,0.08,99.9,18.95,5.44,12.4,0.09,0.11,10.75,0,0,5.73,83.22,17.88,1.1,68.64,1.14,15.49
+RPG,Invesco S&P 500 Pure Growth ETF,Invesco,2270000000,2270,Growth,Large,0.35,99.82,22.11,3.86,11.49,1.93,11.82,7.46,14.85,10.12,15.53,22.56,10.23,1.06,86.85,0.77,8.88
+EWU,iShares MSCI United Kingdom ETF,iShares,2280000000,2280,Blend,Large,0.47,98.66,12.69,1.26,6.17,9.71,9.74,19.64,9.81,18.05,6.07,1.32,0.17,0.94,79.25,0.01,-0.65
+EWG,iShares MSCI Germany ETF,iShares,2290000000,2290,Blend,Large,0.47,99.11,11.75,1.4,7.11,10.31,17.95,16.07,11.83,0,13.06,13.57,-0.9,1.13,78.74,-0.04,-1.51
+RWO,SPDR Dow Jones Global Real Estate ETF,SPDR State Street Global Advisors,2300000000,2300,Blend,Medium,0.5,99.29,28.21,1.52,14.39,0,0,0,0,0,0,0,6.27,0.7,41.22,0.5,7.86
+FEZ,SPDR EURO STOXX 50 ETF,SPDR State Street Global Advisors,2340000000,2340,Blend,Large,0.29,99.91,13.22,1.59,8.23,9.33,13.42,16.22,8.18,7.3,12.99,10.37,-0.07,1.07,77.46,0.01,-0.8
+FNDE,Schwab Fundamental Emerging Markets Large Company Index ETF,Schwab ETFs,2350000000,2350,Value,Large,0.39,98.88,8.45,1,3.15,8.58,4.22,24.53,0.35,24.89,2.64,14.35,3.45,1.25,67.94,0.23,2.15
+RWX,SPDR Dow Jones International Real Estate ETF,SPDR State Street Global Advisors,2360000000,2360,Blend,Large,0.59,98.76,19.04,1.02,11.84,0,0,0,0,0,0,0,3.57,0.82,62.31,0.29,3.36
+EPP,iShares MSCI Pacific ex Japan ETF,iShares,2380000000,2380,Blend,Large,0.48,99.14,15.31,1.53,8,9.97,7.31,37.04,5.67,3.27,9.59,1.72,3.46,1.02,73.56,0.25,2.59
+IYH,iShares U.S. Healthcare ETF,iShares,2380000000,2380,Growth,Large,0.43,99.87,16.4,3.82,13.24,0,0,0,99.71,0,0,0.29,11.17,0.93,59.82,0.8,11.14
+QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,First Trust,2390000000,2390,Growth,Large,0.58,99.93,17.94,4.28,10.31,0,0,0,0,0,0,100,18.38,1.19,67.74,1.09,14.75
+EMLP,First Trust North American Energy Infrastructure Fund,First Trust,2410000000,2410,Value,Large,0.95,99.1,17.23,1.95,6.42,1.1,0,0,0,54.71,0,0,4.32,0.76,42.67,0.33,4.64
+VTWO,Vanguard Russell 2000 Index Fund ETF Shares,Vanguard,2420000000,2420,Growth,Small,0.15,97.24,15.79,1.81,6.98,5.14,12.74,16.01,14.64,3.07,13.88,17.14,7.08,1.19,67.66,0.46,5.29
+MGV,Vanguard Mega Cap Value Index Fund ETF Shares,Vanguard,2430000000,2430,Value,Large,0.07,99.84,13.74,2.12,6.41,2.43,3.52,23.26,20.44,9.03,10.23,9.41,9.58,0.92,92.46,0.84,9.57
+FV,First Trust Dorsey Wright Focus 5 ETF,First Trust,2440000000,2440,Growth,Large,0.89,99.6,20.28,3.81,12.39,0,5.03,2.13,37.05,0,0.07,55.07,10.22,1.15,74.98,0.68,8.24
+VOOG,Vanguard S&P 500 Growth Index Fund ETF Shares,Vanguard,2440000000,2440,Growth,Large,0.15,99.71,21.75,4.75,13.41,1.9,14.61,10.19,17.34,3.59,10.18,28.59,13.18,1.03,93.89,1.04,12.02
+VAW,Vanguard Materials Index Fund ETF Shares,Vanguard,2460000000,2460,Blend,Large,0.1,99.95,15.17,2.15,8.58,84.59,13.04,0,0,0.42,1.95,0,5.04,1.22,74.28,0.34,3.49
+SPYV,SPDR Portfolio S&P 500 Value ETF,SPDR State Street Global Advisors,2520000000,2520,Value,Large,0.04,99.82,13.67,2.11,6.33,3.09,8.8,19.53,11.24,7.51,12.15,16.48,7.89,0.96,91.47,0.66,7.41
+EWC,iShares MSCI Canada ETF,iShares,2570000000,2570,Blend,Large,0.47,99.5,14.51,1.64,4.69,10.46,3.98,39.55,1.31,19.88,8.6,5.02,0.78,0.97,61.19,0.07,-0.05
+XMLV,Invesco S&P MidCap Low Volatility ETF,Invesco,2580000000,2580,Value,Medium,0.25,99.84,19.76,2.02,11.04,3.94,11.12,29.34,1.34,1.27,6.02,1.31,12.84,0.74,59.77,1.12,16.38
+KRE,SPDR S&P Regional Banking ETF,SPDR State Street Global Advisors,2600000000,2600,Value,Medium,0.35,99.96,10.71,1.13,5.45,0,0,100,0,0,0,0,6.25,1.13,33.23,0.35,4.79
+IGV,iShares Expanded Tech-Software Sector ETF,iShares,2700000000,2700,Growth,Large,0.47,99.94,30.49,6.75,23.79,0,0,0,0,0,0.07,99.75,20.81,1.17,68.03,1.24,17.06
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,WisdomTree,2780000000,2780,Blend,Large,0.28,100,15.16,3.61,9.91,2.18,11.89,10.45,10.3,7.01,19.54,18.88,11.33,1,96.2,0.93,10.51
+SPEM,SPDR Portfolio Emerging Markets ETF,SPDR State Street Global Advisors,2790000000,2790,Blend,Large,0.11,98.68,11.61,1.49,4.61,7.82,11.35,26.17,2.64,8.25,6.17,19.66,4.4,1.1,77.04,0.3,3.17
+IXN,iShares Global Tech ETF,iShares,2820000000,2820,Growth,Large,0.47,99.66,17.84,4.11,10.74,0,0,10.07,0,0,4.72,85.21,16.36,1.09,72.7,1.08,14.2
+IGF,iShares Global Infrastructure ETF,iShares,2830000000,2830,Blend,Large,0.47,98.6,18.02,1.87,8.77,0.24,0,0,0,18.63,39.95,0,4.62,0.73,58.02,0.41,5.34
+RWR,SPDR Dow Jones REIT ETF,SPDR State Street Global Advisors,2910000000,2910,Blend,Medium,0.25,99.78,42.77,2.3,16.81,0,0,0,0,0,0,0,8.69,0.62,21.82,0.58,12.69
+HEFA,iShares Currency Hedged MSCI EAFE ETF,iShares,2940000000,2940,Blend,Large,0.35,98.82,13.5,1.41,6.74,7.88,11.54,18.99,11.28,5.96,13.27,7.8,6.72,0.69,60.2,0.58,8.52
+VCR,Vanguard Consumer Discretionary Index Fund ETF Shares,Vanguard,3060000000,3060,Growth,Large,0.1,98.59,20.35,4.72,10.72,0.12,93.38,0,0,0,0.53,0.94,11.81,1.06,77.76,0.84,10.33
+SPTM,SPDR Portfolio Total Stock Market ETF,SPDR State Street Global Advisors,3090000000,3090,Blend,Large,0.03,99.29,17.11,2.87,9.52,2.81,12.87,14.13,13.96,5.13,11.69,22.62,10.64,1.02,98.89,0.85,9.42
+FBT,First Trust NYSE Arca Biotechnology Index Fund,First Trust,3110000000,3110,Growth,Medium,0.56,99.83,20.8,3.65,14.83,0,0,0,100,0,0,0,14.53,1.51,44.12,0.64,9.09
+SPHD,Invesco S&P 500 High Dividend Low Volatility ETF,Invesco,3110000000,3110,Value,Large,0.3,100,13.46,1.81,7.16,4.22,7.87,14.14,1.32,14.89,6,2.2,11.67,0.71,60.63,1.06,15.3
+VONE,Vanguard Russell 1000 Index Fund ETF Shares,Vanguard,3130000000,3130,Blend,Large,0.12,99.75,17.14,2.87,8.69,2.62,12.12,15.14,14.08,5.21,10.54,23.03,10.49,1.01,99.73,0.87,9.59
+EWH,iShares MSCI Hong Kong ETF,iShares,3160000000,3160,Blend,Large,0.48,99.54,15.33,1.25,14.98,0,8.73,35.27,0.78,0,13.98,0.62,9.28,1.06,61.65,0.58,8.02
+DXJ,WisdomTree Japan Hedged Equity Fund,WisdomTree,3260000000,3260,Value,Large,0.48,100,11.36,0.97,4.6,11.54,23.11,12.46,8.85,0.3,20.12,13.27,6.31,0.92,40.29,0.39,5.86
+FPE,First Trust Preferred Securities and Income ETF,First Trust,3330000000,3330,Value,Small,0.85,0.16,36.71,0.67,5.81,0,0,0,0,0,0,0,6.22,0.54,14.85,1.32,9.96
+EWT,iShares MSCI Taiwan Capped ETF,iShares,3360000000,3360,Value,Large,0.59,99.93,14.12,1.53,5.46,10.87,4.46,19.15,0.25,0.87,3.3,52.24,6.54,0.82,51.78,0.48,7.02
+FNDA,Schwab Fundamental U.S. Small Company Index ETF,Schwab ETFs,3370000000,3370,Blend,Small,0.25,99.94,15.86,1.71,7.39,8.14,16.34,12.4,5.28,4.75,19.21,11.9,6.77,1.12,73.91,0.47,5.34
+VLUE,iShares Edge MSCI USA Value Factor ETF,iShares,3420000000,3420,Value,Large,0.15,99.64,9.94,1.5,4.35,2.36,10.64,13.36,13.62,5.72,9.53,22.14,8.11,1.07,90.75,0.62,6.86
+VONV,Vanguard Russell 1000 Value Index Fund ETF Shares,Vanguard,3420000000,3420,Value,Large,0.12,99.81,14.31,1.87,6.3,3.64,6.65,21.38,15.18,9.78,8.1,9.63,7.57,0.95,92.72,0.64,7.12
+IJPA,iShares Core MSCI Japan IMI ETF USD Acc,BlackRock Asset Management Ireland - ETF,3450000000,3450,Blend,Large,0.2,99.05,12.85,1.22,5.37,7.41,17.2,11.25,7.27,1.71,19.5,14.98,4.9,0.99,99.73,0.55,7.24
+IYR,iShares US Real Estate ETF,iShares,3570000000,3570,Blend,Medium,0.43,99.93,30.81,2.22,6.02,2.26,0,0,0,0,0.91,0,9.55,0.5,18.07,0.76,17.75
+VIS,Vanguard Industrials Index Fund ETF Shares,Vanguard,3610000000,3610,Blend,Large,0.1,99.77,15.88,3.48,5.62,1.71,1.88,0,0,0.11,92.43,3.29,8.85,1.13,72.48,0.6,7.15
+CSX5,iShares Core EURO STOXX 50 ETF EUR Acc,BlackRock Asset Management Ireland - ETF,3640000000,3640,Blend,Large,0.1,99.53,13.1,1.49,3.33,8.92,12.18,17.87,9.98,7.34,12.55,9.56,3.85,1.06,98.46,0.36,3.88
+ACWX,iShares MSCI ACWI ex U.S. ETF,iShares,3660000000,3660,Blend,Large,0.32,99.1,12.91,1.43,5.75,7.77,11.13,21.69,8.32,7.44,10.48,11.99,2.5,1,99.97,0.2,1.7
+IHI,iShares U.S. Medical Devices ETF,iShares,3660000000,3660,Growth,Large,0.43,99.74,24.77,3.76,12.21,0,0,0,100,0,0,0,19.3,0.99,58.08,1.25,18.68
+EFG,iShares MSCI EAFE Growth ETF,iShares,3710000000,3710,Growth,Large,0.4,99.26,17.79,2.52,11.64,7.2,12.79,7.13,14.55,2.13,17.47,13.14,3.7,0.93,90.52,0.3,3.06
+DON,WisdomTree U.S. MidCap Dividend Fund,WisdomTree,3730000000,3730,Value,Medium,0.38,100,15.3,1.85,6.71,7.42,24.62,10.62,1.82,7.42,13.7,6.19,9.58,0.94,81,0.78,9.34
+HEDJ,WisdomTree Europe Hedged Equity Fund,WisdomTree,3740000000,3740,Blend,Large,0.58,96.55,13.91,1.87,9.21,9.47,13.61,18.38,6.09,1.16,16,7.46,7.09,0.8,46.83,0.5,7.95
+GDXJ,VanEck Vectors Junior Gold Miners ETF,VanEck,3900000000,3900,Growth,Small,0.54,99.67,18.64,1.09,4.7,100,0,0,0,0,0,0,-1.2,0.38,1.05,0.14,-5.66
+IUES,iShares S&P 500 EUR Hedged ETF Acc,BlackRock Asset Management Ireland - ETF,3940000000,3940,Blend,Large,0.2,99.27,17.02,3.01,12.95,2.45,11.7,16.16,15.49,5.51,10.07,21.71,8.62,0,0,0.36,0
+MGK,Vanguard Mega Cap Growth Index Fund ETF Shares,Vanguard,4100000000,4100,Growth,Large,0.07,99.71,22.23,5.92,13.59,1.82,19.25,8.56,10.09,1.86,8.33,38.38,12.86,1.08,92.6,0.97,11.16
+IYW,iShares U.S. Technology ETF,iShares,4110000000,4110,Growth,Large,0.43,99.9,18.64,5.28,11.63,0.1,0.72,0,0,0,0.21,98.63,17.14,1.12,66.89,1.08,14.65
+XLB,Materials Select Sector SPDR Fund,SPDR State Street Global Advisors,4120000000,4120,Blend,Large,0.13,99.95,16.08,2.2,9.44,87.89,10.55,0,0,0,1.56,0,5.33,1.15,70.7,0.36,3.94
+FNDF,Schwab Fundamental International Large Company Index ETF,Schwab ETFs,4130000000,4130,Value,Large,0.25,99.62,11.26,1.13,4.97,9.64,13.36,18.45,6.79,9.81,12.46,7.11,1.76,0.99,94.74,0.15,1.07
+ACWV,iShares Edge MSCI Min Vol Global ETF,iShares,4160000000,4160,Blend,Large,0.2,99.81,18.12,2.28,10.27,2.47,8.48,15.77,12.45,1.26,12.76,6.11,9.28,0.55,62.73,1.01,15.35
+IDV,iShares International Select Dividend ETF,iShares,4240000000,4240,Value,Large,0.5,98.46,11.49,1.17,5.57,1.04,16.28,37.69,1.77,7.78,2.75,3.86,0.48,0.98,90.71,0.04,-0.32
+EUEA,iShares EURO STOXX 50 ETF EUR Dist,BlackRock Asset Management Ireland - ETF,4270000000,4270,Blend,Large,0.16,99.67,13.1,1.49,3.33,8.92,12.18,17.87,9.98,7.34,12.55,9.56,3.79,1.06,98.45,0.35,3.79
+VDE,Vanguard Energy Index Fund ETF Shares,Vanguard,4280000000,4280,Blend,Large,0.1,99.25,17.88,1.59,5.24,0.5,0,0,0,99.13,0.04,0.01,-4.33,1.24,44.11,-0.15,-4.12
+IMEU,iShares MSCI Europe ETF EUR Dist,BlackRock Asset Management Ireland - ETF,4300000000,4300,Blend,Large,0.12,99.23,13.24,1.62,4.18,7.5,10.45,19.01,14.26,8.07,11.65,5.53,4.69,1,99.99,0.47,4.81
+AAXJ,iShares MSCI All Country Asia ex Japan ETF,iShares,4430000000,4430,Blend,Large,0.69,99.56,11.84,1.38,5.41,5.01,12.82,23.75,2.7,4.22,6.8,25.38,5.73,1.06,75.35,0.4,4.64
+XBI,SPDR S&P Biotech ETF,SPDR State Street Global Advisors,4440000000,4440,Growth,Medium,0.35,99.95,17.26,3.78,8.84,0,0,0,100,0,0,0,14.31,1.75,38.73,0.57,7.72
+MCHI,iShares MSCI China ETF,iShares,4480000000,4480,Blend,Large,0.59,99.54,10.08,1.38,3.94,2.73,21.05,22.35,2.74,4.28,5.28,23.79,8.86,1.34,61.9,0.48,6.02
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,ProShares,4490000000,4490,Blend,Large,0.35,99.76,17.61,3.37,12.41,10.88,8.87,12.03,10.09,3.58,25.12,0,11.04,0.86,84.55,0.98,11.83
+SPYG,SPDR Portfolio S&P 500 Growth ETF,SPDR State Street Global Advisors,4530000000,4530,Growth,Large,0.04,99.82,21.74,4.75,13.4,1.9,14.62,8.71,17.33,3.59,11.68,28.58,13.2,1.03,93.86,1.04,12.06
+SPDW,SPDR Portfolio Developed World ex-US ETF,SPDR State Street Global Advisors,4700000000,4700,Blend,Large,0.04,99.56,13.28,1.37,6.2,8.04,11.04,19.11,10.05,6.44,13.53,9.81,2.67,0.96,97.83,0.21,1.9
+FNDX,Schwab Fundamental U.S. Large Company Index ETF,Schwab ETFs,4720000000,4720,Value,Large,0.25,99.87,14.08,2.23,7.11,2.82,11.6,14.22,11.69,10.25,11.55,16.53,8.66,0.97,95.13,0.73,8.12
+VPU,Vanguard Utilities Index Fund ETF Shares,Vanguard,4730000000,4730,Value,Large,0.1,99.92,19.28,2.06,8.56,0.53,0,0,0,0.45,0,0,11.02,0.24,4.32,0.83,43.25
+PGX,Invesco Preferred ETF,Invesco,4760000000,4760,Blend,Large,0.52,0.33,13.6,1.97,8.14,0,0,100,0,0,0,0,6.34,0.95,30.07,1.11,5.84
+OEF,iShares S&P 100 ETF,iShares,4770000000,4770,Blend,Large,0.2,99.61,16.82,3.06,13.71,0.9,12.42,17.07,15.57,5.49,7.58,25.16,10.95,1.01,97.9,1,10.19
+IEMM,iShares MSCI EM ETF USD Dist,BlackRock Asset Management Ireland - ETF,4800000000,4800,Blend,Large,0.75,98.71,10.5,1.43,4.73,7.73,11.26,24.45,2.84,7.96,4.96,23.87,1.27,1,99.99,0.12,0.67
+OEF,iShares S&P 100 ETF,iShares,4820000000,4820,Blend,Large,0.2,99.78,16.53,3.08,9.97,0.8,12.56,16.14,14.21,5.48,7.69,27.36,10.85,1,98.26,0.9,10.03
+IYR,iShares U.S. Real Estate ETF,iShares,4870000000,4870,Blend,Medium,0.43,99.54,33.55,2.34,7.93,2.08,0,0,0,0,0.89,0,9.22,0.67,29.91,0.66,12.54
+DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,Deutsche Asset Management,4890000000,4890,Blend,Large,0.35,48.65,13.53,1.42,6.77,7.78,11.5,18.86,11.36,5.97,13.21,7.77,6.45,0.72,63.96,0.57,8.02
+EWY,iShares MSCI South Korea Capped ETF,iShares,4900000000,4900,Value,Large,0.59,98.31,7.82,0.89,3.65,8.37,11.21,13.13,5.9,2.15,9.3,40.78,1.64,1.15,61.61,0.13,0.74
+ITA,iShares U.S. Aerospace & Defense ETF,iShares,5020000000,5020,Blend,Large,0.43,99.95,18.44,3.76,15.25,0,0,0,0,0,93.03,6.97,14.09,1.06,58.62,0.89,12.53
+INDA,iShares MSCI India ETF,iShares,5050000000,5050,Growth,Large,0.68,98.57,20.39,2.56,10.93,8.8,10.42,24.69,5.35,15.01,3.84,17.07,6.94,0.74,27.05,0.43,8.32
+IDWR,iShares MSCI World ETF USD Dist,BlackRock Asset Management Ireland - ETF,5190000000,5190,Blend,Large,0.5,99.55,15.36,2.19,7.78,4.45,11.66,17.87,13.49,6.09,10.98,16.63,6.35,1,99.99,0.61,5.89
+IUSV,iShares Core S&P U.S. Value ETF,iShares,5210000000,5210,Value,Large,0.04,99.72,13.62,2.06,6.34,3.4,9.2,21.42,10.7,7.34,10.63,16.31,7.85,0.98,91.48,0.65,7.18
+VDC,Vanguard Consumer Staples Index Fund ETF Shares,Vanguard,5250000000,5250,Value,Large,0.1,99.6,17.51,3.7,13.67,0.21,0.55,0,0,0,0.28,0.21,8.26,0.57,34.18,0.72,13.12
+SCHH,Schwab U.S. REIT ETF,Schwab ETFs,5320000000,5320,Blend,Medium,0.07,100,41.79,2.26,16.51,0,0,0,0,0,0,0,8.85,0.62,21.87,0.59,12.91
+VONG,Vanguard Russell 1000 Growth Index Fund ETF Shares,Vanguard,5340000000,5340,Growth,Large,0.12,99.68,21.23,6.04,13.91,1.61,17.45,9.05,13,0.74,12.92,36.11,13.34,1.06,94.27,1.02,11.8
+PRF,Invesco FTSE RAFI US 1000 ETF,Invesco,5400000000,5400,Value,Large,0.39,99.56,13.75,1.92,6.34,3.29,10.51,18.67,10.89,9.04,10.49,14.12,8.19,0.98,93.77,0.68,7.52
+FVD,First Trust Value Line Dividend Index Fund,First Trust,5490000000,5490,Value,Large,0.7,99.94,16.12,2.25,9.13,2.7,7.51,20.9,5.34,2.65,13.56,6.44,10.67,0.73,76.57,1.05,13.51
+IJT,iShares S&P Small-Cap 600 Growth ETF,iShares,5580000000,5580,Growth,Small,0.25,99.84,20.05,2.49,9.6,4.82,12.8,13.8,15.96,2.88,15.57,17.54,9.5,1.12,63.43,0.61,7.79
+GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund,Flexshares Trust,5620000000,5620,Blend,Large,0.46,99.35,13.49,1.42,6.34,48.57,0,0,0,29.89,0.78,0,1.64,1.07,54.64,0.13,0.81
+EEMV,iShares Edge MSCI Min Vol Emerging Markets ETF,iShares,5680000000,5680,Blend,Large,0.25,99.46,14.49,1.76,5.57,3.01,6.89,28.44,5.62,3.5,7.1,13.86,3.28,0.81,72.59,0.26,2.92
+SCHV,Schwab U.S. Large-Cap Value ETF,Schwab ETFs,5810000000,5810,Value,Large,0.04,99.9,13.95,2.18,6.2,3.41,5.9,19.15,13.66,9.53,9.63,12.38,8.69,0.94,94.83,0.75,8.4
+SCHE,Schwab Emerging Markets Equity ETF,Schwab ETFs,5820000000,5820,Blend,Large,0.13,99.61,11.73,1.54,4.57,8.32,11.43,26.27,2.33,9.04,4.9,19.71,3.92,1.1,76.44,0.28,2.88
+SCHM,Schwab U.S. Mid-Cap ETF,Schwab ETFs,5870000000,5870,Blend,Medium,0.04,99.96,17.08,2.23,8.74,4.77,16.14,12.71,9.24,3.17,15.81,18.9,9.05,1.08,85.98,0.67,7.6
+EFV,iShares MSCI EAFE Value ETF,iShares,5910000000,5910,Value,Large,0.38,98.71,10.74,0.98,4.55,8.41,10.19,31.13,7.99,9.95,8.76,2.18,0.48,0.99,91.22,0.04,-0.32
+IUSG,iShares Core S&P U.S. Growth ETF,iShares,5990000000,5990,Growth,Large,0.04,99.77,21.27,4.48,12.97,2.07,14.56,10.16,17.13,3.62,10.54,28.02,12.69,1.05,95.07,0.99,11.33
+IJS,iShares S&P Small-Cap 600 Value ETF,iShares,6160000000,6160,Value,Small,0.25,99.62,14.29,1.38,5.65,8.77,14.06,17.96,3.93,4.98,18.49,15.42,6.97,1.16,62.34,0.44,5.36
+FXI,iShares China Large-Cap ETF,iShares,6230000000,6230,Value,Large,0.74,99.78,8.74,1.17,3.23,2.53,4.51,46.27,0,9.89,4.04,11.92,7.08,1.27,57.12,0.4,4.9
+IJJ,iShares S&P Mid-Cap 400 Value ETF,iShares,6360000000,6360,Value,Medium,0.25,99.83,13.77,1.49,6.84,7.58,14.64,22.62,3.36,4.84,15.25,14.01,7.29,1.1,75.15,0.51,5.89
+VSS,Vanguard FTSE All-World ex-US Small-Cap Index Fund ETF Shares,Vanguard,6480000000,6480,Blend,Small,0.12,92.47,13.18,1.29,5.78,10.46,14.55,10.57,7.24,4.23,17.51,14.89,2.24,0.94,88.79,0.18,1.51
+EZU,iShares MSCI Eurozone ETF,iShares,6610000000,6610,Blend,Large,0.47,99.36,12.88,1.49,7.31,7.42,13.91,17.61,8.13,5.63,13.99,9.67,0.72,1.07,82.43,0.06,-0.08
+VNQI,Vanguard Global ex-U.S. Real Estate Index Fund ETF Shares,Vanguard,6640000000,6640,Blend,Large,0.12,96.31,12.54,0.98,7.21,0.01,0.23,0.2,0,0,0.09,0,6.15,0.87,63.3,0.48,6.1
+HDV,iShares Core High Dividend ETF,iShares,6670000000,6670,Value,Large,0.08,98.55,17.15,3.26,13.83,0.88,4.8,2.3,21.67,21.07,7.11,5.21,9.34,0.71,63.29,0.98,12.35
+VPL,Vanguard FTSE Pacific Index Fund ETF Shares,Vanguard,6970000000,6970,Blend,Large,0.09,97.3,12.67,1.15,5.31,8.66,13.96,16.55,7.3,2.11,15.94,14.96,4.93,0.9,83.76,0.39,4.51
+HDV,iShares Core High Dividend ETF,iShares,7010000000,7010,Value,Large,0.08,98.55,16.28,2.75,9.71,0.77,1.68,11.16,15.75,21.23,9.17,9.83,9.26,0.73,69.72,0.88,11.62
+EXW1,iShares EURO STOXX 50 (DE),BlackRock Asset Management (DEU) AG,7080000000,7080,Blend,Large,0.16,99.72,13.1,1.49,3.33,8.92,12.18,17.87,9.98,7.34,12.55,9.56,4,1.06,98.44,0.36,3.96
+SCHG,Schwab U.S. Large-Cap Growth ETF,Schwab ETFs,7140000000,7140,Growth,Large,0.04,99.92,20.71,3.94,12.6,1.85,17.13,11.94,14.41,1.82,11.01,31.68,12.8,1.07,94.58,0.98,11.23
+STX40,Satrix 40 ETF,Satrix Managers (Pty) Limited,7270000000,7270,Growth,Large,0.1,97.68,13.96,2.25,6.94,21.2,14.58,20.06,2.76,4.92,1.06,22.11,5.12,1.06,97.55,-0.1,-1.82
+VFH,Vanguard Financials Index Fund ETF Shares,Vanguard,7420000000,7420,Value,Large,0.1,99.77,11.25,1.3,5.07,0,0,98.07,0,0,0.07,0,9.35,0.98,54.76,0.63,8.68
+IJK,iShares S&P Mid-Cap 400 Growth ETF,iShares,7490000000,7490,Growth,Medium,0.25,99.84,20.79,2.8,11.59,4.55,13.9,9.7,14.16,4.06,15.81,19.76,8.6,1.05,80.45,0.64,7.41
+SCHA,Schwab U.S. Small-Cap ETF,Schwab ETFs,7920000000,7920,Blend,Small,0.04,99.87,16.79,1.88,7.56,5.43,13.17,15.3,12.5,3.63,13.89,17.89,6.96,1.18,73.64,0.46,5.2
+IBB,iShares Nasdaq Biotechnology ETF,iShares,8070000000,8070,Growth,Medium,0.47,99.89,14.08,4.03,13.05,0.02,0,0,99.98,0,0,0,7.43,1.43,47.63,0.4,4.65
+FDN,First Trust Dow Jones Internet Index Fund,First Trust,8400000000,8400,Growth,Large,0.53,99.8,27.34,4.96,15.21,0,24.82,10.51,0,0,0,61.48,18.66,1.21,63.27,1.05,14.69
+MTUM,iShares Edge MSCI USA Momentum Factor ETF,iShares,8560000000,8560,Blend,Large,0.15,99.77,19.75,3.96,12.64,0.81,10.12,10.53,32.21,0,3.49,14.37,14.63,0.93,80.34,1.17,14.84
+EWZ,iShares MSCI Brazil Capped ETF,iShares,8590000000,8590,Blend,Large,0.59,99.39,11.99,1.93,3.87,15.7,7.95,36.09,0.73,13.75,4.8,0.93,0.75,1.54,29.1,0.16,-0.02
+SCHD,Schwab U.S. Dividend Equity ETF,Schwab ETFs,9030000000,9030,Value,Large,0.06,99.96,14.4,3.79,9.88,0.85,10.46,9.35,10.13,6.74,17.59,16.56,10.37,0.9,90.12,0.91,10.67
+IWN,iShares Russell 2000 Value ETF,iShares,9110000000,9110,Value,Small,0.24,99.68,14.35,1.3,5.72,4.68,9.92,25.93,3.9,4.49,12.45,11.97,5.52,1.1,60.16,0.37,4.29
+IWO,iShares Russell 2000 Growth ETF,iShares,9170000000,9170,Growth,Small,0.24,99.86,19.62,3.26,9.88,5.54,15.27,6.92,24.36,1.77,15.14,22.1,8.53,1.28,70.06,0.52,6.05
+AMLP,Alerian MLP ETF,ALPS,9220000000,9220,Value,Medium,0.85,99.89,13.76,1.73,5.32,0,0,0,0,100,0,0,-3.51,1.25,56.23,-0.14,-3.42
+XLU,Utilities Select Sector SPDR Fund,SPDR State Street Global Advisors,9390000000,9390,Value,Large,0.13,99.85,18.83,2.06,8.53,0,0,0,0,0,0,0,10.72,0.19,2.82,0.8,51.31
+SCZ,iShares MSCI EAFE Small-Cap ETF,iShares,9480000000,9480,Blend,Medium,0.39,98.63,14.58,1.38,6.99,8.89,13.78,11.61,7.51,2.08,20.56,12.28,4.48,0.95,85.87,0.35,3.87
+IWV,iShares Russell 3000 ETF,iShares,9680000000,9680,Blend,Large,0.2,99.71,16.92,2.75,8.47,2.81,12.16,15.19,14.13,5.01,10.79,22.62,10.19,1.02,98.94,0.83,9.18
+ACWI,iShares MSCI ACWI ETF,iShares,10140000000,10140,Blend,Large,0.32,99.42,14.92,1.99,7.03,4.91,11.54,18.02,11.53,6.24,10.06,18.52,6.75,0.87,89.86,0.57,6.8
+SPLV,Invesco S&P 500 Low Volatility ETF,Invesco,10150000000,10150,Value,Large,0.25,99.92,20.83,2.53,11.73,2.2,4.87,19.01,5.7,0.93,8.21,3.87,11.56,0.7,65.98,1.11,15.5
+IWP,iShares Russell Mid-Cap Growth ETF,iShares,10210000000,10210,Growth,Medium,0.25,99.85,21.59,4.85,14.59,2.91,17.67,7.25,13.63,1.46,18.46,30.91,10.68,1.12,88.84,0.77,8.84
+XLI,Industrial Select Sector SPDR Fund,SPDR State Street Global Advisors,10240000000,10240,Blend,Large,0.13,99.92,16.08,4.11,5.13,0.52,0.84,0,0,0,96.69,1.95,9.69,1.1,72.09,0.66,8.06
+QUAL,iShares Edge MSCI USA Quality Factor ETF,iShares,10280000000,10280,Growth,Large,0.15,99.54,18.32,4.97,11.68,2.55,12.85,20.4,14.36,5.36,10.53,20.89,11.43,0.96,95.78,0.97,11.07
+GDX,VanEck Vectors Gold Miners ETF,VanEck,10290000000,10290,Growth,Medium,0.53,99.92,25.86,1.41,7.92,100,0,0,0,0,0,0,-0.39,0.35,1.06,0.15,-3.42
+VHT,Vanguard Health Care Index Fund ETF Shares,Vanguard,10710000000,10710,Blend,Large,0.1,99.61,16.47,3.78,13.1,0,0,0.03,98.4,0,0.07,1.5,11.59,0.96,59.92,0.82,11.28
+XLP,Consumer Staples Select Sector SPDR Fund,SPDR State Street Global Advisors,10820000000,10820,Value,Large,0.13,99.85,17.08,3.92,14.3,0,0,0,0,0,0,0,8.28,0.55,30.29,0.7,13.5
+EFAV,iShares Edge MSCI Min Vol EAFE ETF,iShares,11130000000,11130,Blend,Large,0.2,97.21,16.6,1.69,9.7,2.09,9.52,16.53,12.73,0.94,13.61,1.11,5.99,0.68,77.86,0.59,7.64
+IWS,iShares Russell Mid-Cap Value ETF,iShares,11230000000,11230,Value,Medium,0.25,99.65,15.46,1.73,6.73,5.07,11.68,16.19,6.82,6.26,13.06,8.33,7.02,0.99,84.88,0.56,6.28
+XLY,Consumer Discretionary Select Sector SPDR Fund,SPDR State Street Global Advisors,12690000000,12690,Growth,Large,0.13,99.81,20.17,5.57,10.85,0,94.76,0,0,0,0,0.48,13.57,1.06,76.75,0.96,12.07
+VOT,Vanguard Mid-Cap Growth Index Fund ETF Shares,Vanguard,13110000000,13110,Growth,Medium,0.07,99.53,24.95,3.5,14.98,2.81,10.12,6.84,13.82,6.33,20.42,25.83,9.95,1.09,87.24,0.73,8.39
+EWJ,iShares MSCI Japan ETF,iShares,13600000000,13600,Blend,Large,0.47,98.8,12.81,1.13,5.04,6.7,16.51,10.86,8.28,1.76,19.13,15.17,5.37,0.87,72.75,0.41,5.08
+IXUS,iShares Core MSCI Total International Stock ETF,iShares,13730000000,13730,Blend,Large,0.1,98.95,13,1.42,5.96,8.25,11.44,20.26,8.26,6.83,11.72,12,2.78,1,99.81,0.22,2.01
+PFF,iShares Preferred and Income Securities ETF,iShares,14300000000,14300,Value,Medium,0.46,3.02,16.6,1.33,7.52,4.54,0,9.01,0,0,19.8,0,4.57,0.78,23.59,0.81,4.75
+SCHB,Schwab U.S. Broad Market ETF,Schwab ETFs,14360000000,14360,Blend,Large,0.03,99.91,16.96,2.75,8.48,2.83,12.22,15.18,13.92,5.11,10.73,22.55,10.33,1.02,99.02,0.84,9.31
+IVE,iShares S&P 500 Value ETF,iShares,15230000000,15230,Value,Large,0.18,99.72,13.61,2.12,6.31,3.09,8.79,21.35,11.24,7.52,10.28,16.47,7.87,0.96,91.51,0.66,7.35
+SCHX,Schwab U.S. Large-Cap ETF,Schwab ETFs,15520000000,15520,Blend,Large,0.03,99.92,16.98,2.89,8.58,2.55,12.11,15.16,14.08,5.27,10.39,23.05,10.73,1,99.86,0.89,9.87
+RSP,Invesco S&P 500 Equal Weight ETF,Invesco,15560000000,15560,Blend,Large,0.2,99.6,15.69,2.39,7.49,4.15,14.9,14.17,12.28,6.01,15.18,12.97,9.16,1.03,94.82,0.74,8.15
+DVY,iShares Select Dividend ETF,iShares,17100000000,17100,Value,Large,0.39,99.5,12.96,1.82,6.29,3.83,17.91,14.9,1.99,9.08,3.82,8.1,9.52,0.71,70.95,0.93,12.32
+SCHF,Schwab International Equity ETF,Schwab ETFs,17110000000,17110,Blend,Large,0.06,99.61,13.2,1.39,6.32,7.88,10.98,20.21,10.07,6.87,13.28,9.06,2.49,0.97,97.73,0.2,1.77
+VT,Vanguard Total World Stock Index Fund ETF Shares,Vanguard,17570000000,17570,Blend,Large,0.09,98.76,15,1.93,7.21,5.34,11.89,17.19,11.39,5.98,11.17,17.99,6.62,0.86,87.91,0.57,6.81
+VOE,Vanguard Mid-Cap Value Index Fund ETF Shares,Vanguard,18250000000,18250,Value,Medium,0.07,98.95,13.68,1.76,6.51,4.89,20.08,18.7,6.17,3.69,8.62,10.96,7.7,1.01,89.01,0.61,6.82
+SDY,SPDR S&P Dividend ETF,SPDR State Street Global Advisors,18350000000,18350,Value,Large,0.35,99.85,16.99,2.7,8.55,7.49,11.77,15.38,5.9,4.42,18.44,3.53,10.9,0.84,80.77,0.97,12.01
+IWR,iShares Russell Mid-Cap ETF,iShares,18590000000,18590,Blend,Medium,0.2,99.8,17.56,2.36,8.68,4.15,14.22,12.41,9.7,4.23,15.34,17.89,8.65,1.05,90.49,0.67,7.49
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,iShares,18730000000,18730,Blend,Large,0.03,99.72,16.94,2.74,8.46,2.83,12.2,15.22,14,5.1,10.73,22.5,10.54,1.02,99.23,0.86,9.53
+VGK,Vanguard FTSE Europe Index Fund ETF Shares,Vanguard,19040000000,19040,Blend,Large,0.09,97.64,13.56,1.55,7.64,7.85,10.75,18.39,12.7,7.76,12.89,6.11,1.34,0.97,88.06,0.1,0.56
+IWB,iShares Russell 1000 ETF,iShares,19310000000,19310,Blend,Large,0.15,99.82,16.95,2.85,8.55,2.66,12.11,15.13,14.07,5.2,10.54,23.02,10.52,1.01,99.73,0.87,9.61
+XLV,Health Care Select Sector SPDR Fund,SPDR State Street Global Advisors,19560000000,19560,Blend,Large,0.13,99.85,15.98,3.85,13.32,0,0,0,99.46,0,0,0.54,11.09,0.9,59.37,0.82,11.46
+MDY,SPDR S&P MidCap 400 ETF,SPDR State Street Global Advisors,19580000000,19580,Blend,Medium,0.24,100,16.42,1.92,8.5,5.81,14.29,16.02,8.94,4.45,15.56,17.01,8,1.07,80.97,0.58,6.7
+DIA,SPDR Dow Jones Industrial Average ETF,SPDR State Street Global Advisors,20870000000,20870,Blend,Large,0.17,99.7,15.77,3.24,11.56,1.39,15.09,18.2,13.41,5.33,22.32,14.56,12.05,0.98,92.46,0.99,11.48
+VGT,Vanguard Information Technology Index Fund ETF Shares,Vanguard,21570000000,21570,Growth,Large,0.1,99.52,19.76,5.6,12.87,0.09,0.11,10.41,0,0,5.75,83.54,18.5,1.11,67.92,1.17,16
+VV,Vanguard Large-Cap Index Fund ETF Shares,Vanguard,21690000000,21690,Blend,Large,0.04,99.16,17.18,2.95,8.84,2.41,12.11,15.23,14.32,5.33,10.21,23.19,10.74,1,99.93,0.9,9.91
+XLF,Financial Select Sector SPDR Fund,SPDR State Street Global Advisors,22130000000,22130,Value,Large,0.13,99.88,11.51,1.31,5.21,0,0,86.97,0,0,13.03,0,4.59,1,54.5,0.61,8.44
+IVW,iShares S&P 500 Growth ETF,iShares,22560000000,22560,Growth,Large,0.18,99.73,21.31,4.68,13.08,1.9,14.61,10.19,17.34,3.59,10.17,28.6,13.14,1.03,93.89,1.04,12
+VBK,Vanguard Small-Cap Growth Index Fund ETF Shares,Vanguard,24020000000,24020,Growth,Medium,0.07,97.97,24.13,2.84,8.24,3.69,11.61,5.33,19.14,3.19,13.9,26.49,8.71,1.18,75.21,0.58,6.74
+USMV,iShares Edge MSCI Min Vol USA ETF,iShares,24930000000,24930,Blend,Large,0.15,99.37,18.94,3.09,10.96,2.36,9.79,13.27,14.74,1.94,13.15,9.66,12.53,0.72,78.69,1.26,16.32
+CNKY,iShares Nikkei 225 ETF JPY Acc,BlackRock Asset Management Ireland - ETF,26540000000,26540,Growth,Large,0.48,99.24,15.87,1.7,9.21,9.91,23.77,2.66,11.78,0.76,17.19,15.35,8.37,1.03,94.15,0.6,8.3
+VBR,Vanguard Small-Cap Value Index Fund ETF Shares,Vanguard,29800000000,29800,Value,Medium,0.07,98.75,13.42,1.53,6.5,6.95,13.31,20.85,4.87,4.17,17.21,9.9,7.19,1.11,75.06,0.5,5.72
+VYM,Vanguard High Dividend Yield Index Fund ETF Shares,Vanguard,31400000000,31400,Value,Large,0.06,99.89,13.73,2.25,6.6,3.69,6.24,17.5,14.34,9.58,8.17,11.16,9.64,0.88,91.57,0.87,10.03
+EEM,iShares MSCI Emerging Markets ETF,iShares,34710000000,34710,Blend,Large,0.67,99.39,11.12,1.43,4.47,7.58,11.6,24.12,2.52,7.88,4.96,24.36,3.06,1.13,79.21,0.22,2.03
+VEU,Vanguard FTSE All-World ex-US Index Fund ETF Shares,Vanguard,37520000000,37520,Blend,Large,0.09,97.83,12.93,1.42,5.83,8.23,11.14,20.82,8.46,7.35,11.38,11.56,2.86,0.96,98.25,0.23,2.14
+IWD,iShares Russell 1000 Value ETF,iShares,37860000000,37860,Value,Large,0.2,99.74,14.38,1.88,6.27,3.69,6.65,21.37,15.17,9.77,8.1,9.62,7.53,0.95,92.69,0.64,7.07
+VIG,Vanguard Dividend Appreciation Index Fund ETF Shares,Vanguard,40940000000,40940,Blend,Large,0.08,99.29,19.31,4.1,13.37,4.34,10.81,11.45,13.19,0,24.54,10.59,10.12,0.91,91.38,0.89,10.25
+IWF,iShares Russell 1000 Growth ETF,iShares,42730000000,42730,Growth,Large,0.2,99.8,20.63,6,13.53,1.66,17.44,9.04,12.99,0.75,12.91,36.1,13.31,1.06,94.28,1.02,11.74
+IJR,iShares Core S&P Small-Cap ETF,iShares,43240000000,43240,Blend,Small,0.07,99.79,16.7,1.78,7.15,6.78,13.46,15.77,10.03,3.95,17.08,16.48,8.44,1.14,64.25,0.54,6.72
+IWM,iShares Russell 2000 ETF,iShares,43270000000,43270,Growth,Small,0.19,99.94,16.55,1.88,7.22,5.12,12.72,15.97,14.62,3.06,13.87,17.28,7.1,1.19,67.66,0.46,5.29
+IWM,iShares Russell 2000 ETF,iShares,45630000000,45630,Blend,Small,0.2,99.83,15.96,1.96,8.01,4.99,13.11,17.21,14.26,3.32,14.34,15.79,7.57,1.12,61.3,0.53,6.15
+IJH,iShares Core S&P Mid-Cap ETF,iShares,48400000000,48400,Blend,Medium,0.07,99.83,16.66,1.95,8.65,6.04,14.32,16.01,8.96,4.46,15.59,16.66,8.21,1.07,80.9,0.6,6.89
+EEM,iShares Core MSCI Emerging Markets ETF,iShares,49950000000,49950,Blend,Large,0.14,98.91,10.53,1.4,4.74,8.16,11.8,22.96,3.52,7.25,5.81,23.13,1.88,1.12,78.35,0.16,1.1
+IEMG,iShares Core MSCI Emerging Markets ETF,iShares,59290000000,59290,Blend,Large,0.14,98.91,11.08,1.4,4.5,7.98,12.02,22.73,3.15,7.17,5.77,23.7,3.49,1.11,79.28,0.25,2.44
+IEFA,iShares Core MSCI EAFE ETF,iShares,60230000000,60230,Blend,Large,0.08,97.55,13.63,1.41,6.87,7.96,11.9,17.81,10.82,5.42,14.28,8.38,2.75,0.96,95.79,0.22,2.06
+EFA,iShares MSCI EAFE ETF,iShares,63550000000,63550,Blend,Large,0.31,98.86,13.48,1.42,6.84,7.8,11.52,18.89,11.34,5.97,13.19,7.78,2.26,0.96,95.84,0.18,1.51
+VNQ,Vanguard Real Estate Index Fund ETF Shares,Vanguard,63760000000,63760,Blend,Medium,0.12,98.75,37.29,2.49,10.23,2.07,0,0,0,0,0.9,0,8.79,0.63,22.78,0.59,12.64
+VXF,Vanguard Extended Market Index Fund ETF Shares,Vanguard,68070000000,68070,Growth,Medium,0.07,96.8,17.5,1.99,7.42,4.65,13.6,14.36,11.64,3.49,13.15,20.41,7.87,1.14,79.09,0.55,6.21
+QQQ,Invesco QQQ Trust,Invesco,70300000000,70300,Growth,Large,0.2,100,20.08,5.17,12.42,0,18.9,1.82,8.12,0,4.09,56.17,16.58,1.15,82.19,1.1,13.69
+VTV,Vanguard Value Index Fund ETF Shares,Vanguard,77250000000,77250,Value,Large,0.04,99.55,13.63,2.05,6.43,2.78,6.03,22.28,17.91,8.27,10.22,9.17,9.36,0.93,93.58,0.81,9.18
+VUG,Vanguard Growth Index Fund ETF Shares,Vanguard,85780000000,85780,Growth,Large,0.04,99.48,22.95,5.33,13.8,2.05,17.96,8.43,10.85,2.49,10.2,36.74,12.28,1.08,93.39,0.93,10.65
+VWO,Vanguard FTSE Emerging Markets Index Fund ETF Shares,Vanguard,86960000000,86960,Blend,Large,0.12,96.37,11.89,1.54,4.61,8.19,11.65,24.59,2.98,8.02,5.96,20.04,3.64,1.08,74.78,0.26,2.59
+VB,Vanguard Small-Cap Index Fund ETF Shares,Vanguard,90080000000,90080,Blend,Medium,0.05,97.53,16.76,1.95,7.36,5.4,12.5,13.5,11.65,3.71,15.65,17.78,7.89,1.14,77.72,0.54,6.22
+VO,Vanguard Mid-Cap Index Fund ETF Shares,Vanguard,1.0128E+11,101280,Growth,Medium,0.04,98.71,17.83,2.35,9.21,3.82,14.96,12.48,10.13,5.07,14.76,18.69,8.85,1.05,91.22,0.69,7.66
+VEA,Vanguard FTSE Developed Markets Index Fund ETF Shares,Vanguard,1.1078E+11,110780,Blend,Large,0.05,97.35,13.29,1.38,6.24,8.46,11.18,19.5,9.77,6.65,13.7,9.32,2.76,0.94,96.12,0.22,2.05
+IVV,iShares Core S&P 500 ETF,iShares,1.695E+11,169500,Blend,Large,0.04,99.75,16.81,2.95,8.66,2.46,11.88,15.4,14.49,5.43,10.23,22.95,10.86,1,100,0.91,10.06
+SPY,SPDR S&P 500 ETF,SPDR State Street Global Advisors,2.6406E+11,264060,Blend,Large,0.09,99.54,17.05,2.97,8.8,2.46,11.9,13.75,14.49,5.43,11.88,22.93,10.78,1,100,0.9,10.02
+VXUS,Vanguard Total International Stock Index Fund ETF Shares,Vanguard,3.6986E+11,369860,Blend,Large,0.09,96.39,12.96,1.41,5.86,8.4,11.43,20.2,8.35,7.01,12.05,11.74,2.76,0.96,98.24,0.22,2.05
+VOO,Vanguard S&P 500 ETF,Vanguard,4.5965E+11,459650,Blend,Large,0.03,99.46,17.05,2.97,8.8,2.4,11.9,15.39,14.51,5.43,10.23,22.95,10.86,1,100,0.91,10.07
+VTI,Vanguard Total Stock Market Index Fund ETF Shares,Vanguard,7.7272E+11,772720,Blend,Large,0.03,99.08,17.08,2.75,8.59,2.78,12.13,15.12,14.14,5.1,10.86,22.39,10.34,1.02,98.89,0.85,9.33
